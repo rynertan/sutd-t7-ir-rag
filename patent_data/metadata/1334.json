@@ -1,0 +1,10 @@
+{
+  "patent_number": 1334,
+  "date": 19790404,
+  "ucid": "EP-0001334-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G04C   3/00        20060101CFI20051220RMJP', 'G04C   3/14        20060101AFI20051220RMJP', 'G04C  13/00        20060101C I20051008RMEP', 'G04C  13/11        20060101A I20051008RMEP', 'H02K  21/14        20060101C I20051008RMEP', 'H02K  21/18        20060101A I20051008RMEP', 'H02K  37/12        20060101C I20051008RMEP', 'H02K  37/16        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 98151,
+  "date": 19860115,
+  "ucid": "EP-0098151-B1",
+  "classifications": {
+    "main": "B41M   5/26",
+    "further": NaN,
+    "ipcr": "['C09B  11/28        20060101ALI20051220RMJP', 'B41M   5/30        20060101A N20051008RMEP', 'B41M   5/323       20060101AFI20051220RMJP', 'B41M   5/327       20060101A I20051008RMEP', 'C09B  11/00        20060101CLI20051220RMJP', 'C09B  11/00        20060101ALI20051220RMJP', 'B41M   5/30        20060101C I20051008RMEP']"
+  }
+}

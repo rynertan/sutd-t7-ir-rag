@@ -1,0 +1,10 @@
+{
+  "patent_number": 61320,
+  "date": 19850904,
+  "ucid": "EP-0061320-B1",
+  "classifications": {
+    "main": "F16J   3/04",
+    "further": "F16D   3/84",
+    "ipcr": "['F16J   3/00        20060101C I20051008RMEP', 'F16D   3/00        20060101C I20051008RMEP', 'F16D   3/84        20060101A I20051008RMEP', 'F16J   3/04        20060101A I20051008RMEP', 'F16D   3/16        20060101CLI20051220RMJP', 'F16D   3/16        20060101ALI20051220RMJP']"
+  }
+}

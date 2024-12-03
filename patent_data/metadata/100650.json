@@ -1,0 +1,10 @@
+{
+  "patent_number": 100650,
+  "date": 19860326,
+  "ucid": "EP-0100650-B1",
+  "classifications": {
+    "main": "G08B   3/00",
+    "further": "G08B  23/00",
+    "ipcr": "['B06B   1/02        20060101C I20051008RMEP', 'G08B   3/10        20060101A I20051008RMEP', 'B06B   1/02        20060101A I20051008RMEP', 'G08B   3/00        20060101C I20051008RMEP']"
+  }
+}

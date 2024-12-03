@@ -1,0 +1,10 @@
+{
+  "patent_number": 99617,
+  "date": 19840201,
+  "ucid": "EP-0099617-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C21D   8/12        20060101A I20051008RMEP', 'C21D   8/12        20060101C I20051008RMEP', 'C22C  38/00        20060101AFI20051220RMJP', 'C22C  38/00        20060101CFI20051220RMJP', 'H01F   1/032       20060101CLI20060101RMRO', 'H01F   1/04        20060101ALI20060101RMRO', 'H01F   1/12        20060101CLI20051220RMJP', 'H01F   1/16        20060101ALI20051220RMJP']"
+  }
+}

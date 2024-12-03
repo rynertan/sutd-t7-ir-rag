@@ -1,0 +1,10 @@
+{
+  "patent_number": 172638,
+  "date": 19920422,
+  "ucid": "EP-0172638-B1",
+  "classifications": {
+    "main": "A61J   7/00",
+    "further": "G04G  15/00",
+    "ipcr": "['G04F   3/00        20060101CLI20051220RMJP', 'A61J   7/00        20060101C I20051008RMEP', 'B65D  25/20        20060101CLI20051220RMJP', 'B65D  25/20        20060101ALI20051220RMJP', 'G04F   3/00        20060101ALI20051220RMJP', 'A61J   7/04        20060101A I20051008RMEP']"
+  }
+}

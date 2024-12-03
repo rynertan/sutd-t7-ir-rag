@@ -1,0 +1,10 @@
+{
+  "patent_number": 45654,
+  "date": 19820210,
+  "ucid": "EP-0045654-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J  23/16        20060101C I20051008RMEP', 'B01J  23/34        20060101A I20051008RMEP', 'C07B  61/00        20060101ALI20051220RMJP', 'C07B  61/00        20060101CLI20051220RMJP', 'C07D 277/00        20060101C I20051008RMEP', 'C07D 277/20        20060101AFI20051220RMJP', 'C07D 277/56        20060101A I20051008RMEP']"
+  }
+}

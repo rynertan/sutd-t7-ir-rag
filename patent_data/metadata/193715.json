@@ -1,0 +1,10 @@
+{
+  "patent_number": 193715,
+  "date": 19891011,
+  "ucid": "EP-0193715-B1",
+  "classifications": {
+    "main": "B01J   3/06",
+    "further": "B21C   3/02",
+    "ipcr": "['G01N  23/04        20060101AFI20051220RMJP', 'B01J   3/06        20060101C I20051008RMEP', 'G01N  23/18        20060101A I20051008RMEP', 'B01J   3/06        20060101A I20051008RMEP', 'G01N  23/02        20060101C I20051008RMEP']"
+  }
+}

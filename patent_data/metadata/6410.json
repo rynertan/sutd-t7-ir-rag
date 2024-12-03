@@ -1,0 +1,10 @@
+{
+  "patent_number": 6410,
+  "date": 19800109,
+  "ucid": "EP-0006410-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B07C   5/00        20060101C I20051008RMEP', 'B07C   5/18        20060101A I20051008RMEP', 'G01G  17/00        20060101CLI20051220RMJP', 'G01G  17/08        20060101ALI20051220RMJP', 'G01G  19/02        20060101C I20051008RMEP', 'G01G  19/06        20060101A I20051008RMEP', 'G01G  23/00        20060101CFI20051220RMJP', 'G01G  23/14        20060101AFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 61096,
+  "date": 19820929,
+  "ucid": "EP-0061096-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/30        20060101A I20051008RMEP', 'G06F   9/30        20060101C I20051008RMEP', 'G06F   9/38        20060101A I20051008RMEP', 'G06F   9/38        20060101C I20051008RMEP', 'G06F  15/76        20060101C I20051008RMEP', 'G06F  15/78        20060101A I20051008RMEP', 'G06F  17/16        20060101ALI20051220RMJP', 'G06F  17/16        20060101CLI20051220RMJP']"
+  }
+}

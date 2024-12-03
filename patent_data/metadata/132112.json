@@ -1,0 +1,10 @@
+{
+  "patent_number": 132112,
+  "date": 19851002,
+  "ucid": "EP-0132112-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F22B  37/00        20060101C I20051008RMEP', 'F22B  37/48        20060101A I20051008RMEP', 'F22B  37/52        20060101ALI20051220RMJP', 'F22B  37/54        20060101AFI20051220RMJP', 'F28G   1/00        20060101CLI20051220RMJP', 'F28G   1/16        20060101ALI20051220RMJP', 'F28G   9/00        20060101ALI20051220RMJP', 'F28G   9/00        20060101CLI20051220RMJP']"
+  }
+}

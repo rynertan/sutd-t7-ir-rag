@@ -1,0 +1,10 @@
+{
+  "patent_number": 22228,
+  "date": 19840411,
+  "ucid": "EP-0022228-B1",
+  "classifications": {
+    "main": "F23G   5/08",
+    "further": NaN,
+    "ipcr": "['F23G   5/44        20060101ALI20060310RMJP', 'F23G   5/32        20060101ALI20060310RMJP', 'F23G   5/44        20060101CLI20060310RMJP', 'F23J   3/04        20060101AFI20060310RMJP', 'F23G   5/16        20060101A I20051008RMEP', 'F23J   3/00        20060101CFI20060310RMJP', 'F23G   5/32        20060101CLI20060310RMJP', 'F23G   5/16        20060101C I20051008RMEP']"
+  }
+}

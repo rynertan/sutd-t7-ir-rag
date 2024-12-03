@@ -1,0 +1,10 @@
+{
+  "patent_number": 2106,
+  "date": 19790530,
+  "ucid": "EP-0002106-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60P   1/00        20060101C I20051008RMEP', 'B60P   1/36        20060101C I20051008RMEP', 'B60P   1/38        20060101A I20051008RMEP', 'B60P   1/52        20060101A I20051008RMEP', 'B65G   1/06        20060101A I20051008RMEP', 'B65G   1/06        20060101C I20051008RMEP', 'B65G   7/00        20060101C I20051008RMEP', 'B65G   7/02        20060101A I20051008RMEP']"
+  }
+}

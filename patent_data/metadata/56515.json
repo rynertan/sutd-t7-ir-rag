@@ -1,0 +1,10 @@
+{
+  "patent_number": 56515,
+  "date": 19880803,
+  "ucid": "EP-0056515-B1",
+  "classifications": {
+    "main": "G01G  11/00",
+    "further": "G01G  23/01",
+    "ipcr": "['G01G  23/00        20060101C I20051008RMEP', 'G01G  23/01        20060101A I20051008RMEP']"
+  }
+}

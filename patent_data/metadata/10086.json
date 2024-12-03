@@ -1,0 +1,10 @@
+{
+  "patent_number": 10086,
+  "date": 19800430,
+  "ucid": "EP-0010086-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['E04B   2/82        20060101A I20051008RMEP', 'E04B   2/82        20060101C I20051008RMEP', 'E06B   1/12        20060101C I20051008RMEP', 'E06B   1/18        20060101A I20051008RMEP', 'E06B   3/04        20060101C I20051008RMEP', 'E06B   3/08        20060101A I20051008RMEP', 'E06B   3/64        20060101A I20051008RMEP', 'E06B   3/64        20060101C I20051008RMEP']"
+  }
+}

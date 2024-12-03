@@ -1,0 +1,10 @@
+{
+  "patent_number": 200123,
+  "date": 19890607,
+  "ucid": "EP-0200123-B1",
+  "classifications": {
+    "main": "D03C   1/14",
+    "further": NaN,
+    "ipcr": "['D03C   1/06        20060101AFI20051220RMJP', 'D03C   1/14        20060101A I20051110RMEP', 'D03C   1/00        20060101C I20051110RMEP']"
+  }
+}

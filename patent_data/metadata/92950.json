@@ -1,0 +1,10 @@
+{
+  "patent_number": 92950,
+  "date": 19860723,
+  "ucid": "EP-0092950-B1",
+  "classifications": {
+    "main": "B60K  41/02",
+    "further": NaN,
+    "ipcr": "['F16H  61/00        20060101CLI20051220RMJP', 'F16H  63/00        20060101CLI20051220RMJP', 'F16H  61/00        20060101ALI20051220RMJP', 'F16D  48/06        20060101A I20051008RMEP', 'F16D  48/02        20060101A I20060521RMGB', 'F16D  48/00        20060101C I20051008RMEP', 'F16H  63/46        20060101ALI20051220RMJP']"
+  }
+}

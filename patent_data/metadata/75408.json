@@ -1,0 +1,10 @@
+{
+  "patent_number": 75408,
+  "date": 19870225,
+  "ucid": "EP-0075408-B1",
+  "classifications": {
+    "main": "F16H   3/08",
+    "further": NaN,
+    "ipcr": "['F16H   3/08        20060101C I20051008RMEP', 'F16H   3/00        20060101C N20051008RMEP', 'F16H   3/08        20060101AFI20051220RMJP', 'F16H   3/093       20060101A I20051008RMEP', 'B60K  17/08        20060101ALI19851030BMSU', 'B60K  17/06        20060101CFI19851030BMSU', 'F16H   3/00        20060101A N20051008RMEP']"
+  }
+}

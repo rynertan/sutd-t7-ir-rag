@@ -1,0 +1,10 @@
+{
+  "patent_number": 70517,
+  "date": 19861029,
+  "ucid": "EP-0070517-B1",
+  "classifications": {
+    "main": "A61K   7/32",
+    "further": NaN,
+    "ipcr": "['A61K               20060101S I20051110RMEP', 'A61Q  15/00        20060101C I20080531RMEP', 'A61K   8/30        20060101C I20080531RMEP', 'A61K   8/41        20060101A I20080531RMEP', 'A61K   8/19        20060101C I20080531RMEP', 'A61Q  15/00        20060101A I20080531RMEP', 'A61K   8/26        20060101A I20080531RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 195685,
+  "date": 19880406,
+  "ucid": "EP-0195685-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01J   3/12        20060101A N20051008RMEP', 'G01J   3/12        20060101C N20051008RMEP', 'G01N  21/00        20060101AFI20051220RMJP', 'G01N  21/00        20060101CFI20051220RMJP', 'G01N  21/17        20060101A I20051008RMEP', 'G01N  21/17        20060101C I20051008RMEP', 'G01N  29/00        20060101ALI20051220RMJP', 'G01N  29/00        20060101CLI20051220RMJP']"
+  }
+}

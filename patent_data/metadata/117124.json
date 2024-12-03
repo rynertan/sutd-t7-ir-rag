@@ -1,0 +1,10 @@
+{
+  "patent_number": 117124,
+  "date": 19910417,
+  "ucid": "EP-0117124-B1",
+  "classifications": {
+    "main": "G06F  15/30",
+    "further": "G07F   7/10",
+    "ipcr": "['G07G   3/00        20060101A I20051008RMEP', 'G07F  19/00        20060101C I20051008RMEP', 'G07G   3/00        20060101C I20051008RMEP', 'G07F  19/00        20060101A I20051008RMEP']"
+  }
+}

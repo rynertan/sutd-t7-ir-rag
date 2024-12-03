@@ -1,0 +1,10 @@
+{
+  "patent_number": 120512,
+  "date": 19841003,
+  "ucid": "EP-0120512-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C10L   1/10        20060101C I20051008RMEP', 'C10L   1/16        20060101AFI20060310RMJP', 'C10L   1/18        20060101A N20051008RMEP', 'C10L   1/195       20060101A I20051008RMEP', 'C10L   1/22        20060101ALI20060310RMJP', 'C10L   1/236       20060101A I20051008RMEP', 'C10L  10/14        20060101CLI20060310RMJP', 'C10L  10/16        20060101ALI20060310RMJP']"
+  }
+}

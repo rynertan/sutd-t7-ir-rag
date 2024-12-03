@@ -1,0 +1,10 @@
+{
+  "patent_number": 202208,
+  "date": 19861120,
+  "ucid": "EP-0202208-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B32B  15/01        20060101A I20051008RMEP', 'B32B  15/01        20060101C I20051008RMEP', 'C21D   6/00        20060101A I20051008RMEP', 'C21D   6/00        20060101C I20051008RMEP', 'C21D   9/00        20060101AFI20051220RMJP', 'C21D   9/00        20060101CFI20051220RMJP', 'C21D   9/08        20060101C I20051008RMEP', 'C21D   9/14        20060101A I20051008RMEP']"
+  }
+}

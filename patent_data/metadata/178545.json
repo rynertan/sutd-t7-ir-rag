@@ -1,0 +1,10 @@
+{
+  "patent_number": 178545,
+  "date": 19860423,
+  "ucid": "EP-0178545-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F22B   1/00        20060101C I20051008RMEP', 'F22B   1/06        20060101A I20051008RMEP', 'F28D   7/00        20060101CLI20051220RMJP', 'F28D   7/02        20060101ALI20051220RMJP', 'F28F   9/00        20060101ALI20051220RMJP', 'F28F   9/00        20060101CLI20051220RMJP', 'G21C   1/00        20060101CLI20051220RMJP', 'G21C   1/02        20060101ALI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 110131,
+  "date": 19840613,
+  "ucid": "EP-0110131-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   3/033       20060101A I20051008RMEP', 'G06F   3/033       20060101C I20051008RMEP', 'G06F   3/041       20060101ALI20060310RMJP', 'G06F   3/041       20060101CLI20060310RMJP', 'G06F   3/046       20060101AFI20060310RMJP', 'G06K  11/06        20060101ALI20060310RMJP', 'G06K  11/06        20060101CLI20060310RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 192192,
+  "date": 19860827,
+  "ucid": "EP-0192192-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B21F  11/00        20060101AFI20051220RMJP', 'B21F  11/00        20060101CFI20051220RMJP', 'B25B   7/00        20060101A I20051008RMEP', 'B25B   7/00        20060101C I20051008RMEP', 'B26B  13/00        20060101C I20051008RMEP', 'B26B  13/16        20060101A I20051008RMEP', 'B26B  17/00        20060101A I20051008RMEP', 'B26B  17/00        20060101C I20051008RMEP']"
+  }
+}

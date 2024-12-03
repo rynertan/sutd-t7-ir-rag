@@ -1,0 +1,10 @@
+{
+  "patent_number": 185097,
+  "date": 19860625,
+  "ucid": "EP-0185097-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G03F   7/039       20060101A I20051008RMEP', 'G03F   7/039       20060101C I20051008RMEP', 'G11B   7/26        20060101A I20051008RMEP', 'G11B   7/26        20060101C I20051008RMEP', 'G11B   9/00        20060101CLI20051220RMJP', 'G11B   9/06        20060101ALI20051220RMJP', 'G11B  11/00        20060101CLI20051220RMJP', 'G11B  11/03        20060101ALI20051220RMJP']"
+  }
+}

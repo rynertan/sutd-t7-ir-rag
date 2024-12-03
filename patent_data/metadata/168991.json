@@ -1,0 +1,10 @@
+{
+  "patent_number": 168991,
+  "date": 19860122,
+  "ucid": "EP-0168991-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01F   3/12        20060101A I20051008RMEP', 'B01F   3/12        20060101C I20051008RMEP', 'B28B   1/30        20060101CFI20051220RMJP', 'B28B   1/42        20060101AFI20051220RMJP', 'B28B   1/52        20060101A I20051008RMEP', 'B28B   1/52        20060101C I20051008RMEP', 'B28B  17/00        20060101CLI20051220RMJP', 'B28B  17/02        20060101ALI20051220RMJP']"
+  }
+}

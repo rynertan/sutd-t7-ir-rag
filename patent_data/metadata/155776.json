@@ -1,0 +1,10 @@
+{
+  "patent_number": 155776,
+  "date": 19850925,
+  "ucid": "EP-0155776-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01S   1/00        20060101A I20080531RMEP', 'G01S   1/00        20060101C I20080531RMEP', 'G01S   5/14        20060101A I20051008RMEP', 'G01S   5/14        20060101C I20051008RMEP', 'G01S  11/00        20060101C I20051008RMEP', 'G01S  11/08        20060101A I20051008RMEP', 'H04B   7/155       20060101ALI20051220RMJP', 'H04B   7/155       20060101CLI20051220RMJP']"
+  }
+}

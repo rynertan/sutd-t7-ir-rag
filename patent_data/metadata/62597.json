@@ -1,0 +1,10 @@
+{
+  "patent_number": 62597,
+  "date": 19870708,
+  "ucid": "EP-0062597-B1",
+  "classifications": {
+    "main": "G01V   3/10",
+    "further": NaN,
+    "ipcr": "['G01V   3/10        20060101C I20051008RMEP', 'G01B   7/14        20060101ALI20060310RMJP', 'G01B   7/00        20060101AFI20060310RMJP', 'G01V   3/11        20060101A I20060521RMUS', 'G01B   7/00        20060101CFI20060310RMJP', 'G01B   7/14        20060101CLI20060310RMJP', 'G01V   3/10        20060101A I20051008RMEP']"
+  }
+}

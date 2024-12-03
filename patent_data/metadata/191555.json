@@ -1,0 +1,10 @@
+{
+  "patent_number": 191555,
+  "date": 19860820,
+  "ucid": "EP-0191555-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61B   5/11        20060101A I20051008RMEP', 'A61B   5/11        20060101C I20051008RMEP', 'G01B   7/16        20060101AFI20060310RMJP', 'G01B   7/16        20060101CFI20060310RMJP', 'G01L   1/20        20060101C I20051008RMEP', 'G01L   1/22        20060101A I20051008RMEP', 'H01C  10/00        20060101C I20051008RMEP', 'H01C  10/10        20060101A I20051008RMEP']"
+  }
+}

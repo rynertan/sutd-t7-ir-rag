@@ -1,0 +1,10 @@
+{
+  "patent_number": 1244,
+  "date": 19800528,
+  "ucid": "EP-0001244-B1",
+  "classifications": {
+    "main": "F42D   1/04",
+    "further": "C06C   5/00",
+    "ipcr": "['C06C   5/04        20060101A I20051008RMEP', 'F42D   1/00        20060101C I20051008RMEP', 'C06C   5/00        20060101C I20051008RMEP', 'F42D   1/04        20060101A I20051008RMEP']"
+  }
+}

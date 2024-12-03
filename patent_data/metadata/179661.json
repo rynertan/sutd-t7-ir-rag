@@ -1,0 +1,10 @@
+{
+  "patent_number": 179661,
+  "date": 19890201,
+  "ucid": "EP-0179661-B1",
+  "classifications": {
+    "main": "G21F   9/36",
+    "further": NaN,
+    "ipcr": "['G21F   9/00        20060101CLI20051220RMJP', 'G21F   5/002       20060101ALI20051220RMJP', 'G21F   9/36        20060101A I20051008RMEP', 'G21F   5/005       20060101ALI20051220RMJP', 'G21F   5/005       20060101CLI20051220RMJP', 'G21F   9/00        20060101ALI20051220RMJP', 'G21F   5/002       20060101CLI20051220RMJP', 'G21F   9/34        20060101C I20051008RMEP']"
+  }
+}

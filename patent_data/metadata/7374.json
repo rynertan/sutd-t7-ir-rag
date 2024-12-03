@@ -1,0 +1,10 @@
+{
+  "patent_number": 7374,
+  "date": 19831026,
+  "ucid": "EP-0007374-B1",
+  "classifications": {
+    "main": "B65H  63/06",
+    "further": "D01H   5/38",
+    "ipcr": "['D01H   5/00        20060101CLI20051220RMJP', 'D01H   5/38        20060101ALI20051220RMJP', 'B65H  63/00        20060101CFI20051220RMJP', 'B65H  63/06        20060101AFI20051220RMJP', 'D01G  23/06        20060101A I20051008RMEP', 'D01G  23/00        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 79246,
+  "date": 19851106,
+  "ucid": "EP-0079246-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01D   9/00        20060101A I20051008RMEP', 'B01D   9/00        20060101C I20051008RMEP', 'G02B   6/44        20060101ALI20051220RMJP', 'G02B   6/44        20060101CLI20051220RMJP', 'G02B   6/46        20060101AFI20051220RMJP', 'G02B   6/46        20060101CFI20051220RMJP', 'H02G   1/02        20060101ALI20051220RMJP', 'H02G   1/02        20060101CLI20051220RMJP']"
+  }
+}

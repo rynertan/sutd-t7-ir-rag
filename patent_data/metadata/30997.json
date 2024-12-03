@@ -1,0 +1,10 @@
+{
+  "patent_number": 30997,
+  "date": 19840321,
+  "ucid": "EP-0030997-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01B   7/00        20060101ALI20060310RMJP', 'G01B   7/00        20060101CLI20060310RMJP', 'G01D   5/12        20060101C I20051008RMEP', 'G01D   5/20        20060101AFI20060310RMJP', 'G01D   5/243       20060101A I20051008RMEP', 'G01V   3/10        20060101ALI20060310RMJP', 'G01V   3/10        20060101C I20060521RMUS', 'G01V   3/11        20060101A I20060521RMUS']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 181871,
+  "date": 19871104,
+  "ucid": "EP-0181871-B1",
+  "classifications": {
+    "main": "B63C   9/32",
+    "further": NaN,
+    "ipcr": "['B63C   9/00        20060101C I20070721RMEP', 'A61G   1/00        20060101CLI20051220RMJP', 'A61G   1/00        20060101ALI20051220RMJP', 'B63C   9/32        20060101ALI20051220RMJP', 'B63C   9/02        20060101A I20051008RMEP', 'A62B  99/00        20090101AFI20081227RMEP', 'A62B  99/00        20090101CFI20081227RMEP']"
+  }
+}

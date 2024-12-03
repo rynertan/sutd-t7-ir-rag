@@ -1,0 +1,10 @@
+{
+  "patent_number": 178768,
+  "date": 19860423,
+  "ucid": "EP-0178768-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B25J   9/16        20060101AFI20051220RMJP', 'B25J   9/16        20060101CFI20051220RMJP', 'B25J  19/02        20060101ALI20051220RMJP', 'B25J  19/02        20060101CLI20051220RMJP', 'G01D   5/12        20060101CLI20051220RMJP', 'G01D   5/24        20060101ALI20051220RMJP', 'G01L   1/14        20060101A I20051008RMEP', 'G01L   1/14        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 20006,
+  "date": 19850213,
+  "ucid": "EP-0020006-B1",
+  "classifications": {
+    "main": "G02B   9/58",
+    "further": "G02B  13/16",
+    "ipcr": "['G02B  13/16        20060101C I20051008RMEP', 'G02B   9/58        20060101A I20051008RMEP', 'G02B  13/16        20060101A I20051008RMEP', 'G02B   9/00        20060101C I20051008RMEP']"
+  }
+}

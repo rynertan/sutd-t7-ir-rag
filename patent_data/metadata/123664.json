@@ -1,0 +1,10 @@
+{
+  "patent_number": 123664,
+  "date": 19860108,
+  "ucid": "EP-0123664-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G05D   1/00        20060101A I20051008RMEP', 'G05D   1/00        20060101C I20051008RMEP']"
+  }
+}

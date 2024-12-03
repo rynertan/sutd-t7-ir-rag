@@ -1,0 +1,10 @@
+{
+  "patent_number": 89799,
+  "date": 19861112,
+  "ucid": "EP-0089799-B1",
+  "classifications": {
+    "main": "G04G   3/02",
+    "further": "H03K  23/66",
+    "ipcr": "['G04G   3/00        20060101C I20051008RMEP', 'H03K  23/00        20060101CLI20051220RMJP', 'H03K  23/66        20060101ALI20051220RMJP', 'G04G   3/02        20060101A I20051008RMEP', 'G04G  21/00        20100101ALI20091211RHJP', 'G04G  21/00        20100101CLI20091211RHJP']"
+  }
+}

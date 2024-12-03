@@ -1,0 +1,10 @@
+{
+  "patent_number": 192139,
+  "date": 19860827,
+  "ucid": "EP-0192139-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  13/20        20060101ALI20060310RMJP', 'G01R  13/20        20060101CLI20060310RMJP', 'G09G   5/00        20060101ALI20060310RMJP', 'G09G   5/00        20060101CLI20060310RMJP', 'G09G   5/36        20060101ALI20060310RMJP', 'G09G   5/36        20060101C I20051008RMEP', 'G09G   5/39        20060101A I20051008RMEP', 'G09G   5/395       20060101AFI20060310RMJP']"
+  }
+}

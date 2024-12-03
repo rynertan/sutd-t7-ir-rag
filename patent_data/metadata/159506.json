@@ -1,0 +1,10 @@
+{
+  "patent_number": 159506,
+  "date": 19851030,
+  "ucid": "EP-0159506-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06T   7/20        20060101A I20051008RMEP', 'G06T   7/20        20060101C I20051008RMEP', 'H04N   7/26        20060101A I20051008RMEP', 'H04N   7/26        20060101C I20051008RMEP', 'H04N   7/32        20060101A I20051008RMEP', 'H04N   7/32        20060101C I20051008RMEP', 'H04N   7/36        20060101A I20051008RMEP', 'H04N   7/36        20060101C I20051008RMEP']"
+  }
+}

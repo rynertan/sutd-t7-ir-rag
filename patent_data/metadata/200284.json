@@ -1,0 +1,10 @@
+{
+  "patent_number": 200284,
+  "date": 19930929,
+  "ucid": "EP-0200284-B1",
+  "classifications": {
+    "main": "G06F  15/353",
+    "further": "G06F  15/62",
+    "ipcr": "['G06T   1/60        20060101C I20051008RMEP', 'G06T   3/40        20060101A I20051008RMEP', 'G06T   1/60        20060101A I20051008RMEP', 'G06T   3/40        20060101C I20051008RMEP']"
+  }
+}

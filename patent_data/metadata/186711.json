@@ -1,0 +1,10 @@
+{
+  "patent_number": 186711,
+  "date": 19860709,
+  "ucid": "EP-0186711-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G03H   1/00        20060101ALI20051220RMJP', 'G03H   1/00        20060101CLI20051220RMJP', 'G21B   1/03        20060101ALI20051220RMJP', 'G21B   1/03        20060101CLI20051220RMJP', 'G21K   1/00        20060101A I20051008RMEP', 'G21K   1/00        20060101C I20051008RMEP', 'H05H   1/02        20060101AFI20051220RMJP', 'H05H   1/02        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 91313,
+  "date": 19850522,
+  "ucid": "EP-0091313-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K   9/00        20060101A I20051008RMEP', 'A61K   9/00        20060101C I20051008RMEP', 'A61K  31/02        20060101A I20051008RMEP', 'A61K  31/02        20060101C I20051008RMEP', 'A61K  31/545       20060101A I20051008RMEP', 'A61K  31/545       20060101C I20051008RMEP', 'A61K  47/00        20060101AFI20060101BMKR', 'A61K  47/00        20060101CFI20060101BMKR']"
+  }
+}

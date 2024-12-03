@@ -1,0 +1,10 @@
+{
+  "patent_number": 64812,
+  "date": 19830330,
+  "ucid": "EP-0064812-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61F   2/16        20060101A I20051008RMEP', 'A61F   2/16        20060101C I20051008RMEP', 'G02B   5/32        20060101A I20051008RMEP', 'G02B   5/32        20060101C I20051008RMEP', 'G02C   7/00        20060101A I20051008RMEP', 'G02C   7/00        20060101C I20051008RMEP', 'G02C   7/04        20060101A I20051008RMEP', 'G02C   7/04        20060101C I20051008RMEP']"
+  }
+}

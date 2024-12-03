@@ -1,0 +1,10 @@
+{
+  "patent_number": 94,
+  "date": 19781220,
+  "ucid": "EP-0000094-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J   8/00        20060101A I20051008RMEP', 'B01J   8/00        20060101C I20051008RMEP', 'B01J   8/02        20060101A I20051008RMEP', 'B01J   8/02        20060101C I20051008RMEP', 'B01J   8/08        20060101C I20051008RMEP', 'B01J   8/12        20060101A I20051008RMEP', 'C12M   1/40        20060101A I20051008RMEP', 'C12M   1/40        20060101C I20051008RMEP']"
+  }
+}

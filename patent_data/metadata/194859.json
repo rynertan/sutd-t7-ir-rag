@@ -1,0 +1,10 @@
+{
+  "patent_number": 194859,
+  "date": 19910605,
+  "ucid": "EP-0194859-B1",
+  "classifications": {
+    "main": "G01K   3/04",
+    "further": NaN,
+    "ipcr": "['G01K   3/00        20060101C I20051008RMEP', 'G01K  11/02        20060101AFI20051220RMJP', 'G04F   1/00        20060101ALI20051220RMJP', 'G01K  11/00        20060101CLI20051220RMJP', 'G01K  11/12        20060101ALI20051220RMJP', 'G01K   3/04        20060101A I20051008RMEP', 'G01K   3/02        20060101ALI20051220RMJP', 'G04F   1/00        20060101CLI20051220RMJP']"
+  }
+}

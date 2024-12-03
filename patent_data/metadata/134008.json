@@ -1,0 +1,10 @@
+{
+  "patent_number": 134008,
+  "date": 19870805,
+  "ucid": "EP-0134008-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/12        20060101ALI20051220RMJP', 'G06F   1/12        20060101CLI20051220RMJP', 'G08C  15/00        20060101CLI20051220RMJP', 'G08C  15/06        20060101ALI20051220RMJP', 'H04N   5/067       20060101C I20051008RMEP', 'H04N   5/073       20060101A I20051008RMEP', 'H04N   5/08        20060101ALI20051220RMJP', 'H04N   5/08        20060101CLI20051220RMJP']"
+  }
+}

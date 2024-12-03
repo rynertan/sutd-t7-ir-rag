@@ -1,0 +1,10 @@
+{
+  "patent_number": 132616,
+  "date": 19850213,
+  "ucid": "EP-0132616-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B25J   9/10        20060101ALI20051220RMJP', 'B25J   9/10        20060101CLI20051220RMJP', 'B25J   9/16        20060101A I20051008RMEP', 'B25J   9/16        20060101C I20051008RMEP', 'B25J   9/18        20060101A I20060521RMUS', 'B25J   9/18        20060101C I20060521RMUS', 'B25J  13/08        20060101ALI20051220RMJP', 'B25J  13/08        20060101CLI20051220RMJP']"
+  }
+}

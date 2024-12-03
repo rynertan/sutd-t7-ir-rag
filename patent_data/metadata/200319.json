@@ -1,0 +1,10 @@
+{
+  "patent_number": 200319,
+  "date": 19861105,
+  "ucid": "EP-0200319-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C08J   9/00        20060101C I20051008RMEP', 'C08J   9/04        20060101AFI20051220RMJP', 'C08J   9/14        20060101A I20051008RMEP', 'C08L  83/00        20060101C I20051008RMEP', 'C08L  83/04        20060101A I20051008RMEP', 'C08L  83/05        20060101A I20060521RMEP', 'C08L  83/07        20060101A I20060521RMUS', 'C08L  83/08        20060101ALI20051220RMJP']"
+  }
+}

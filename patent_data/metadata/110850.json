@@ -1,0 +1,10 @@
+{
+  "patent_number": 110850,
+  "date": 19890301,
+  "ucid": "EP-0110850-B1",
+  "classifications": {
+    "main": "G06K  11/06",
+    "further": "G04G   5/00",
+    "ipcr": "['G04G   5/00        20060101C I20051008RMEP', 'G06F   3/033       20060101C I20051008RMEP', 'G06F   3/033       20060101A I20051008RMEP', 'G04G   5/00        20060101A I20051008RMEP']"
+  }
+}

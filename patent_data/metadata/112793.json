@@ -1,0 +1,10 @@
+{
+  "patent_number": 112793,
+  "date": 19870107,
+  "ucid": "EP-0112793-B1",
+  "classifications": {
+    "main": "B64C  11/38",
+    "further": NaN,
+    "ipcr": "['F02K   3/00        20060101CLI20051220RMJP', 'B63H   3/10        20060101AFI20051220RMJP', 'B64C  11/38        20060101A I20051008RMEP', 'B63H   3/00        20060101CFI20051220RMJP', 'B64C  11/00        20060101C I20051008RMEP', 'F02K   3/04        20060101ALI20051220RMJP', 'B64C  11/40        20060101ALI20051220RMJP']"
+  }
+}

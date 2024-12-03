@@ -1,0 +1,10 @@
+{
+  "patent_number": 67438,
+  "date": 19831228,
+  "ucid": "EP-0067438-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B07C   5/34        20060101A I20051008RMEP', 'B07C   5/34        20060101C I20051008RMEP', 'G01B  11/24        20060101AFI20060310RMJP', 'G01B  11/24        20060101CFI20060310RMJP', 'G06T   1/00        20060101ALI20060310RMJP', 'G06T   1/00        20060101CLI20060310RMJP', 'G06T   5/50        20060101A I20051008RMEP', 'G06T   5/50        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 68013,
+  "date": 19830105,
+  "ucid": "EP-0068013-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   3/023       20060101A I20051008RMEP', 'G06F   3/023       20060101C I20051008RMEP', 'G06F   3/048       20060101A I20070721RMEP', 'G06F   3/048       20060101C I20070721RMEP', 'G06F   3/153       20060101ALI20051220RMJP', 'G06F   3/153       20060101CLI20051220RMJP', 'G09G   1/06        20060101C I20051008RMEP', 'G09G   1/08        20060101A I20051008RMEP']"
+  }
+}

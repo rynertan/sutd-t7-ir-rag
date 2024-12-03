@@ -1,0 +1,10 @@
+{
+  "patent_number": 78316,
+  "date": 19890412,
+  "ucid": "EP-0078316-B1",
+  "classifications": {
+    "main": "G06F  15/46",
+    "further": "G05B  19/42",
+    "ipcr": "['G06T   1/00        20060101C I20051008RMEP', 'G06T   1/00        20060101A I20051008RMEP']"
+  }
+}

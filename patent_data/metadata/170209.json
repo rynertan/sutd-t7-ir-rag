@@ -1,0 +1,10 @@
+{
+  "patent_number": 170209,
+  "date": 19860205,
+  "ucid": "EP-0170209-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65B   3/00        20060101ALI20060101BMKR', 'B65B   3/00        20060101CLI20060101BMKR', 'B65B   9/10        20060101CLI20051220RMJP', 'B65B   9/20        20060101ALI20051220RMJP', 'B65B  37/00        20060101CLI20051220RMJP', 'B65B  37/02        20060101ALI20051220RMJP', 'B65B  39/00        20060101A I20051008RMEP', 'B65B  39/00        20060101C I20051008RMEP']"
+  }
+}

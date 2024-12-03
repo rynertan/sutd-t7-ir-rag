@@ -1,0 +1,10 @@
+{
+  "patent_number": 20169,
+  "date": 19840215,
+  "ucid": "EP-0020169-B1",
+  "classifications": {
+    "main": "B41J  29/00",
+    "further": "G06F   1/00",
+    "ipcr": "['B41J  29/377       20060101A I20051008RMEP', 'B41J  29/377       20060101C I20051008RMEP', 'G06F   1/20        20060101A I20051008RMEP', 'G06F   1/20        20060101C I20051008RMEP']"
+  }
+}

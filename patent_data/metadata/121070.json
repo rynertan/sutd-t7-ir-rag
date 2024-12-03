@@ -1,0 +1,10 @@
+{
+  "patent_number": 121070,
+  "date": 19910417,
+  "ucid": "EP-0121070-B1",
+  "classifications": {
+    "main": "G09G   3/28",
+    "further": "G06F   3/147",
+    "ipcr": "['G09G   3/28        20060101C I20051008RMEP', 'G09G   3/28        20060101A I20051008RMEP', 'G06F   3/147       20060101A I20051008RMEP', 'G06F   3/147       20060101C I20051008RMEP']"
+  }
+}

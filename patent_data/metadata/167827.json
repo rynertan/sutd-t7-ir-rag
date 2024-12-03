@@ -1,0 +1,10 @@
+{
+  "patent_number": 167827,
+  "date": 19901212,
+  "ucid": "EP-0167827-B1",
+  "classifications": {
+    "main": "G06F  13/24",
+    "further": NaN,
+    "ipcr": "['G05B  19/05        20060101CLI20051220RMJP', 'G06F  13/24        20060101A I20051008RMEP', 'G06F  13/20        20060101C I20051008RMEP', 'G06F   9/48        20060101ALI20051220RMJP', 'G06F   9/46        20060101CLI20051220RMJP', 'G05B  19/05        20060101ALI20051220RMJP']"
+  }
+}

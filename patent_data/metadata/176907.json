@@ -1,0 +1,10 @@
+{
+  "patent_number": 176907,
+  "date": 19860716,
+  "ucid": "EP-0176907-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F16M  11/00        20060101A I20070721RMEP', 'F16M  11/00        20060101C I20070721RMEP', 'G06F   1/18        20060101A I20051008RMEP', 'G06F   1/18        20060101C I20051008RMEP', 'H05K   5/00        20060101A I20051008RMEP', 'H05K   5/00        20060101C I20051008RMEP', 'H05K   7/18        20060101A I20051008RMEP', 'H05K   7/18        20060101C I20051008RMEP']"
+  }
+}

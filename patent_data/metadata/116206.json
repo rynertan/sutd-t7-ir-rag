@@ -1,0 +1,10 @@
+{
+  "patent_number": 116206,
+  "date": 19840822,
+  "ucid": "EP-0116206-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C21C   5/28        20060101CLI20051220RMJP', 'C21C   5/36        20060101ALI20051220RMJP', 'C21C   7/04        20060101AFI20051220RMJP', 'C21C   7/04        20060101CFI20051220RMJP', 'C21C   7/06        20060101ALI20051220RMJP', 'C21C   7/06        20060101CLI20051220RMJP', 'C21C   7/064       20060101A I20051008RMEP', 'C21C   7/064       20060101C I20051008RMEP']"
+  }
+}

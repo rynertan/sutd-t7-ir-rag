@@ -1,0 +1,10 @@
+{
+  "patent_number": 89998,
+  "date": 19870610,
+  "ucid": "EP-0089998-B1",
+  "classifications": {
+    "main": "G01V   9/00",
+    "further": "G01V   5/00",
+    "ipcr": "['G01V   9/00        20060101C I20051008RMEP', 'G01V   9/00        20060101A I20051008RMEP']"
+  }
+}

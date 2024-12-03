@@ -1,0 +1,10 @@
+{
+  "patent_number": 64011,
+  "date": 19821103,
+  "ucid": "EP-0064011-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B23K  11/00        20060101AFI20051220RMJP', 'B23K  11/00        20060101CFI20051220RMJP', 'H01L  21/00        20060101A I20051008RMEP', 'H01L  21/00        20060101C I20051008RMEP', 'H05K   3/32        20060101A N20051008RMEP', 'H05K   3/32        20060101C N20051008RMEP', 'H05K  13/06        20060101A I20051008RMEP', 'H05K  13/06        20060101C I20051008RMEP']"
+  }
+}

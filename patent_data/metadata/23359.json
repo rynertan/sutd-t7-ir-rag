@@ -1,0 +1,10 @@
+{
+  "patent_number": 23359,
+  "date": 19840418,
+  "ucid": "EP-0023359-B1",
+  "classifications": {
+    "main": "A61K   9/06",
+    "further": "A61K   9/72",
+    "ipcr": "['A61K   9/14        20060101ALI20051220RMJP', 'A61K  47/38        20060101ALI20051220RMJP', 'A61K  47/38        20060101CLI20051220RMJP', 'A61K   9/00        20060101A I20051008RMEP', 'A61K   9/14        20060101CLI20051220RMJP', 'A61K   9/00        20060101C I20051008RMEP']"
+  }
+}

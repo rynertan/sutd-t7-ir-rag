@@ -1,0 +1,10 @@
+{
+  "patent_number": 201324,
+  "date": 19910918,
+  "ucid": "EP-0201324-B1",
+  "classifications": {
+    "main": "G06F  15/20",
+    "further": NaN,
+    "ipcr": "['G06F  17/28        20060101C I20051008RMEP', 'G06F  17/27        20060101C I20060722RMEP', 'G06F  17/27        20060101A I20060722RMEP', 'G06F  17/28        20060101A I20051008RMEP', 'G06F  17/00        20060101CFI20060101BMKR', 'G06F  17/00        20060101AFI20060101BMKR']"
+  }
+}

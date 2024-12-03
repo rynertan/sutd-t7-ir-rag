@@ -1,0 +1,10 @@
+{
+  "patent_number": 181351,
+  "date": 19890621,
+  "ucid": "EP-0181351-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61F   2/02        20060101ALI20051220RMJP', 'A61F   2/02        20060101CLI20051220RMJP', 'A61K  31/14        20060101A I20051008RMEP', 'A61K  31/14        20060101C I20051008RMEP', 'A61K  35/12        20060101A I20051008RMEP', 'A61K  35/12        20060101C I20051008RMEP', 'A61K  45/00        20060101CLI20051220RMJP', 'A61K  45/06        20060101ALI20051220RMJP']"
+  }
+}

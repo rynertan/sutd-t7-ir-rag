@@ -1,0 +1,10 @@
+{
+  "patent_number": 130081,
+  "date": 19870826,
+  "ucid": "EP-0130081-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06Q  40/00        20060101ALI20060310RMJP', 'G06Q  40/00        20060101CLI20060310RMJP', 'G07D   9/00        20060101ALI20060310RMJP', 'G07D   9/00        20060101CLI20060310RMJP', 'G07D  11/00        20060101A I20051008RMEP', 'G07D  11/00        20060101C I20051008RMEP', 'G07G   5/00        20060101AFI20060310RMJP', 'G07G   5/00        20060101CFI20060310RMJP']"
+  }
+}

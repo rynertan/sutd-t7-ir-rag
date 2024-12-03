@@ -1,0 +1,10 @@
+{
+  "patent_number": 43848,
+  "date": 19890927,
+  "ucid": "EP-0043848-B1",
+  "classifications": {
+    "main": "C08G  73/14",
+    "further": NaN,
+    "ipcr": "['C08G  73/00        20060101ALI20051220RMJP', 'C08G  73/00        20060101C I20051008RMEP', 'C08G  69/00        20060101CLI20051220RMJP', 'C08G  69/32        20060101ALI20051220RMJP', 'C08G  73/14        20060101A I20051008RMEP', 'C08J   5/04        20060101CLI20051220RMJP', 'C08J   5/04        20060101ALI20051220RMJP']"
+  }
+}

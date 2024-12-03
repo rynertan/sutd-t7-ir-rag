@@ -1,0 +1,10 @@
+{
+  "patent_number": 202648,
+  "date": 19890315,
+  "ucid": "EP-0202648-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04L  12/26        20060101ALI20060101BMKR', 'H04L  12/26        20060101CLI20060101BMKR', 'H04M   3/24        20060101A I20051008RMEP', 'H04M   3/24        20060101C I20051008RMEP', 'H04M   3/28        20060101CFI20060310RMJP', 'H04M   3/30        20060101AFI20060310RMJP', 'H04Q  11/04        20060101A I20051008RMEP', 'H04Q  11/04        20060101C I20051008RMEP']"
+  }
+}

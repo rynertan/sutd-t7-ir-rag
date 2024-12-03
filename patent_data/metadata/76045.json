@@ -1,0 +1,10 @@
+{
+  "patent_number": 76045,
+  "date": 19860409,
+  "ucid": "EP-0076045-B1",
+  "classifications": {
+    "main": "F42D   1/04",
+    "further": NaN,
+    "ipcr": "['F42B   3/18        20060101ALI20051220RMJP', 'F23Q   7/22        20060101AFI20051220RMJP', 'F42D   1/05        20060101A I20051008RMEP', 'F41A  19/63        20060101A I20051008RMEP', 'F41A  19/00        20060101C I20051008RMEP', 'F42D   1/00        20060101C I20051008RMEP', 'F23Q   7/00        20060101CFI20051220RMJP', 'F42B   3/00        20060101CLI20051220RMJP']"
+  }
+}

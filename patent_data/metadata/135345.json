@@ -1,0 +1,10 @@
+{
+  "patent_number": 135345,
+  "date": 19881102,
+  "ucid": "EP-0135345-B1",
+  "classifications": {
+    "main": "G01C  11/02",
+    "further": "H04N   3/14",
+    "ipcr": "['H04N  13/02        20060101A I20060521RMUS', 'H04N  13/02        20060101C I20060521RMUS', 'G01C  11/00        20060101C I20051008RMEP', 'G01C  11/02        20060101A I20051008RMEP']"
+  }
+}

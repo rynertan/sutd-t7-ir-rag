@@ -1,0 +1,10 @@
+{
+  "patent_number": 198082,
+  "date": 19890426,
+  "ucid": "EP-0198082-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C09B   5/00        20060101CLI20051220RMJP', 'C09B   5/62        20060101ALI20051220RMJP', 'C09K   9/02        20060101ALI20051220RMJP', 'C09K   9/02        20060101CLI20051220RMJP', 'G02B   5/22        20060101AFI20051220RMJP', 'G02B   5/22        20060101CFI20051220RMJP', 'G02B   5/30        20060101A I20051008RMEP', 'G02B   5/30        20060101C I20051008RMEP']"
+  }
+}

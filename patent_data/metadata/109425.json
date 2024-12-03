@@ -1,0 +1,10 @@
+{
+  "patent_number": 109425,
+  "date": 19860910,
+  "ucid": "EP-0109425-B1",
+  "classifications": {
+    "main": "F24J   2/46",
+    "further": NaN,
+    "ipcr": "['F24J   2/46        20060101A I20051008RMEP', 'F24J   2/04        20060101C I20051008RMEP', 'F24J   3/00        20060101AFI20051220RMJP', 'F24J   3/00        20060101CFI20051220RMJP', 'F24J   2/28        20060101A I20051008RMEP', 'F24J   2/00        20060101C I20051008RMEP', 'F24J   2/50        20060101ALI20051220RMJP']"
+  }
+}

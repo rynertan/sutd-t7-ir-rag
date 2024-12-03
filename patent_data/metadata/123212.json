@@ -1,0 +1,10 @@
+{
+  "patent_number": 123212,
+  "date": 19860319,
+  "ucid": "EP-0123212-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C04B  37/00        20060101A I20051008RMEP', 'C04B  37/00        20060101C I20051008RMEP', 'C04B  37/02        20060101A I20051008RMEP', 'C04B  37/02        20060101C I20051008RMEP', 'C04B  41/80        20060101ALI20051220RMJP', 'C04B  41/80        20060101CLI20051220RMJP']"
+  }
+}

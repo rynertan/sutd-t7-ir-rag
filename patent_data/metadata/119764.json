@@ -1,0 +1,10 @@
+{
+  "patent_number": 119764,
+  "date": 19891025,
+  "ucid": "EP-0119764-B1",
+  "classifications": {
+    "main": "B41J   1/30",
+    "further": NaN,
+    "ipcr": "['B41J   1/00        20060101C I20051008RMEP', 'B41J   1/30        20060101AFI20051220RMJP', 'B41J   1/24        20060101A I20051008RMEP', 'B41J   7/96        20060101ALI20051220RMJP', 'B41J   7/36        20060101ALI20051220RMJP', 'B41J   7/48        20060101ALI20051220RMJP', 'B41J   7/00        20060101CLI20051220RMJP']"
+  }
+}

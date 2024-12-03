@@ -1,0 +1,10 @@
+{
+  "patent_number": 44761,
+  "date": 19860122,
+  "ucid": "EP-0044761-B1",
+  "classifications": {
+    "main": "D01F   9/14",
+    "further": NaN,
+    "ipcr": "['D01F   9/155       20060101ALI20051220RMJP', 'C10C   3/00        20060101C I20051008RMEP', 'D01F   9/145       20060101A I20051008RMEP', 'C10C   3/00        20060101A I20051008RMEP', 'D01F   9/145       20060101C I20051008RMEP', 'C10C   3/02        20060101ALI20051220RMJP', 'D01F   9/15        20060101AFI20051220RMJP']"
+  }
+}

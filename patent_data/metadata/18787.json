@@ -1,0 +1,10 @@
+{
+  "patent_number": 18787,
+  "date": 19801112,
+  "ucid": "EP-0018787-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G02B  26/12        20060101A I20051008RMEP', 'G02B  26/12        20060101C I20051008RMEP', 'G03B  27/52        20060101A I20051008RMEP', 'G03B  27/52        20060101C I20051008RMEP', 'H01S   3/101       20060101ALI20051220RMJP', 'H01S   3/101       20060101CLI20051220RMJP', 'H04N   3/02        20060101AFI20051220RMJP', 'H04N   3/02        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 77069,
+  "date": 19850502,
+  "ucid": "EP-0077069-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C09D   5/23        20060101ALI20051220RMJP', 'C09D   5/23        20060101CLI20051220RMJP', 'C09D   7/12        20060101ALI20051220RMJP', 'C09D   7/12        20060101CLI20051220RMJP', 'G11B   5/66        20060101A I20051008RMEP', 'G11B   5/66        20060101C I20051008RMEP', 'G11B   5/716       20060101A I20051008RMEP', 'G11B   5/716       20060101C I20051008RMEP']"
+  }
+}

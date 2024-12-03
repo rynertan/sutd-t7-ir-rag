@@ -1,0 +1,10 @@
+{
+  "patent_number": 32302,
+  "date": 19810722,
+  "ucid": "EP-0032302-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G10B   3/00        20060101C I20051008RMEP', 'G10B   3/12        20060101A I20051008RMEP', 'G10H   1/32        20060101AFI20051220RMJP', 'G10H   1/32        20060101CFI20051220RMJP', 'G10H   1/34        20060101A I20051008RMEP', 'G10H   1/34        20060101C I20051008RMEP', 'H01H  36/00        20060101ALI20051220RMJP', 'H01H  36/00        20060101CLI20051220RMJP']"
+  }
+}

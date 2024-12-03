@@ -1,0 +1,10 @@
+{
+  "patent_number": 112060,
+  "date": 19890809,
+  "ucid": "EP-0112060-B1",
+  "classifications": {
+    "main": "G06F   3/00",
+    "further": "G09G   3/00",
+    "ipcr": "['B41J   3/44        20060101C I20051008RMEP', 'G09G   3/00        20060101C I20051008RMEP', 'G09G   3/00        20060101A I20051008RMEP', 'B41J   3/46        20060101A I20051008RMEP']"
+  }
+}

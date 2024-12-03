@@ -1,0 +1,10 @@
+{
+  "patent_number": 15125,
+  "date": 19800903,
+  "ucid": "EP-0015125-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B29C  35/08        20060101A N20051008RMEP', 'B29C  35/08        20060101C N20051008RMEP', 'B29C  71/00        20060101C I20051008RMEP', 'B29C  71/04        20060101A I20051008RMEP', 'C08J   3/28        20060101AFI20051220RMJP', 'C08J   3/28        20060101CFI20051220RMJP', 'C08J   7/00        20060101ALI20051220RMJP', 'C08J   7/00        20060101CLI20051220RMJP']"
+  }
+}

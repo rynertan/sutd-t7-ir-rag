@@ -1,0 +1,10 @@
+{
+  "patent_number": 9345,
+  "date": 19861210,
+  "ucid": "EP-0009345-B1",
+  "classifications": {
+    "main": "G06F  15/70",
+    "further": NaN,
+    "ipcr": "['H04N   9/00        20060101CFI20051220RMJP', 'G06T   7/40        20060101A I20051008RMEP', 'G06T   7/40        20060101C I20051008RMEP', 'H04N   9/00        20060101AFI20051220RMJP']"
+  }
+}

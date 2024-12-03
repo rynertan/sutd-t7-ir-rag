@@ -1,0 +1,10 @@
+{
+  "patent_number": 181868,
+  "date": 19860528,
+  "ucid": "EP-0181868-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C04B               20060101S I20051110RMEP', 'C04B  24/00        20060101A I20051110RMEP', 'C04B  24/00        20060101C I20051110RMEP', 'C04B  28/00        20060101A I20051110RMEP', 'C04B  28/00        20060101C I20070721RMEP', 'C04B  28/02        20060101A I20051008RMEP', 'C04B  40/00        20060101AFI19950120BMRU', 'C04B  40/00        20060101CFI19950120BMRU']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 172417,
+  "date": 19881102,
+  "ucid": "EP-0172417-B1",
+  "classifications": {
+    "main": "G01T   1/29",
+    "further": NaN,
+    "ipcr": "['G03B  42/02        20060101AFI20051220RMJP', 'G03B  42/02        20060101CFI20051220RMJP', 'G03B  42/00        20060101ALI20051220RMJP', 'G21K   4/00        20060101ALI20051220RMJP', 'G21K   4/00        20060101CLI20051220RMJP', 'G01T   1/29        20060101A I20051008RMEP', 'G01T   1/00        20060101C I20051008RMEP', 'G03B  42/00        20060101CLI20051220RMJP']"
+  }
+}

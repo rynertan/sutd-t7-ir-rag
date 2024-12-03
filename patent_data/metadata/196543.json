@@ -1,0 +1,10 @@
+{
+  "patent_number": 196543,
+  "date": 19861008,
+  "ucid": "EP-0196543-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G05F   1/10        20060101AFI20051220RMJP', 'G05F   1/10        20060101CFI20051220RMJP', 'H02M   7/505       20060101C I20051008RMEP', 'H02M   7/527       20060101A I20051008RMEP', 'H02M   7/5387      20060101C I20051008RMEP', 'H02M   7/5387      20070101A I20061228RMEP', 'H02P   7/18        20060101C I20051008RMEP', 'H02P   7/28        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 97612,
+  "date": 19850123,
+  "ucid": "EP-0097612-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B21D  53/02        20060101C I20051008RMEP', 'B21D  53/08        20060101A I20051008RMEP', 'F28D   1/04        20060101C I20051008RMEP', 'F28D   1/047       20060101A I20051008RMEP', 'F28F   1/02        20060101A I20051008RMEP', 'F28F   1/02        20060101C I20051008RMEP', 'F28F   1/32        20060101A I20051008RMEP', 'F28F   1/32        20060101C I20051008RMEP']"
+  }
+}

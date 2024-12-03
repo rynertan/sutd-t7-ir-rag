@@ -1,0 +1,10 @@
+{
+  "patent_number": 100212,
+  "date": 19870715,
+  "ucid": "EP-0100212-B1",
+  "classifications": {
+    "main": "E01C  13/00",
+    "further": "F25C   3/02",
+    "ipcr": "['F25C   3/00        20060101C I20051008RMEP', 'F25C   3/02        20060101A I20051008RMEP', 'E01C  13/10        20060101A I20051008RMEP', 'E01C  13/00        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 201249,
+  "date": 19861112,
+  "ucid": "EP-0201249-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01H  11/00        20060101CFI20051220RMJP', 'G01H  11/02        20060101AFI20051220RMJP', 'G01P   3/42        20060101C I20051008RMEP', 'G01P   3/44        20060101A I20051008RMEP', 'G01P   9/00        20060101A I20051008RMEP', 'G01P   9/00        20060101C I20051008RMEP', 'G01P  15/02        20060101ALI20051220RMJP', 'G01P  15/02        20060101CLI20051220RMJP']"
+  }
+}

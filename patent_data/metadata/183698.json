@@ -1,0 +1,10 @@
+{
+  "patent_number": 183698,
+  "date": 19890308,
+  "ucid": "EP-0183698-B1",
+  "classifications": {
+    "main": "E04B   2/82",
+    "further": NaN,
+    "ipcr": "['E04B   2/56        20060101CFI20051220RMJP', 'E04B   2/74        20060101CLI20051220RMJP', 'E04C   2/30        20060101ALI20051220RMJP', 'E04B   1/02        20060101C I20051008RMEP', 'E04B   1/04        20060101A I20051008RMEP', 'E04B   2/74        20060101ALI20051220RMJP', 'E04C   2/30        20060101CLI20051220RMJP', 'E04B   2/56        20060101AFI20051220RMJP']"
+  }
+}

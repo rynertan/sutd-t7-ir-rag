@@ -1,0 +1,10 @@
+{
+  "patent_number": 94886,
+  "date": 19831123,
+  "ucid": "EP-0094886-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K               20060101S I20051110RMEP', 'A61K  31/185       20060101CFI20051220RMJP', 'A61K  31/195       20060101AFI20051220RMJP', 'A61P  43/00        20060101ALI20051220RMJP', 'A61P  43/00        20060101CLI20051220RMJP', 'C07C               20060101S I20051110RMEP', 'C07C 229/00        20060101CLI20051220RMJP', 'C07C 229/30        20060101ALI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 156532,
+  "date": 19910821,
+  "ucid": "EP-0156532-B1",
+  "classifications": {
+    "main": "B41M   1/30",
+    "further": NaN,
+    "ipcr": "['B41M   5/52        20060101A I20051008RMEP', 'B41M   5/00        20060101CFI20051220RMJP', 'D21H  27/00        20060101ALI20051220RMJP', 'B41M   5/50        20060101A N20070721RMEP', 'B41M   5/50        20060101C I20051008RMEP', 'B41M   5/00        20060101AFI20051220RMJP', 'D21H  27/00        20060101CLI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 206655,
+  "date": 19861230,
+  "ucid": "EP-0206655-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/30        20060101ALI20051220RMJP', 'G06F   9/30        20060101CLI20051220RMJP', 'G06F   9/305       20060101ALI20051220RMJP', 'G06F   9/305       20060101CLI20051220RMJP', 'G06F   9/312       20060101A I20051008RMEP', 'G06F   9/312       20060101C I20051008RMEP', 'G06F   9/34        20060101AFI20051220RMJP', 'G06F   9/34        20060101CFI20051220RMJP']"
+  }
+}

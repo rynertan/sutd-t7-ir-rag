@@ -1,0 +1,10 @@
+{
+  "patent_number": 42759,
+  "date": 19850220,
+  "ucid": "EP-0042759-B1",
+  "classifications": {
+    "main": "B05D   3/00",
+    "further": "B05D   7/06",
+    "ipcr": "['B05D   3/02        20060101C I20051008RMEP', 'B05D   7/06        20060101A I20051008RMEP', 'B05D   3/02        20060101A I20051008RMEP', 'B05D   7/06        20060101C I20051008RMEP']"
+  }
+}

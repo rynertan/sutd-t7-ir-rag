@@ -1,0 +1,10 @@
+{
+  "patent_number": 66412,
+  "date": 19821208,
+  "ucid": "EP-0066412-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G11B   5/027       20060101A I20051008RMEP', 'G11B   5/027       20060101C I20051008RMEP', 'G11B  20/02        20060101ALI20051220RMJP', 'G11B  20/02        20060101CLI20051220RMJP', 'H04B   1/66        20060101A I20051008RMEP', 'H04B   1/66        20060101C I20051008RMEP', 'H04B  14/04        20060101ALI20051220RMJP', 'H04B  14/04        20060101CLI20051220RMJP']"
+  }
+}

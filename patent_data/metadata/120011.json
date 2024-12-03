@@ -1,0 +1,10 @@
+{
+  "patent_number": 120011,
+  "date": 19890301,
+  "ucid": "EP-0120011-B1",
+  "classifications": {
+    "main": "G05G   5/02",
+    "further": "G05G  13/00",
+    "ipcr": "['B64D  31/00        20060101C I20051008RMEP', 'B64D  31/04        20060101A I20051008RMEP']"
+  }
+}

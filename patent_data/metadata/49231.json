@@ -1,0 +1,10 @@
+{
+  "patent_number": 49231,
+  "date": 19850320,
+  "ucid": "EP-0049231-B1",
+  "classifications": {
+    "main": "B21J  15/36",
+    "further": NaN,
+    "ipcr": "['B21J  15/00        20060101C I20051008RMEP', 'B21J  15/18        20060101A I20051008RMEP', 'B21J  15/30        20060101ALI20051220RMJP', 'B21J  15/02        20060101ALI20051220RMJP', 'B21J  15/36        20060101A I20051008RMEP', 'B21J  15/16        20060101ALI20051220RMJP', 'B21J  15/00        20060101ALI20051220RMJP']"
+  }
+}

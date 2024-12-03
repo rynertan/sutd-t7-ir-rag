@@ -1,0 +1,10 @@
+{
+  "patent_number": 96474,
+  "date": 19831221,
+  "ucid": "EP-0096474-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K   9/30        20060101C I20060521RMDE', 'A61K   9/32        20060101A I20060521RMDE', 'A61L   2/00        20060101A I20051008RMEP', 'A61L   2/00        20060101C I20051008RMEP', 'A61L   2/08        20060101A I20051008RMEP', 'A61L   2/08        20060101C I20051008RMEP', 'C08F   2/46        20060101C I20060521RMGB', 'C08F   2/54        20060101A I20060521RMGB']"
+  }
+}

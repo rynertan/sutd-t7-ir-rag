@@ -1,0 +1,10 @@
+{
+  "patent_number": 42968,
+  "date": 19861015,
+  "ucid": "EP-0042968-B1",
+  "classifications": {
+    "main": "G06K   9/20",
+    "further": "G06K   9/03",
+    "ipcr": "['G06T   3/00        20060101A I20051008RMEP', 'G06T   3/00        20060101C I20051008RMEP', 'G06K   9/78        20060101A I20051008RMEP', 'G06K   9/62        20060101AFI20051220RMJP', 'G06K   9/78        20060101C I20051008RMEP', 'G06K   9/62        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 209876,
+  "date": 19871007,
+  "ucid": "EP-0209876-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B21D   7/00        20060101C I20051008RMEP', 'B21D   7/02        20060101C I20051008RMEP', 'B21D   7/022       20060101A I20051008RMEP', 'B21D   7/024       20060101AFI20051220RMJP', 'B21D   7/12        20060101A I20051008RMEP', 'B21F   1/00        20060101ALI20051220RMJP', 'B21F   1/00        20060101CLI20051220RMJP']"
+  }
+}

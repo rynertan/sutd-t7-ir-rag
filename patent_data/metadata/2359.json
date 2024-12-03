@@ -1,0 +1,10 @@
+{
+  "patent_number": 2359,
+  "date": 19820512,
+  "ucid": "EP-0002359-B1",
+  "classifications": {
+    "main": "B60Q  11/00",
+    "further": NaN,
+    "ipcr": "['H03K   3/00        20060101CFI20051220RMJP', 'B60Q  11/00        20060101A I20051008RMEP', 'B60Q   1/38        20060101ALI20051220RMJP', 'B60Q  11/00        20060101C I20051008RMEP', 'B60Q   1/34        20060101CLI20051220RMJP', 'B60Q   1/34        20060101ALI20051220RMJP', 'H03K   3/00        20060101AFI20051220RMJP']"
+  }
+}

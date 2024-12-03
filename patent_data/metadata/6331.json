@@ -1,0 +1,10 @@
+{
+  "patent_number": 6331,
+  "date": 19840104,
+  "ucid": "EP-0006331-B1",
+  "classifications": {
+    "main": "G01D   9/30",
+    "further": "G01D  15/16",
+    "ipcr": "['G01D   9/00        20060101C I20051008RMEP', 'G01D  15/16        20060101A I20051008RMEP', 'G01D   9/30        20060101A I20051008RMEP', 'G01D  15/16        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 12256,
+  "date": 19830413,
+  "ucid": "EP-0012256-B1",
+  "classifications": {
+    "main": "C02F   1/06",
+    "further": "B01D   3/06",
+    "ipcr": "['B01D   3/06        20060101A I20051008RMEP', 'C02F   1/06        20060101C I20051008RMEP', 'B01D   3/00        20060101C I20051008RMEP', 'C02F   1/06        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 66629,
+  "date": 19830406,
+  "ucid": "EP-0066629-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B25J   1/00        20060101ALI20060101BMKR', 'B25J   1/00        20060101CLI20060101BMKR', 'B25J  19/06        20060101A I20051008RMEP', 'B25J  19/06        20060101C I20051008RMEP', 'G05B   9/02        20060101AFI20060310RMJP', 'G05B   9/02        20060101CFI20060310RMJP', 'G05B  19/19        20060101ALI20060310RMJP', 'G05B  19/19        20060101CLI20060310RMJP']"
+  }
+}

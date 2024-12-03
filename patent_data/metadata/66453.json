@@ -1,0 +1,10 @@
+{
+  "patent_number": 66453,
+  "date": 19850904,
+  "ucid": "EP-0066453-B1",
+  "classifications": {
+    "main": "H05B  33/14",
+    "further": NaN,
+    "ipcr": "['H05B  33/14        20060101A I20051008RMEP', 'F21K   2/00        20060101C I20051008RMEP', 'H05B  33/12        20060101ALI20060310RMJP', 'H05B  33/14        20060101C I20051008RMEP', 'F21K   2/08        20060101A I20051008RMEP', 'H05B  33/20        20060101AFI20060310RMJP', 'H05B  33/12        20060101CLI20060310RMJP']"
+  }
+}

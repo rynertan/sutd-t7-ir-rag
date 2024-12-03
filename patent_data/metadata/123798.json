@@ -1,0 +1,10 @@
+{
+  "patent_number": 123798,
+  "date": 19880622,
+  "ucid": "EP-0123798-B1",
+  "classifications": {
+    "main": "F41D  10/24",
+    "further": "F41D  10/38",
+    "ipcr": "['F41A   9/00        20060101C I20051008RMEP', 'F41A   9/54        20060101A I20051008RMEP', 'F41A   9/73        20060101A I20051008RMEP']"
+  }
+}

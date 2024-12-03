@@ -1,0 +1,10 @@
+{
+  "patent_number": 56809,
+  "date": 19850605,
+  "ucid": "EP-0056809-B1",
+  "classifications": {
+    "main": "H03F   3/04",
+    "further": NaN,
+    "ipcr": "['G05F   3/08        20060101C I20051008RMEP', 'H03F   3/34        20060101CLI20051220RMJP', 'H03F   3/34        20060101ALI20051220RMJP', 'G05F   3/26        20060101A I20051008RMEP', 'H03F   3/347       20060101ALI20051220RMJP', 'H03F   3/343       20060101C I20051008RMEP', 'H03F   3/343       20060101A I20051008RMEP']"
+  }
+}

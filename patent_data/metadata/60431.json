@@ -1,0 +1,10 @@
+{
+  "patent_number": 60431,
+  "date": 19820922,
+  "ucid": "EP-0060431-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01J   3/12        20060101AFI20051220RMJP', 'G01J   3/12        20060101CFI20051220RMJP', 'G01N  21/64        20060101A I20051008RMEP', 'G01N  21/64        20060101C I20051008RMEP', 'G02B   5/22        20060101A I20051008RMEP', 'G02B   5/22        20060101C I20051008RMEP', 'G02B   5/28        20060101ALI20051220RMJP', 'G02B   5/28        20060101CLI20051220RMJP']"
+  }
+}

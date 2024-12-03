@@ -1,0 +1,10 @@
+{
+  "patent_number": 42860,
+  "date": 19840725,
+  "ucid": "EP-0042860-B1",
+  "classifications": {
+    "main": "B65H   7/14",
+    "further": "B65H   7/12",
+    "ipcr": "['B65H   7/14        20060101C I20051008RMEP', 'B65H   7/14        20060101A I20051008RMEP', 'B65H   7/12        20060101C I20051008RMEP', 'B65H   7/12        20060101A I20051008RMEP']"
+  }
+}

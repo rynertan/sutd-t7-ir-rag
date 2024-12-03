@@ -1,0 +1,10 @@
+{
+  "patent_number": 90599,
+  "date": 19831005,
+  "ucid": "EP-0090599-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F17C  13/00        20060101C I20051008RMEP', 'F17C  13/02        20060101A I20051008RMEP', 'F25D   3/10        20060101A I20051008RMEP', 'F25D   3/10        20060101C I20051008RMEP', 'G01N   1/28        20060101ALI20051220RMJP', 'G01N   1/28        20060101CLI20051220RMJP', 'G01N   1/42        20060101A I20051008RMEP', 'G01N   1/42        20060101C I20051008RMEP']"
+  }
+}

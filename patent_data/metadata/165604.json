@@ -1,0 +1,10 @@
+{
+  "patent_number": 165604,
+  "date": 19860205,
+  "ucid": "EP-0165604-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G04G  13/00        20060101A I20051008RMEP', 'G04G  13/00        20060101C I20051008RMEP', 'G06F   3/16        20060101A I20051008RMEP', 'G06F   3/16        20060101C I20051008RMEP', 'G11B  15/02        20060101AFI20051220RMJP', 'G11B  15/02        20060101CFI20051220RMJP', 'G11B  27/19        20060101CLI20051220RMJP', 'G11B  27/22        20060101ALI20051220RMJP']"
+  }
+}

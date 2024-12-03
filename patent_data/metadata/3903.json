@@ -1,0 +1,10 @@
+{
+  "patent_number": 3903,
+  "date": 19790905,
+  "ucid": "EP-0003903-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A23L   3/34        20060101C I20051008RMEP', 'A23L   3/3436      20060101A I20051008RMEP', 'C09K   5/00        20060101C I20051008RMEP', 'C09K   5/16        20060101A I20051008RMEP', 'C09K  15/00        20060101A I20051008RMEP', 'C09K  15/00        20060101C I20051008RMEP', 'C10L   5/40        20060101A I20051008RMEP', 'C10L   5/40        20060101C I20051008RMEP']"
+  }
+}

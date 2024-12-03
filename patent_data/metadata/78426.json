@@ -1,0 +1,10 @@
+{
+  "patent_number": 78426,
+  "date": 19860205,
+  "ucid": "EP-0078426-B1",
+  "classifications": {
+    "main": "G06K   7/016",
+    "further": NaN,
+    "ipcr": "['G11B  20/10        20060101CLI20051220RMJP', 'G06K   7/01        20060101C I20051008RMEP', 'G11B  20/14        20060101ALI20051220RMJP', 'G11B  20/14        20060101CLI20051220RMJP', 'G06K   7/016       20060101A I20051008RMEP', 'G11B  20/10        20060101ALI20051220RMJP']"
+  }
+}

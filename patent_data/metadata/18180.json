@@ -1,0 +1,10 @@
+{
+  "patent_number": 18180,
+  "date": 19840808,
+  "ucid": "EP-0018180-B1",
+  "classifications": {
+    "main": "G02F   1/137",
+    "further": NaN,
+    "ipcr": "['G09F   9/35        20060101ALI20051220RMJP', 'G02F   1/133       20060101ALI20051220RMJP', 'G02F   1/1337      20060101AFI20051220RMJP', 'G02F   1/137       20060101ALI20051220RMJP', 'G02F   1/13        20060101C I20051008RMEP', 'G02F   1/139       20060101A I20051008RMEP', 'G09F   9/35        20060101CLI20051220RMJP']"
+  }
+}

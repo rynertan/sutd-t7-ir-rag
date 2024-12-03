@@ -1,0 +1,10 @@
+{
+  "patent_number": 42422,
+  "date": 19850902,
+  "ucid": "EP-0042422-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/38        20060101ALI20051220RMJP', 'G06F   9/38        20060101CLI20051220RMJP', 'G06F  11/07        20060101A I20051008RMEP', 'G06F  11/07        20060101C I20051008RMEP', 'G06F  11/22        20060101AFI20051220RMJP', 'G06F  11/22        20060101CFI20051220RMJP', 'G06F  11/34        20060101A I20051008RMEP', 'G06F  11/34        20060101C I20051008RMEP']"
+  }
+}

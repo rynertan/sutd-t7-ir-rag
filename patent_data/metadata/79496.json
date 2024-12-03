@@ -1,0 +1,10 @@
+{
+  "patent_number": 79496,
+  "date": 19860625,
+  "ucid": "EP-0079496-B1",
+  "classifications": {
+    "main": "G09G   3/36",
+    "further": NaN,
+    "ipcr": "['G09G   3/20        20060101CLI20051220RMJP', 'G09G   3/36        20060101C I20051008RMEP', 'G02F   1/133       20060101ALI20051220RMJP', 'G09F   9/30        20060101ALI20051220RMJP', 'G09F   9/30        20060101CLI20051220RMJP', 'G09G   3/36        20060101A I20051008RMEP', 'G02F   1/13        20060101CLI20051220RMJP', 'G09G   3/20        20060101ALI20051220RMJP']"
+  }
+}

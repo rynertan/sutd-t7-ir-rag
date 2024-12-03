@@ -1,0 +1,10 @@
+{
+  "patent_number": 6000,
+  "date": 19810909,
+  "ucid": "EP-0006000-B1",
+  "classifications": {
+    "main": "C10M   1/50",
+    "further": "F16N  15/00",
+    "ipcr": "['C10M 155/00        20060101C I20051008RMEP', 'F02B   1/00        20060101C N20051008RMEP', 'F02B   1/04        20060101A N20051008RMEP', 'C10M 155/02        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 87008,
+  "date": 19870513,
+  "ucid": "EP-0087008-B1",
+  "classifications": {
+    "main": "G06F   9/26",
+    "further": NaN,
+    "ipcr": "['H03K  19/177       20060101ALI20060310RMJP', 'G06F   9/26        20060101C I20051008RMEP', 'G06F   9/30        20060101ALI20060310RMJP', 'G06F   9/26        20060101A I20051008RMEP', 'H03K  19/177       20060101CLI20060310RMJP', 'G06F   9/22        20060101AFI20060310RMJP', 'G06F   9/30        20060101CLI20060310RMJP', 'G06F   9/22        20060101CFI20060310RMJP']"
+  }
+}

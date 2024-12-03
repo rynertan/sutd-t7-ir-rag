@@ -1,0 +1,10 @@
+{
+  "patent_number": 4131,
+  "date": 19790919,
+  "ucid": "EP-0004131-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B44C   1/00        20060101CLI20051220RMJP', 'B44C   1/28        20060101ALI20051220RMJP', 'B44C   3/00        20060101C I20051008RMEP', 'B44C   3/12        20060101A I20051008RMEP', 'B44F   3/00        20060101A I20051008RMEP', 'B44F   3/00        20060101C I20051008RMEP', 'E04F  13/08        20060101AFI20051220RMJP', 'E04F  13/08        20060101CFI20051220RMJP']"
+  }
+}

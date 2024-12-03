@@ -1,0 +1,10 @@
+{
+  "patent_number": 25356,
+  "date": 19810318,
+  "ucid": "EP-0025356-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61B   3/02        20060101CFI20051220RMJP', 'A61B   3/09        20060101AFI20051220RMJP', 'G02B   6/04        20060101A I20051008RMEP', 'G02B   6/04        20060101C I20051008RMEP', 'G02B   6/06        20060101A I20051008RMEP', 'G02B   6/06        20060101C I20051008RMEP', 'G02B  21/00        20060101A I20051008RMEP', 'G02B  21/00        20060101C I20051008RMEP']"
+  }
+}

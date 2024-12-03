@@ -1,0 +1,10 @@
+{
+  "patent_number": 31250,
+  "date": 19810701,
+  "ucid": "EP-0031250-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['D01H   4/00        20060101C I20051008RMEP', 'D01H   4/16        20060101A I20051008RMEP', 'D02G   3/04        20060101ALI20060310RMJP', 'D02G   3/04        20060101CLI20060310RMJP', 'D02G   3/36        20060101A I20051008RMEP', 'D02G   3/36        20060101C I20051008RMEP', 'D02G   3/38        20060101ALI20060310RMJP', 'D02G   3/38        20060101CLI20060310RMJP']"
+  }
+}

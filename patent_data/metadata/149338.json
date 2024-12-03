@@ -1,0 +1,10 @@
+{
+  "patent_number": 149338,
+  "date": 19881102,
+  "ucid": "EP-0149338-B1",
+  "classifications": {
+    "main": "B60S   1/26",
+    "further": NaN,
+    "ipcr": "['B60S   1/26        20060101AFI20051220RMJP', 'F16H  19/00        20060101A I20051008RMEP', 'B60S   1/16        20060101A I20051008RMEP', 'F16H  35/02        20060101ALI20051220RMJP', 'B60S   1/06        20060101C I20051008RMEP', 'F16H  19/00        20060101C I20051008RMEP', 'F16H  35/00        20060101CLI20051220RMJP']"
+  }
+}

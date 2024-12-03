@@ -1,0 +1,10 @@
+{
+  "patent_number": 207806,
+  "date": 19960619,
+  "ucid": "EP-0207806-B1",
+  "classifications": {
+    "main": "A61B   5/02",
+    "further": "G06F  17/00",
+    "ipcr": "['G06F  17/00        20060101C I20051008RMEP', 'A61B   5/022       20060101C I20051008RMEP', 'A61B   5/022       20060101A I20051008RMEP', 'G06F  17/00        20060101A I20051008RMEP']"
+  }
+}

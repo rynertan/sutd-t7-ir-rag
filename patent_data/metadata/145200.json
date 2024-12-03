@@ -1,0 +1,10 @@
+{
+  "patent_number": 145200,
+  "date": 19850619,
+  "ucid": "EP-0145200-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B29D  17/00        20060101ALI20051220RMJP', 'B29D  17/00        20060101CLI20051220RMJP', 'G11B   5/62        20060101CLI20051220RMJP', 'G11B   5/73        20060101ALI20051220RMJP', 'G11B   5/82        20060101A I20051008RMEP', 'G11B   5/82        20060101C I20051008RMEP', 'G11B  23/00        20060101A I20051008RMEP', 'G11B  23/00        20060101C I20051008RMEP']"
+  }
+}

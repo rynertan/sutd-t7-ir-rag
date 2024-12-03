@@ -1,0 +1,10 @@
+{
+  "patent_number": 189912,
+  "date": 19900207,
+  "ucid": "EP-0189912-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   7/48        20060101C I20051008RMEP', 'G06F   7/494       20060101ALI20060310RMJP', 'G06F   7/50        20060101A I20051008RMEP', 'G06F   7/505       20060101AFI20060310RMJP', 'G06F   7/506       20060101ALI20060310RMJP', 'G06F   7/507       20060101ALI20060310RMJP', 'G06F   7/508       20060101ALI20060310RMJP']"
+  }
+}

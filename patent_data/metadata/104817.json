@@ -1,0 +1,10 @@
+{
+  "patent_number": 104817,
+  "date": 19900718,
+  "ucid": "EP-0104817-B1",
+  "classifications": {
+    "main": "H04N   9/79",
+    "further": NaN,
+    "ipcr": "['H04N   9/68        20060101AFI20051220RMJP', 'H04N   9/79        20060101ALI20051220RMJP', 'H04N   9/793       20060101A I20051008RMEP', 'H04N   9/68        20060101CFI20051220RMJP', 'H04N   9/79        20060101CLI20051220RMJP', 'H04N   9/87        20060101CLI20051220RMJP', 'H04N   9/793       20060101C I20051008RMEP', 'H04N   9/87        20060101ALI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 111901,
+  "date": 19861105,
+  "ucid": "EP-0111901-B1",
+  "classifications": {
+    "main": "C03B  37/025",
+    "further": NaN,
+    "ipcr": "['G02B   6/00        20060101CLI20060310RMJP', 'C03B  37/018       20060101A I20051008RMEP', 'C03B  19/00        20060101CLI20060310RMJP', 'C03B  37/018       20060101C I20051008RMEP', 'G02B   6/00        20060101ALI20060310RMJP', 'C03B  19/14        20060101ALI20060310RMJP']"
+  }
+}

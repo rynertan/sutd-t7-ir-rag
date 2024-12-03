@@ -1,0 +1,10 @@
+{
+  "patent_number": 202789,
+  "date": 19871216,
+  "ucid": "EP-0202789-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60K  31/02        20060101A I20051008RMEP', 'B60K  31/02        20060101C I20051008RMEP', 'F02D   9/02        20060101ALI20051220RMJP', 'F02D   9/02        20060101CLI20051220RMJP', 'F02D  11/00        20060101CFI20051220RMJP', 'F02D  11/02        20060101AFI20051220RMJP', 'F02D  11/10        20060101A I20051008RMEP', 'F02D  11/10        20060101C I20051008RMEP']"
+  }
+}

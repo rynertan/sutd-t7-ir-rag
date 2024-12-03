@@ -1,0 +1,10 @@
+{
+  "patent_number": 183842,
+  "date": 19860611,
+  "ucid": "EP-0183842-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06K  15/00        20060101A I20051008RMEP', 'G06K  15/00        20060101C I20051008RMEP', 'G09G   5/02        20060101A I20051008RMEP', 'G09G   5/02        20060101C I20051008RMEP', 'G09G   5/10        20060101A I20051008RMEP', 'G09G   5/10        20060101C I20051008RMEP', 'H04N   1/52        20060101A I20051008RMEP', 'H04N   1/52        20060101C I20051008RMEP']"
+  }
+}

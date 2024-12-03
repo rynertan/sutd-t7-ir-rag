@@ -1,0 +1,10 @@
+{
+  "patent_number": 117814,
+  "date": 19880203,
+  "ucid": "EP-0117814-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01S   1/00        20060101CLI20051220RMJP', 'G01S   1/14        20060101ALI20051220RMJP', 'G01S   1/44        20060101ALI20051220RMJP', 'G01S   1/54        20060101AFI20051220RMJP', 'G01S   7/40        20060101ALI20051220RMJP', 'G01S   7/40        20060101CLI20051220RMJP', 'H03M  13/00        20060101C I20051008RMEP', 'H03M  13/09        20060101A I20051008RMEP']"
+  }
+}

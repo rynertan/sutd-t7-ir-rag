@@ -1,0 +1,10 @@
+{
+  "patent_number": 186343,
+  "date": 19920219,
+  "ucid": "EP-0186343-B1",
+  "classifications": {
+    "main": "H04L   1/16",
+    "further": NaN,
+    "ipcr": "['H04L   1/16        20060101C I20051008RMEP', 'H04L  29/00        20060101ALI20051220RMJP', 'H04L  29/08        20060101AFI20051220RMJP', 'H04L  29/00        20060101CLI20051220RMJP', 'H04L   1/18        20060101A I20051008RMEP', 'H04L   1/16        20060101A I20051008RMEP', 'H04L  29/08        20060101CLI20051220RMJP']"
+  }
+}

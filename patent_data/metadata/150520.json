@@ -1,0 +1,10 @@
+{
+  "patent_number": 150520,
+  "date": 19871209,
+  "ucid": "EP-0150520-B1",
+  "classifications": {
+    "main": "B62D   9/00",
+    "further": NaN,
+    "ipcr": "['B62D   5/26        20060101AFI20051220RMJP', 'B62D   5/20        20060101ALI19870730BMSU', 'B62D   5/20        20060101CFI20051220RMJP', 'B62D   7/14        20060101A I20051008RMEP', 'B62D   7/14        20060101C I20051008RMEP', 'B62D   9/00        20060101CLI20060101RMRO', 'B62D   9/00        20060101ALI20060101RMRO']"
+  }
+}

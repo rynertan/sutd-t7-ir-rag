@@ -1,0 +1,10 @@
+{
+  "patent_number": 168407,
+  "date": 19870429,
+  "ucid": "EP-0168407-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61M   1/00        20060101AFI20051220RMJP', 'A61M   1/00        20060101CFI20051220RMJP', 'A61M   1/34        20060101A I20051008RMEP', 'A61M   1/34        20060101C I20051008RMEP', 'B01D  61/14        20060101ALI20051220RMJP', 'B01D  61/14        20060101CLI20051220RMJP', 'B01D  61/22        20060101A I20051008RMEP', 'B01D  61/22        20060101C I20051008RMEP']"
+  }
+}

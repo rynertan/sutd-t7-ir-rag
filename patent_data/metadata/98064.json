@@ -1,0 +1,10 @@
+{
+  "patent_number": 98064,
+  "date": 19840111,
+  "ucid": "EP-0098064-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65G   7/00        20060101C I20051008RMEP', 'B65G   7/06        20060101A I20051008RMEP', 'H02B   3/00        20060101A I20051008RMEP', 'H02B   3/00        20060101C I20051008RMEP', 'H04Q   1/02        20060101C I20051008RMEP', 'H04Q   1/10        20060101A I20051008RMEP', 'H05K  13/02        20060101A I20051008RMEP', 'H05K  13/02        20060101C I20051008RMEP']"
+  }
+}

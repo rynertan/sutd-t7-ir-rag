@@ -1,0 +1,10 @@
+{
+  "patent_number": 54052,
+  "date": 19850925,
+  "ucid": "EP-0054052-B1",
+  "classifications": {
+    "main": "A61M  35/00",
+    "further": NaN,
+    "ipcr": "['A61B   5/0215      20060101CFI20060310RMJP', 'A61B   5/145       20060101ALI20060310RMJP', 'A61B   5/0215      20060101AFI20060310RMJP', 'A61B   5/145       20060101CLI20060310RMJP', 'A61M  25/00        20060101A I20051008RMEP', 'A61M  25/00        20060101C I20051008RMEP', 'A61B   5/1473      20060101ALI20060310RMJP']"
+  }
+}

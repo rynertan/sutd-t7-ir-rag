@@ -1,0 +1,10 @@
+{
+  "patent_number": 187741,
+  "date": 19861104,
+  "ucid": "EP-0187741-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B22F   1/00        20060101A I20051008RMEP', 'B22F   1/00        20060101C I20051008RMEP', 'B22F   9/02        20060101AFI20051220RMJP', 'B22F   9/02        20060101CFI20051220RMJP', 'B22F   9/16        20060101ALI20051220RMJP', 'B22F   9/16        20060101C I20051008RMEP', 'B22F   9/24        20060101A I20051008RMEP', 'C22C   1/04        20060101A I20051008RMEP', 'C22C   1/04        20060101C I20051008RMEP']"
+  }
+}

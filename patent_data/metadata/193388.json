@@ -1,0 +1,10 @@
+{
+  "patent_number": 193388,
+  "date": 19910529,
+  "ucid": "EP-0193388-B1",
+  "classifications": {
+    "main": "G11B   7/24",
+    "further": NaN,
+    "ipcr": "['G11B   7/24        20060101ALI20051220RMJP', 'G03C   1/72        20060101ALI20051220RMJP', 'B41M   5/26        20060101AFI20051220RMJP', 'G11B   7/254       20060101ALI20051220RMJP', 'G11B   7/257       20060101A I20051008RMEP', 'G11B   7/24        20060101C I20051008RMEP', 'G03C   1/72        20060101CLI20051220RMJP', 'B41M   5/26        20060101CFI20051220RMJP']"
+  }
+}

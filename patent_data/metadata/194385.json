@@ -1,0 +1,10 @@
+{
+  "patent_number": 194385,
+  "date": 19880921,
+  "ucid": "EP-0194385-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H03M   5/00        20060101C I20051008RMEP', 'H03M   5/12        20060101A I20051008RMEP', 'H04L   7/00        20060101A N20080531RMEP', 'H04L   7/00        20060101C N20080531RMEP', 'H04L   7/02        20060101A N20051008RMEP', 'H04L   7/02        20060101C N20051008RMEP', 'H04L  25/49        20060101ALI20060310RMJP', 'H04L  25/49        20060101CLI20060310RMJP']"
+  }
+}

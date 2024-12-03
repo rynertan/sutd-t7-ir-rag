@@ -1,0 +1,10 @@
+{
+  "patent_number": 126045,
+  "date": 19841121,
+  "ucid": "EP-0126045-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A47B  57/00        20060101C I20051008RMEP', 'A47B  57/40        20060101A I20051008RMEP', 'E04B   1/38        20060101ALI20051220RMJP', 'E04B   1/38        20060101CLI20051220RMJP', 'E04B   1/58        20060101ALI20051220RMJP', 'E04B   1/58        20060101CLI20051220RMJP', 'F16B   7/00        20060101CFI20051220RMJP', 'F16B   7/20        20060101AFI20051220RMJP']"
+  }
+}

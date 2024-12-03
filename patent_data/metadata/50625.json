@@ -1,0 +1,10 @@
+{
+  "patent_number": 50625,
+  "date": 19820505,
+  "ucid": "EP-0050625-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A63H  33/04        20060101C I20051008RMEP', 'A63H  33/08        20060101A I20051008RMEP', 'E04B   2/02        20060101A N20051008RMEP', 'E04B   2/02        20060101C N20051008RMEP', 'E04B   2/04        20060101C I20051008RMEP', 'E04B   2/12        20060101A I20051008RMEP', 'E04B   2/14        20060101C I20051008RMEP', 'E04B   2/16        20060101A I20051008RMEP']"
+  }
+}

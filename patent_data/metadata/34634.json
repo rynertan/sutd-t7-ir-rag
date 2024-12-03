@@ -1,0 +1,10 @@
+{
+  "patent_number": 34634,
+  "date": 19860219,
+  "ucid": "EP-0034634-B1",
+  "classifications": {
+    "main": "G06F  13/00",
+    "further": "G06F  13/28",
+    "ipcr": "['G06F  13/28        20060101A I20051008RMEP', 'G06F  13/20        20060101C I20051008RMEP', 'G06F  13/00        20060101AFI20051220RMJP', 'G06F  13/00        20060101CFI20051220RMJP']"
+  }
+}

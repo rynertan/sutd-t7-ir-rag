@@ -1,0 +1,10 @@
+{
+  "patent_number": 100217,
+  "date": 19850410,
+  "ucid": "EP-0100217-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C12Q   1/26        20060101A I20051008RMEP', 'C12Q   1/26        20060101C I20051008RMEP', 'C12Q   1/54        20060101A I20051008RMEP', 'C12Q   1/54        20060101C I20051008RMEP', 'C12Q   1/60        20060101A I20051008RMEP', 'C12Q   1/60        20060101C I20051008RMEP', 'C12Q   1/62        20060101A I20051008RMEP', 'C12Q   1/62        20060101C I20051008RMEP']"
+  }
+}

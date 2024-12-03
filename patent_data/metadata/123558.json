@@ -1,0 +1,10 @@
+{
+  "patent_number": 123558,
+  "date": 19901114,
+  "ucid": "EP-0123558-B1",
+  "classifications": {
+    "main": "F15B  15/10",
+    "further": NaN,
+    "ipcr": "['B25J   9/14        20060101C I20051008RMEP', 'B25J  17/02        20060101C I20051008RMEP', 'B25J   9/14        20060101A I20051008RMEP', 'F15B  15/00        20060101C I20051008RMEP', 'B25J  17/02        20060101A I20051008RMEP', 'F15B  15/10        20060101A I20051008RMEP']"
+  }
+}

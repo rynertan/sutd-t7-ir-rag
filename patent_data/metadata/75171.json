@@ -1,0 +1,10 @@
+{
+  "patent_number": 75171,
+  "date": 19830330,
+  "ucid": "EP-0075171-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01J   3/28        20060101A I20051008RMEP', 'G01J   3/28        20060101C I20051008RMEP', 'G01N  21/25        20060101CFI20051220RMJP', 'G01N  21/27        20060101AFI20051220RMJP', 'G01N  21/55        20060101A I20051008RMEP', 'G01N  21/55        20060101C I20051008RMEP', 'G02F   1/13        20060101A I20051008RMEP', 'G02F   1/13        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 98132,
+  "date": 19861203,
+  "ucid": "EP-0098132-B1",
+  "classifications": {
+    "main": "F16C   1/14",
+    "further": NaN,
+    "ipcr": "['F16C   1/10        20060101C I20051008RMEP', 'G05G   1/00        20060101ALI20060310RMJP', 'G05G   7/10        20060101ALI20060310RMJP', 'F16C   1/14        20060101A I20051008RMEP', 'G05G   7/00        20060101CLI20060310RMJP', 'G05G   1/00        20060101CLI20060310RMJP', 'F16F  15/08        20060101ALI20060310RMJP', 'F16F  15/08        20060101CLI20060310RMJP']"
+  }
+}

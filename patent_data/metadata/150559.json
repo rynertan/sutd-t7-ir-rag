@@ -1,0 +1,10 @@
+{
+  "patent_number": 150559,
+  "date": 19850807,
+  "ucid": "EP-0150559-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01D  27/08        20060101AFI20051220RMJP', 'B01D  27/08        20060101CFI20051220RMJP', 'B01D  29/13        20060101C I20051008RMEP', 'B01D  29/21        20060101A I20051008RMEP', 'C02F   1/00        20060101A I20051008RMEP', 'C02F   1/00        20060101C I20051008RMEP', 'C02F   1/28        20060101ALI20051220RMJP', 'C02F   1/28        20060101CLI20051220RMJP']"
+  }
+}

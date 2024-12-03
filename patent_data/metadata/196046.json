@@ -1,0 +1,10 @@
+{
+  "patent_number": 196046,
+  "date": 19861001,
+  "ucid": "EP-0196046-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06T   3/40        20060101A I20051008RMEP', 'G06T   3/40        20060101C I20051008RMEP', 'H03M   7/30        20060101ALI20051220RMJP', 'H03M   7/30        20060101CLI20051220RMJP', 'H04N   1/40        20060101A I20051008RMEP', 'H04N   1/40        20060101C I20051008RMEP', 'H04N   1/415       20060101AFI20051220RMJP', 'H04N   1/415       20060101CFI20051220RMJP']"
+  }
+}

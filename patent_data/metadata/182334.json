@@ -1,0 +1,10 @@
+{
+  "patent_number": 182334,
+  "date": 19870902,
+  "ucid": "EP-0182334-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G03B  19/00        20060101CLI20051220RMJP', 'G03B  19/18        20060101ALI20051220RMJP', 'H04N   5/12        20060101A I20051008RMEP', 'H04N   5/12        20060101C I20051008RMEP', 'H04N   5/225       20060101A I20051008RMEP', 'H04N   5/225       20060101C I20051008RMEP', 'H04N   5/238       20060101ALI20051220RMJP', 'H04N   5/238       20060101CLI20051220RMJP']"
+  }
+}

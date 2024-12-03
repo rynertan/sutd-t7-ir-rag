@@ -1,0 +1,10 @@
+{
+  "patent_number": 38816,
+  "date": 19820303,
+  "ucid": "EP-0038816-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C09D   5/23        20060101A I20060521RMUS', 'C09D   5/23        20060101C I20060521RMUS', 'C09J   7/02        20060101ALI20051220RMJP', 'C09J   7/02        20060101CLI20051220RMJP', 'C09J   7/04        20060101A I20051008RMEP', 'C09J   7/04        20060101C I20051008RMEP', 'H01B  17/56        20060101ALI20051220RMJP', 'H01B  17/56        20060101CLI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 201806,
+  "date": 19910828,
+  "ucid": "EP-0201806-B1",
+  "classifications": {
+    "main": "C23C  18/24",
+    "further": NaN,
+    "ipcr": "['C23C  18/20        20060101C I20051008RMEP', 'H05K   3/18        20060101AFI20060310RMJP', 'H05K   3/42        20060101A I20051008RMEP', 'H05K   3/42        20060101C I20051008RMEP', 'C23C  18/24        20060101A I20051008RMEP', 'H05K   3/18        20060101CFI20060310RMJP', 'C23C  18/20        20060101ALI20060310RMJP']"
+  }
+}

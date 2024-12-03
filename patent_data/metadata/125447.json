@@ -1,0 +1,10 @@
+{
+  "patent_number": 125447,
+  "date": 19851121,
+  "ucid": "EP-0125447-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A62B   7/00        20060101C I20051008RMEP', 'A62B   7/14        20060101A I20051008RMEP', 'A62B   9/00        20060101C I20051008RMEP', 'A62B   9/02        20060101A I20051008RMEP', 'B60H   1/00        20060101AFI20060310RMJP', 'B60H   1/00        20060101CFI20060310RMJP', 'B64D  13/00        20060101ALI20060310RMJP', 'B64D  13/00        20060101CLI20060310RMJP']"
+  }
+}

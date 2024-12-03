@@ -1,0 +1,10 @@
+{
+  "patent_number": 31403,
+  "date": 19810708,
+  "ucid": "EP-0031403-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G04G   1/00        20060101A I20051008RMEP', 'G04G   1/00        20060101C I20051008RMEP', 'G04G   3/00        20060101C I20051008RMEP', 'G04G   3/02        20060101A I20051008RMEP', 'G06F   1/14        20060101ALI20051220RMJP', 'G06F   1/14        20060101CLI20051220RMJP', 'G06F   9/46        20060101C I20051008RMEP', 'G06F   9/48        20060101A I20051008RMEP']"
+  }
+}

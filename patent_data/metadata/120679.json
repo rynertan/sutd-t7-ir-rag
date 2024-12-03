@@ -1,0 +1,10 @@
+{
+  "patent_number": 120679,
+  "date": 19860507,
+  "ucid": "EP-0120679-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04N   7/08        20060101A I20051008RMEP', 'H04N   7/08        20060101C I20051008RMEP', 'H04N   7/16        20060101ALI20051220RMJP', 'H04N   7/16        20060101CLI20051220RMJP', 'H04N   7/26        20060101ALI20051220RMJP', 'H04N   7/26        20060101CLI20051220RMJP', 'H04N  11/00        20060101C I20051008RMEP', 'H04N  11/02        20060101A I20051008RMEP']"
+  }
+}

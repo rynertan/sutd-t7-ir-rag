@@ -1,0 +1,10 @@
+{
+  "patent_number": 70901,
+  "date": 19830516,
+  "ucid": "EP-0070901-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01L   7/00        20060101AFI20051220RMJP', 'F01L   7/00        20060101CFI20051220RMJP', 'F01L  13/00        20060101A I20051008RMEP', 'F01L  13/00        20060101C I20051008RMEP', 'F02B  75/02        20060101A N20051008RMEP', 'F02B  75/02        20060101C N20051008RMEP', 'F02D  13/06        20060101ALI20051220RMJP', 'F02D  13/06        20060101CLI20051220RMJP']"
+  }
+}

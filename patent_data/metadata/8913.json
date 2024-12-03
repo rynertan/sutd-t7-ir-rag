@@ -1,0 +1,10 @@
+{
+  "patent_number": 8913,
+  "date": 19800319,
+  "ucid": "EP-0008913-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H03G   1/00        20060101A I20051008RMEP', 'H03G   1/00        20060101C I20051008RMEP', 'H03G   3/00        20060101A I20051008RMEP', 'H03G   3/00        20060101C I20051008RMEP', 'H03G   3/30        20060101A I20051008RMEP', 'H03G   3/30        20060101C I20051008RMEP', 'H04B   3/04        20060101C I20051008RMEP', 'H04B   3/10        20060101AFI20051220RMJP', 'H04B   3/14        20060101A I20051008RMEP']"
+  }
+}

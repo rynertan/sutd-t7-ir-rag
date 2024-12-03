@@ -1,0 +1,10 @@
+{
+  "patent_number": 150566,
+  "date": 19870805,
+  "ucid": "EP-0150566-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B29C  70/10        20060101C I20051008RMEP', 'B29C  70/24        20060101A I20051008RMEP', 'D04C   1/00        20060101C I20051008RMEP', 'D04C   1/06        20060101A I20051008RMEP', 'D04C   3/00        20060101C I20080531RMEP', 'D04C   3/08        20060101A I20080531RMEP', 'F02K   9/00        20060101C I20051008RMEP', 'F02K   9/97        20060101A I20051008RMEP']"
+  }
+}

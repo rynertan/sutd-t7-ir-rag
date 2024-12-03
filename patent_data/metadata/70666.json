@@ -1,0 +1,10 @@
+{
+  "patent_number": 70666,
+  "date": 19851218,
+  "ucid": "EP-0070666-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B07C   5/04        20060101C I20051008RMEP', 'B07C   5/10        20060101A I20051008RMEP', 'G01B  11/02        20060101A I20051008RMEP', 'G01B  11/02        20060101C I20051008RMEP', 'G01B  11/24        20060101A I20051008RMEP', 'G01B  11/24        20060101C I20051008RMEP', 'G01N  21/88        20060101CFI20051220RMJP', 'G01N  21/90        20060101AFI20051220RMJP']"
+  }
+}

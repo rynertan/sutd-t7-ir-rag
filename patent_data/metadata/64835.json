@@ -1,0 +1,10 @@
+{
+  "patent_number": 64835,
+  "date": 19851009,
+  "ucid": "EP-0064835-B1",
+  "classifications": {
+    "main": "B23K   9/12",
+    "further": NaN,
+    "ipcr": "['B65H  51/10        20060101A I20051008RMEP', 'B65H  51/32        20060101AFI20051220RMJP', 'B23K   9/133       20060101A I20051008RMEP', 'B23K   9/133       20060101C I20051008RMEP', 'B23K   9/12        20060101ALI19860423BMSU', 'B23K   9/12        20060101CFI19860423BMSU', 'B65H  51/00        20060101C I20051008RMEP']"
+  }
+}

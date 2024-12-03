@@ -1,0 +1,10 @@
+{
+  "patent_number": 200272,
+  "date": 19890503,
+  "ucid": "EP-0200272-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01N  23/02        20060101CFI20051220RMJP', 'G01N  23/04        20060101AFI20051220RMJP', 'H04N   5/32        20060101A I20051008RMEP', 'H04N   5/32        20060101C I20051008RMEP', 'H05G   1/00        20060101C I20051008RMEP', 'H05G   1/44        20060101A I20051008RMEP', 'H05G   1/46        20060101A I20051008RMEP']"
+  }
+}

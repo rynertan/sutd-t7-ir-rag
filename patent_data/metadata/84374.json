@@ -1,0 +1,10 @@
+{
+  "patent_number": 84374,
+  "date": 19830727,
+  "ucid": "EP-0084374-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01N  25/72        20060101A I20051008RMEP', 'G01N  25/72        20060101C I20051008RMEP', 'G06T   5/50        20060101A I20051008RMEP', 'G06T   5/50        20060101C I20051008RMEP', 'H04N   5/33        20060101AFI20051220RMJP', 'H04N   5/33        20060101CFI20051220RMJP', 'H04N   7/18        20060101ALI20051220RMJP', 'H04N   7/18        20060101CLI20051220RMJP']"
+  }
+}

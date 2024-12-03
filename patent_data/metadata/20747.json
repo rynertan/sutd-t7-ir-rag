@@ -1,0 +1,10 @@
+{
+  "patent_number": 20747,
+  "date": 19840718,
+  "ucid": "EP-0020747-B1",
+  "classifications": {
+    "main": "G06F  15/16",
+    "further": NaN,
+    "ipcr": "['G06F  13/26        20060101ALI20051220RMJP', 'G06F  15/16        20060101CFI20051220RMJP', 'G06F  15/16        20060101AFI20051220RMJP', 'G06F  13/20        20060101CLI20051220RMJP', 'G06F  13/36        20060101C I20051008RMEP', 'G06F  15/177       20060101ALI20051220RMJP', 'G06F  13/376       20060101A I20051008RMEP']"
+  }
+}

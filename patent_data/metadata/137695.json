@@ -1,0 +1,10 @@
+{
+  "patent_number": 137695,
+  "date": 19870909,
+  "ucid": "EP-0137695-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04L   1/20        20060101A I20051008RMEP', 'H04L   1/20        20060101C I20051008RMEP', 'H04N   1/32        20060101ALI20051220RMJP', 'H04N   1/32        20060101CLI20051220RMJP', 'H04N   1/333       20060101A I20051008RMEP', 'H04N   1/333       20060101C I20051008RMEP', 'H04N   1/40        20060101AFI20051220RMJP', 'H04N   1/40        20060101CFI20051220RMJP']"
+  }
+}

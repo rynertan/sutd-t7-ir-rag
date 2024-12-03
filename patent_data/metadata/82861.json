@@ -1,0 +1,10 @@
+{
+  "patent_number": 82861,
+  "date": 19851127,
+  "ucid": "EP-0082861-B1",
+  "classifications": {
+    "main": "G08B  13/02",
+    "further": NaN,
+    "ipcr": "['G08B  13/12        20060101A I20051008RMEP', 'G08B  13/02        20060101C I20051008RMEP', 'H05K   1/02        20060101C N20051008RMEP', 'G08B  13/00        20060101AFI20051220RMJP', 'G08B  13/02        20060101ALI20051220RMJP', 'G08B  13/00        20060101CFI20051220RMJP', 'H05K   1/02        20060101A N20051008RMEP']"
+  }
+}

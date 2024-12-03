@@ -1,0 +1,10 @@
+{
+  "patent_number": 45223,
+  "date": 19851121,
+  "ucid": "EP-0045223-B1",
+  "classifications": {
+    "main": "B65G   7/06",
+    "further": "B60V   1/16",
+    "ipcr": "['B65G   7/00        20060101C I20051008RMEP', 'B60V   3/00        20060101C I20051008RMEP', 'B65G   7/06        20060101A I20051008RMEP', 'B60V   3/02        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 143780,
+  "date": 19850612,
+  "ucid": "EP-0143780-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60K   1/04        20060101A I20051008RMEP', 'B60K   1/04        20060101C I20051008RMEP', 'B60L  11/18        20060101A I20051008RMEP', 'B60L  11/18        20060101C I20051008RMEP', 'H02J   7/00        20060101A I20051008RMEP', 'H02J   7/00        20060101C I20051008RMEP', 'H02J  17/00        20060101ALI20051220RMJP', 'H02J  17/00        20060101CLI20051220RMJP']"
+  }
+}

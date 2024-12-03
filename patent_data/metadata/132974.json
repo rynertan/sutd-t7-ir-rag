@@ -1,0 +1,10 @@
+{
+  "patent_number": 132974,
+  "date": 19851121,
+  "ucid": "EP-0132974-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B02C  23/00        20060101C I20051008RMEP', 'B02C  23/04        20060101A I20051008RMEP', 'B02C  25/00        20060101AFI20060101BMKR', 'B02C  25/00        20060101CFI20060101BMKR', 'F23K   1/00        20060101A I20051008RMEP', 'F23K   1/00        20060101C I20051008RMEP', 'G05B  23/02        20060101ALI20051220RMJP', 'G05B  23/02        20060101CLI20051220RMJP']"
+  }
+}

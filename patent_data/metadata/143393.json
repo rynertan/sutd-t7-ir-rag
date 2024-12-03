@@ -1,0 +1,10 @@
+{
+  "patent_number": 143393,
+  "date": 19861008,
+  "ucid": "EP-0143393-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61D   7/00        20060101AFI20051220RMJP', 'A61D   7/00        20060101CFI20051220RMJP', 'A61K  31/715       20060101A I20051110RMEP', 'A61K  31/715       20060101C I20051110RMEP', 'C12P               20060101S I20051110RMEP', 'C12P  19/00        20060101C I20051110RMEP', 'C12P  19/04        20060101A I20051110RMEP', 'C12R   1/46        20060101A N20051110RMEP']"
+  }
+}

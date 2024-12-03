@@ -1,0 +1,10 @@
+{
+  "patent_number": 22314,
+  "date": 19840201,
+  "ucid": "EP-0022314-B1",
+  "classifications": {
+    "main": "H02K   1/18",
+    "further": "H02K   5/24",
+    "ipcr": "['H02K   1/18        20060101A I20051008RMEP', 'H02K   5/24        20060101AFI20051220RMJP', 'H02K   5/24        20060101CFI20051220RMJP', 'H02K   5/00        20060101ALI20051220RMJP', 'H02K   5/00        20060101CLI20051220RMJP', 'H02K   1/18        20060101C I20051008RMEP']"
+  }
+}

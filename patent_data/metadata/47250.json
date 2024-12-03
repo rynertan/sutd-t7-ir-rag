@@ -1,0 +1,10 @@
+{
+  "patent_number": 47250,
+  "date": 19820317,
+  "ucid": "EP-0047250-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01B  11/02        20060101A I20051008RMEP', 'G01B  11/02        20060101C I20051008RMEP', 'G01B  11/06        20060101A I20051008RMEP', 'G01B  11/06        20060101C I20051008RMEP', 'G01C   3/06        20060101ALI20060310RMJP', 'G01C   3/06        20060101CLI20060310RMJP', 'G01C   3/08        20060101AFI20060310RMJP', 'G01C   3/08        20060101CFI20060310RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 155666,
+  "date": 19870520,
+  "ucid": "EP-0155666-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F24J   2/00        20060101C I20051008RMEP', 'F24J   2/38        20060101A I20051008RMEP', 'F24J   2/38        20060101C I20051008RMEP', 'F24J   2/54        20060101A I20051008RMEP', 'G01S   3/78        20060101C I20051008RMEP', 'G01S   3/786       20060101A I20051008RMEP', 'G02B   7/182       20060101ALI20051220RMJP', 'G02B   7/182       20060101CLI20051220RMJP']"
+  }
+}

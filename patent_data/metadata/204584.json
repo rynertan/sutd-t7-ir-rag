@@ -1,0 +1,10 @@
+{
+  "patent_number": 204584,
+  "date": 19880615,
+  "ucid": "EP-0204584-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01N  23/20        20060101CFI20051220RMJP', 'G01N  23/203       20060101AFI20051220RMJP', 'G01T   1/00        20060101C I20051008RMEP', 'G01T   1/32        20060101A I20051008RMEP', 'G11B  11/00        20060101C I20051008RMEP', 'G11B  11/115       20060101A I20051008RMEP', 'G21K   1/00        20060101C I20051008RMEP', 'G21K   1/16        20060101A I20051008RMEP']"
+  }
+}

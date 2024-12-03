@@ -1,0 +1,10 @@
+{
+  "patent_number": 5640,
+  "date": 19791128,
+  "ucid": "EP-0005640-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   2/25        20060101CLI20051220RMJP', 'B41J   2/26        20060101ALI20051220RMJP', 'B41J   2/27        20060101C I20051008RMEP', 'B41J   2/285       20060101A I20051008RMEP', 'B41J   2/29        20060101ALI20051220RMJP', 'H01F   7/08        20060101A I20051008RMEP', 'H01F   7/08        20060101C I20051008RMEP', 'H01F   7/16        20060101AFI20051220RMJP']"
+  }
+}

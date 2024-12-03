@@ -1,0 +1,10 @@
+{
+  "patent_number": 162006,
+  "date": 19851121,
+  "ucid": "EP-0162006-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B21D  39/00        20060101ALI20051220RMJP', 'B21D  39/00        20060101CLI20051220RMJP', 'B21H   1/00        20060101CLI20051220RMJP', 'B21H   1/04        20060101ALI20051220RMJP', 'B21K  25/00        20060101ALI20051220RMJP', 'B21K  25/00        20060101CLI20051220RMJP', 'B43K   1/00        20060101C I20051008RMEP', 'B43K   1/08        20060101A I20051008RMEP']"
+  }
+}

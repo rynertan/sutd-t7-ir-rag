@@ -1,0 +1,10 @@
+{
+  "patent_number": 1155,
+  "date": 19810527,
+  "ucid": "EP-0001155-B1",
+  "classifications": {
+    "main": "F17D   5/00",
+    "further": "F16L  55/00",
+    "ipcr": "['G01M   3/00        20060101C I20051008RMEP', 'G01M   3/00        20060101A I20051008RMEP']"
+  }
+}

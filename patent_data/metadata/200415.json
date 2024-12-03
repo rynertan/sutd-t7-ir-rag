@@ -1,0 +1,10 @@
+{
+  "patent_number": 200415,
+  "date": 19861105,
+  "ucid": "EP-0200415-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A01N  43/72        20060101CFI20051220RMJP', 'A01N  43/78        20060101AFI20051220RMJP', 'C07D 277/00        20060101C I20051008RMEP', 'C07D 277/14        20060101A I20051008RMEP', 'C07D 277/24        20060101ALI20051220RMJP', 'C07F   9/00        20060101CLI20051220RMJP', 'C07F   9/653       20060101ALI20051220RMJP']"
+  }
+}

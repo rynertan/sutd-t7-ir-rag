@@ -1,0 +1,10 @@
+{
+  "patent_number": 150225,
+  "date": 19850807,
+  "ucid": "EP-0150225-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01D   3/00        20060101C I20051008RMEP', 'B01D   3/06        20060101A I20051008RMEP', 'F28D   9/00        20060101A I20051008RMEP', 'F28D   9/00        20060101C I20051008RMEP', 'F28F   3/08        20060101A I20051008RMEP', 'F28F   3/08        20060101C I20051008RMEP', 'F28F   9/22        20060101A I20051008RMEP', 'F28F   9/22        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 100240,
+  "date": 19840208,
+  "ucid": "EP-0100240-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/06        20060101ALI20060310RMJP', 'G06F   9/06        20060101CLI20060310RMJP', 'G06F  13/10        20060101A I20051008RMEP', 'G06F  13/10        20060101C I20051008RMEP', 'G06F  13/14        20060101AFI20060310RMJP', 'G06F  13/14        20060101CFI20060310RMJP']"
+  }
+}

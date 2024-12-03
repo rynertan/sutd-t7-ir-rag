@@ -1,0 +1,10 @@
+{
+  "patent_number": 42008,
+  "date": 19860409,
+  "ucid": "EP-0042008-B1",
+  "classifications": {
+    "main": "C08G  69/44",
+    "further": "C09J   3/16",
+    "ipcr": "['C09J 177/12        20060101A I20051008RMEP', 'C08G  69/44        20060101A I20051008RMEP', 'C09J 177/00        20060101C I20051008RMEP', 'C08G  69/00        20060101C I20051008RMEP']"
+  }
+}

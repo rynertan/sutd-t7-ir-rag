@@ -1,0 +1,10 @@
+{
+  "patent_number": 87437,
+  "date": 19861126,
+  "ucid": "EP-0087437-B1",
+  "classifications": {
+    "main": "H02M   3/335",
+    "further": NaN,
+    "ipcr": "['H02M   3/24        20060101C I20051008RMEP', 'H04M  19/00        20060101A I20051008RMEP', 'H04M  19/00        20060101C I20051008RMEP', 'H04Q   3/42        20060101CLI20051220RMJP', 'H02M   3/335       20060101A I20051008RMEP', 'H02M   3/28        20060101AFI20051220RMJP', 'H04Q   3/42        20060101ALI20051220RMJP']"
+  }
+}

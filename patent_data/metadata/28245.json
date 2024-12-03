@@ -1,0 +1,10 @@
+{
+  "patent_number": 28245,
+  "date": 19840321,
+  "ucid": "EP-0028245-B1",
+  "classifications": {
+    "main": "F04B  17/00",
+    "further": NaN,
+    "ipcr": "['F04B  43/14        20060101ALI20060310RMJP', 'F04D  33/00        20060101C I20051008RMEP', 'F04B  43/12        20060101ALI20060310RMJP', 'F04B  17/00        20060101CFI20060310RMJP', 'F04B  43/12        20060101CLI20060310RMJP', 'F04D  33/00        20060101A I20051008RMEP', 'F04B  17/00        20060101AFI20060310RMJP']"
+  }
+}

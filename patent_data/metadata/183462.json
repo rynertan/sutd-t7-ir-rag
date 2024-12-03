@@ -1,0 +1,10 @@
+{
+  "patent_number": 183462,
+  "date": 19910828,
+  "ucid": "EP-0183462-B1",
+  "classifications": {
+    "main": "G06F   3/16",
+    "further": "A61H  31/00",
+    "ipcr": "['A61H  31/00        20060101C N20070721RMEP', 'G09B  23/28        20060101A I20051008RMEP', 'A61H  31/00        20060101A N20070721RMEP', 'G09B  23/00        20060101C I20051008RMEP']"
+  }
+}

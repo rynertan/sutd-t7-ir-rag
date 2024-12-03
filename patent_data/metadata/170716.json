@@ -1,0 +1,10 @@
+{
+  "patent_number": 170716,
+  "date": 19860212,
+  "ucid": "EP-0170716-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/00        20060101A I20051008RMEP', 'G06F   1/00        20060101C I20051008RMEP', 'G06K  19/07        20060101A I20051008RMEP', 'G06K  19/07        20060101C I20051008RMEP', 'G07C   9/00        20060101A I20051008RMEP', 'G07C   9/00        20060101C I20051008RMEP', 'G07F   7/08        20060101A I20051008RMEP', 'G07F   7/08        20060101C I20051008RMEP']"
+  }
+}

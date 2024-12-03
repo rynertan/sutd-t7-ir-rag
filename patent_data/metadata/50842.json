@@ -1,0 +1,10 @@
+{
+  "patent_number": 50842,
+  "date": 19880120,
+  "ucid": "EP-0050842-B1",
+  "classifications": {
+    "main": "G06K   9/68",
+    "further": "A61B   5/10",
+    "ipcr": "['G06K   9/00        20060101C I20051008RMEP', 'G06K   9/00        20060101A I20051008RMEP']"
+  }
+}

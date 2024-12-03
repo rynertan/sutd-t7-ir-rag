@@ -1,0 +1,10 @@
+{
+  "patent_number": 104302,
+  "date": 19840404,
+  "ucid": "EP-0104302-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['E01H   4/00        20060101C I20051008RMEP', 'E01H   4/02        20060101A I20051008RMEP', 'E01H   5/04        20060101C I20051008RMEP', 'E01H   5/06        20060101A I20051008RMEP', 'E02F   3/36        20060101A I20051008RMEP', 'E02F   3/36        20060101C I20051008RMEP', 'E02F   3/40        20060101AFI20051220RMJP', 'E02F   3/40        20060101CFI20051220RMJP']"
+  }
+}

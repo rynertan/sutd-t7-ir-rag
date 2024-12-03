@@ -1,0 +1,10 @@
+{
+  "patent_number": 95165,
+  "date": 19860312,
+  "ucid": "EP-0095165-B1",
+  "classifications": {
+    "main": "H04L   1/06",
+    "further": NaN,
+    "ipcr": "['H04J   3/00        20060101CLI20051220RMJP', 'H04L   1/02        20060101C I20051008RMEP', 'H04B   7/26        20060101CLI20051220RMJP', 'H04J   3/00        20060101ALI20051220RMJP', 'H04B   7/185       20060101C I20051008RMEP', 'H04L   1/06        20060101A I20051008RMEP', 'H04B   7/26        20060101ALI20051220RMJP', 'H04B   7/185       20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 90827,
+  "date": 19841109,
+  "ucid": "EP-0090827-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01D  35/06        20060101AFI20051220RMJP', 'B01D  35/06        20060101CFI20051220RMJP', 'B03C   1/00        20060101A I20051008RMEP', 'B03C   1/00        20060101C I20051008RMEP', 'B03C   1/005       20060101C I20051008RMEP', 'B03C   1/01        20060101A I20051008RMEP', 'B03C   1/02        20060101A I20051008RMEP', 'B03C   1/02        20060101C I20051008RMEP']"
+  }
+}

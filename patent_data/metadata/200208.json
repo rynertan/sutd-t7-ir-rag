@@ -1,0 +1,10 @@
+{
+  "patent_number": 200208,
+  "date": 19910828,
+  "ucid": "EP-0200208-B1",
+  "classifications": {
+    "main": "A61K   7/09",
+    "further": NaN,
+    "ipcr": "['A61K   8/44        20060101A I20070721RMEP', 'A61Q   5/04        20060101ALI20060310RMJP', 'A61K   8/00        20060101AFI20060310RMJP', 'A61K               20060101S I20051110RMEP', 'A61K   8/30        20060101CLI20060310RMJP', 'A61Q   5/04        20060101CLI20060310RMJP', 'A61K   8/46        20060101ALI20060310RMJP', 'A61K   8/00        20060101CFI20060310RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 12465,
+  "date": 19800625,
+  "ucid": "EP-0012465-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A23L   1/0522      20060101A I20051008RMEP', 'A23L   1/0522      20060101C I20051008RMEP', 'A23L   1/24        20060101A I20051008RMEP', 'A23L   1/24        20060101C I20051008RMEP', 'A23L   1/39        20060101C I20051008RMEP', 'A23L   1/40        20060101A I20051008RMEP', 'C08B  30/00        20060101CFI20051220RMJP', 'C08B  30/12        20060101AFI20051220RMJP']"
+  }
+}

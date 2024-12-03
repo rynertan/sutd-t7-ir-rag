@@ -1,0 +1,10 @@
+{
+  "patent_number": 8900,
+  "date": 19830309,
+  "ucid": "EP-0008900-B1",
+  "classifications": {
+    "main": "G01L   7/08",
+    "further": "F16J   3/02",
+    "ipcr": "['F16J   3/02        20060101A I20051008RMEP', 'G01L   7/08        20060101A I20051008RMEP', 'G01L   7/02        20060101C I20051008RMEP', 'G01L   7/10        20060101A I20051008RMEP', 'F16J   3/00        20060101C I20051008RMEP']"
+  }
+}

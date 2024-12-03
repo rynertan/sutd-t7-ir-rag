@@ -1,0 +1,10 @@
+{
+  "patent_number": 152356,
+  "date": 19850821,
+  "ucid": "EP-0152356-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A24C   5/32        20060101A I20051008RMEP', 'A24C   5/32        20060101C I20051008RMEP', 'B65G  47/14        20060101A I20051008RMEP', 'B65G  47/14        20060101C I20051008RMEP', 'B65G  47/26        20060101ALI20051220RMJP', 'B65G  47/26        20060101CLI20051220RMJP', 'B65G  65/00        20060101C I20051008RMEP', 'B65G  65/42        20060101A I20051008RMEP']"
+  }
+}

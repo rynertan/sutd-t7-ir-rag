@@ -1,0 +1,10 @@
+{
+  "patent_number": 184353,
+  "date": 19860611,
+  "ucid": "EP-0184353-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A47B  21/00        20060101A I20051008RMEP', 'A47B  21/00        20060101C I20051008RMEP', 'F16M  11/02        20060101C I20051008RMEP', 'F16M  11/12        20060101A I20051008RMEP', 'F16M  13/02        20060101A I20051008RMEP', 'F16M  13/02        20060101C I20051008RMEP', 'G06F   1/16        20060101AFI20051220RMJP', 'G06F   1/16        20060101CFI20051220RMJP']"
+  }
+}

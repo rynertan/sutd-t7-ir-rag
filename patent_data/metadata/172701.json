@@ -1,0 +1,10 @@
+{
+  "patent_number": 172701,
+  "date": 19860226,
+  "ucid": "EP-0172701-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F16H   3/44        20060101C I20051008RMEP', 'F16H   3/72        20060101A I20051008RMEP', 'F16H   9/02        20060101CFI20051220RMJP', 'F16H   9/12        20060101AFI20051220RMJP', 'F16H  37/02        20060101ALI20051220RMJP', 'F16H  37/02        20060101CLI20051220RMJP', 'F16H  37/06        20060101C I20051008RMEP', 'F16H  37/08        20060101A I20051008RMEP']"
+  }
+}

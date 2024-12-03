@@ -1,0 +1,10 @@
+{
+  "patent_number": 7155,
+  "date": 19800123,
+  "ucid": "EP-0007155-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01F   1/20        20060101C I20051008RMEP', 'G01F   1/28        20060101A I20051008RMEP', 'G01F  23/284       20060101C I20051008RMEP', 'G01F  23/292       20060101A I20051008RMEP', 'G01L   9/00        20060101A I20051008RMEP', 'G01L   9/00        20060101C I20051008RMEP', 'G01P   5/02        20060101C I20051008RMEP', 'G01P   5/04        20060101A I20051008RMEP']"
+  }
+}

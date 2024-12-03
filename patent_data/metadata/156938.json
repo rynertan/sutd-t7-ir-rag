@@ -1,0 +1,10 @@
+{
+  "patent_number": 156938,
+  "date": 19880622,
+  "ucid": "EP-0156938-B1",
+  "classifications": {
+    "main": "A22C  11/02",
+    "further": NaN,
+    "ipcr": "['A22C  11/00        20060101ALI20051220RMJP', 'A22C  13/00        20060101ALI20051220RMJP', 'A22C  11/02        20060101A I20051008RMEP', 'B65B   9/10        20060101CFI20051220RMJP', 'A22C  11/00        20060101C I20051008RMEP', 'B65B   9/15        20060101AFI20051220RMJP', 'A22C  13/00        20060101CLI20051220RMJP']"
+  }
+}

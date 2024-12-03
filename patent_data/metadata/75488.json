@@ -1,0 +1,10 @@
+{
+  "patent_number": 75488,
+  "date": 19860730,
+  "ucid": "EP-0075488-B1",
+  "classifications": {
+    "main": "B65G  27/08",
+    "further": "G01G  13/08",
+    "ipcr": "['B65G  27/08        20060101A I20051008RMEP', 'B65G  27/00        20060101C I20051008RMEP', 'G01G  13/00        20060101C I20051008RMEP', 'G01G  13/08        20060101A I20051008RMEP']"
+  }
+}

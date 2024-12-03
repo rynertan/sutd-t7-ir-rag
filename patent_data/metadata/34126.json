@@ -1,0 +1,10 @@
+{
+  "patent_number": 34126,
+  "date": 19840704,
+  "ucid": "EP-0034126-B1",
+  "classifications": {
+    "main": "A61K   7/15",
+    "further": NaN,
+    "ipcr": "['A61K   8/65        20060101A I20051008RMEP', 'A61K   8/30        20060101C I20051008RMEP', 'A61K   8/00        20060101AFI20060310RMJP', 'A61Q   9/02        20060101C I20060722RMEP', 'A61K   8/64        20060101A I20051008RMEP', 'A61K   8/40        20060101ALI20060310RMJP', 'A61Q   9/02        20060101A I20060722RMEP', 'A61K   8/00        20060101CFI20060310RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 206528,
+  "date": 19900103,
+  "ucid": "EP-0206528-B1",
+  "classifications": {
+    "main": "B64F   1/22",
+    "further": NaN,
+    "ipcr": "['B60P   1/06        20060101AFI20051220RMJP', 'B64F   1/00        20060101C I20051008RMEP', 'B64F   1/10        20060101ALI20051220RMJP', 'B64F   1/22        20060101A I20051008RMEP', 'B60P   1/04        20060101CFI20051220RMJP', 'B60P   3/06        20060101CLI20051220RMJP', 'B60P   3/11        20060101ALI20051220RMJP']"
+  }
+}

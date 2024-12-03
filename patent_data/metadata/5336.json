@@ -1,0 +1,10 @@
+{
+  "patent_number": 5336,
+  "date": 19820512,
+  "ucid": "EP-0005336-B1",
+  "classifications": {
+    "main": "B65G  25/02",
+    "further": "B08B  13/00",
+    "ipcr": "['B65G  25/02        20060101A I20051008RMEP', 'B08B  13/00        20060101C I20051008RMEP', 'B08B  13/00        20060101A I20051008RMEP', 'B65G  25/00        20060101C I20051008RMEP']"
+  }
+}

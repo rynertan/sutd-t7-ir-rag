@@ -1,0 +1,10 @@
+{
+  "patent_number": 29915,
+  "date": 19810610,
+  "ucid": "EP-0029915-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01N   1/00        20060101ALI20051220RMJP', 'G01N   1/00        20060101CLI20051220RMJP', 'G01N  33/50        20060101ALI20051220RMJP', 'G01N  33/50        20060101CLI20051220RMJP', 'G01N  33/64        20060101A I20051008RMEP', 'G01N  33/64        20060101C I20051008RMEP', 'G01N  33/96        20060101A I20051008RMEP', 'G01N  33/96        20060101C I20051008RMEP']"
+  }
+}

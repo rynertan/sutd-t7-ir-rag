@@ -1,0 +1,10 @@
+{
+  "patent_number": 82660,
+  "date": 19870902,
+  "ucid": "EP-0082660-B1",
+  "classifications": {
+    "main": "G21C   3/32",
+    "further": NaN,
+    "ipcr": "['F22B  37/00        20060101CLI20051220RMJP', 'G21C   3/33        20060101AFI20051220RMJP', 'F22B   1/00        20060101CLI20051220RMJP', 'F22B  37/10        20060101ALI20051220RMJP', 'F22B   1/06        20060101ALI20051220RMJP', 'G21C   3/33        20060101CFI20051220RMJP', 'G21C   3/336       20060101A I20051008RMEP', 'G21C   3/32        20060101C I20051008RMEP']"
+  }
+}

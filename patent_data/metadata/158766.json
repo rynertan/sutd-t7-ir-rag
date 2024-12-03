@@ -1,0 +1,10 @@
+{
+  "patent_number": 158766,
+  "date": 19851023,
+  "ucid": "EP-0158766-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   5/30        20060101ALI20051220RMJP', 'B41J   5/30        20060101CLI20051220RMJP', 'B41J  21/00        20060101ALI20051220RMJP', 'B41J  21/00        20060101CLI20051220RMJP', 'G06F   3/12        20060101AFI20051220RMJP', 'G06F   3/12        20060101CFI20051220RMJP', 'G06F  17/24        20060101A I20051008RMEP', 'G06F  17/24        20060101C I20051008RMEP']"
+  }
+}

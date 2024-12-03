@@ -1,0 +1,10 @@
+{
+  "patent_number": 145778,
+  "date": 19850626,
+  "ucid": "EP-0145778-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K   9/24        20060101A I20051008RMEP', 'A61K   9/24        20060101C I20051008RMEP', 'A61K   9/48        20060101A I20051008RMEP', 'A61K   9/48        20060101C I20051008RMEP', 'A61K  31/357       20060101CLI20051220RMJP', 'A61K  31/36        20060101ALI20051220RMJP', 'A61K  39/35        20060101A I20051008RMEP', 'A61K  39/35        20060101C I20051008RMEP']"
+  }
+}

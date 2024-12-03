@@ -1,0 +1,10 @@
+{
+  "patent_number": 75630,
+  "date": 19830406,
+  "ucid": "EP-0075630-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/26        20060101A I20051008RMEP', 'G06F   9/26        20060101C I20051008RMEP', 'G06F   9/28        20060101A I20051008RMEP', 'G06F   9/28        20060101C I20051008RMEP', 'G06F   9/38        20060101A I20051008RMEP', 'G06F   9/38        20060101C I20051008RMEP', 'G06F   9/46        20060101C I20051008RMEP', 'G06F   9/50        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 23916,
+  "date": 19840613,
+  "ucid": "EP-0023916-B1",
+  "classifications": {
+    "main": "H01H   5/00",
+    "further": NaN,
+    "ipcr": "['H01H   5/00        20060101AFI20051220RMJP', 'H01H  35/24        20060101ALI20051220RMJP', 'H01H   5/18        20060101A I20051008RMEP', 'H01H  35/26        20060101A I20051008RMEP', 'H01H   5/00        20060101C I20051008RMEP', 'H01H   5/28        20060101ALI20051220RMJP', 'H01H  35/24        20060101C I20051008RMEP']"
+  }
+}

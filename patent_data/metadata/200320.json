@@ -1,0 +1,10 @@
+{
+  "patent_number": 200320,
+  "date": 19890524,
+  "ucid": "EP-0200320-B1",
+  "classifications": {
+    "main": "C08J   9/12",
+    "further": "C08L  83/04",
+    "ipcr": "['C08J   9/00        20060101C I20051008RMEP', 'C08J   9/12        20060101A I20051008RMEP', 'C08J   9/04        20060101ALI20051220RMJP', 'C08L  83/06        20060101AFI20051220RMJP', 'C08L  83/04        20060101ALI20051220RMJP', 'C08L  83/00        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 87239,
+  "date": 19861120,
+  "ucid": "EP-0087239-B1",
+  "classifications": {
+    "main": "F16D   3/18",
+    "further": NaN,
+    "ipcr": "['F16D   3/18        20060101A I20051008RMEP', 'F16D   3/16        20060101C I20051008RMEP', 'F03C   2/08        20060101ALI20051220RMJP', 'F04C   2/00        20060101CFI20051220RMJP', 'F03C   2/00        20060101CLI20051220RMJP', 'G01B  21/20        20060101ALI20051220RMJP', 'F04C   2/10        20060101AFI20051220RMJP', 'G01B  21/20        20060101CLI20051220RMJP']"
+  }
+}

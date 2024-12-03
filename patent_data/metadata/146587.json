@@ -1,0 +1,10 @@
+{
+  "patent_number": 146587,
+  "date": 19880803,
+  "ucid": "EP-0146587-B1",
+  "classifications": {
+    "main": "G06K  13/04",
+    "further": NaN,
+    "ipcr": "['G06K   7/08        20060101C I20051008RMEP', 'B65H   5/08        20060101CLI20051220RMJP', 'G06K  13/02        20060101C I20051008RMEP', 'B65H   5/10        20060101ALI20051220RMJP', 'B65H   5/14        20060101ALI20051220RMJP', 'G06K   7/08        20060101A I20051008RMEP', 'G06K  13/07        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 39246,
+  "date": 19850220,
+  "ucid": "EP-0039246-B1",
+  "classifications": {
+    "main": "G03B   7/095",
+    "further": NaN,
+    "ipcr": "['G03B   7/095       20060101A I20051008RMEP', 'G03B   9/00        20060101A I20051008RMEP', 'G03B   9/02        20060101CLI20051220RMJP', 'G03B   7/091       20060101C I20051008RMEP', 'G03B   7/091       20060101A I20051008RMEP', 'G03B   9/00        20060101C I20051008RMEP', 'G03B   9/02        20060101ALI20051220RMJP']"
+  }
+}

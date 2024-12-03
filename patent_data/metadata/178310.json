@@ -1,0 +1,10 @@
+{
+  "patent_number": 178310,
+  "date": 19860423,
+  "ucid": "EP-0178310-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65G  53/40        20060101AFI19881123BMSU', 'B65G  53/40        20060101CFI19881123BMSU', 'C21C   7/00        20060101A I20051008RMEP', 'C21C   7/00        20060101C I20051008RMEP', 'C22B   9/00        20060101C I20051008RMEP', 'C22B   9/10        20060101A I20051008RMEP', 'F27D   3/00        20060101C I20051008RMEP', 'F27D   3/16        20060101A I20051008RMEP']"
+  }
+}

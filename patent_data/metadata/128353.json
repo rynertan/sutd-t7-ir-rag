@@ -1,0 +1,10 @@
+{
+  "patent_number": 128353,
+  "date": 19841219,
+  "ucid": "EP-0128353-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F  11/14        20060101A I20051008RMEP', 'G06F  11/14        20060101C I20051008RMEP', 'G06F  12/08        20060101A I20051008RMEP', 'G06F  12/08        20060101C I20051008RMEP', 'G06F  12/16        20060101ALI20051220RMJP', 'G06F  12/16        20060101CLI20051220RMJP', 'H04L   1/00        20060101AFI20051220RMJP', 'H04L   1/00        20060101CFI20051220RMJP']"
+  }
+}

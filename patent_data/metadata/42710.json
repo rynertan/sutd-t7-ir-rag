@@ -1,0 +1,10 @@
+{
+  "patent_number": 42710,
+  "date": 19860312,
+  "ucid": "EP-0042710-B1",
+  "classifications": {
+    "main": "A23L   1/06",
+    "further": NaN,
+    "ipcr": "['A23L   1/05        20060101C I20051008RMEP', 'A23L   1/052       20060101C I20051008RMEP', 'A23L   1/064       20060101A I20051008RMEP', 'A23L   1/0524      20060101A I20051008RMEP', 'A23L   1/05        20060101A I20051008RMEP', 'A23L   1/06        20060101C I20051008RMEP']"
+  }
+}

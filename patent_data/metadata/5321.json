@@ -1,0 +1,10 @@
+{
+  "patent_number": 5321,
+  "date": 19791114,
+  "ucid": "EP-0005321-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A01N  57/00        20060101C I20051008RMEP', 'A01N  57/26        20060101AFI20060101RMRO', 'A01N  57/34        20060101A I20051008RMEP', 'A01P  13/00        20060101ALI20060419RMRU', 'A01P  13/00        20060101CLI20060419RMRU', 'C07F   9/00        20060101C I20051008RMEP', 'C07F   9/38        20060101ALI20060101RMRO', 'C07F   9/42        20060101A I20051008RMEP']"
+  }
+}

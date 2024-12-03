@@ -1,0 +1,10 @@
+{
+  "patent_number": 127656,
+  "date": 19900228,
+  "ucid": "EP-0127656-B1",
+  "classifications": {
+    "main": "G06F   9/04",
+    "further": "G06F  13/00",
+    "ipcr": "['H04M   9/00        20060101C I20051008RMEP', 'H04M   9/00        20060101A I20051008RMEP']"
+  }
+}

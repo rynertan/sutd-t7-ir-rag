@@ -1,0 +1,10 @@
+{
+  "patent_number": 52107,
+  "date": 19850925,
+  "ucid": "EP-0052107-B1",
+  "classifications": {
+    "main": "G10K  15/04",
+    "further": NaN,
+    "ipcr": "['A63H   5/00        20060101ALI20051220RMJP', 'G10K  15/06        20060101ALI20051220RMJP', 'G01V   1/137       20060101A I20051008RMEP', 'G01V   1/02        20060101C I20051008RMEP', 'G10K  15/04        20060101AFI20051220RMJP', 'G10K  15/04        20060101CFI20051220RMJP', 'A63H   5/00        20060101CLI20051220RMJP']"
+  }
+}

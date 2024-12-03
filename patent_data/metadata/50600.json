@@ -1,0 +1,10 @@
+{
+  "patent_number": 50600,
+  "date": 19850522,
+  "ucid": "EP-0050600-B1",
+  "classifications": {
+    "main": "B61K   3/02",
+    "further": NaN,
+    "ipcr": "['F16N  13/02        20060101ALI20051220RMJP', 'B61K   3/02        20060101A I20051008RMEP', 'F04B  17/04        20060101ALI20051220RMJP', 'F04B  17/03        20060101CLI20051220RMJP', 'B61K   3/00        20060101C I20051008RMEP', 'F16N  13/00        20060101CLI20051220RMJP', 'B05B   9/04        20060101CFI20051220RMJP', 'B05B   9/04        20060101AFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 140299,
+  "date": 19920909,
+  "ucid": "EP-0140299-B1",
+  "classifications": {
+    "main": "G06F   9/34",
+    "further": "G06F   9/30",
+    "ipcr": "['G06F  17/16        20060101CFI20051220RMJP', 'G06F  15/78        20060101A I20051008RMEP', 'G06F  17/16        20060101AFI20051220RMJP', 'G06F  15/76        20060101C I20051008RMEP']"
+  }
+}

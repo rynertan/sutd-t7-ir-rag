@@ -1,0 +1,10 @@
+{
+  "patent_number": 83888,
+  "date": 19870513,
+  "ucid": "EP-0083888-B1",
+  "classifications": {
+    "main": "F16D   1/08",
+    "further": NaN,
+    "ipcr": "['F16D   1/092       20060101A I20051008RMEP', 'F16B  31/04        20060101ALI20051220RMJP', 'F16D   1/091       20060101A I20051008RMEP', 'F16D   1/06        20060101C I20051008RMEP', 'F16B   4/00        20060101AFI20051220RMJP', 'F16B   4/00        20060101CFI20051220RMJP', 'F16B  31/00        20060101CLI20051220RMJP']"
+  }
+}

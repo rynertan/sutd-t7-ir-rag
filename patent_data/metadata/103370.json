@@ -1,0 +1,10 @@
+{
+  "patent_number": 103370,
+  "date": 19840321,
+  "ucid": "EP-0103370-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F02C   6/00        20060101CFI20051220RMJP', 'F02C   6/20        20060101AFI20051220RMJP', 'F02C   7/00        20060101C I20051008RMEP', 'F02C   7/08        20060101A I20051008RMEP', 'F02C   7/08        20060101C I20051008RMEP', 'F02C   7/36        20060101A I20051008RMEP', 'F02C   9/00        20060101CLI20051220RMJP', 'F02C   9/16        20060101ALI20051220RMJP']"
+  }
+}

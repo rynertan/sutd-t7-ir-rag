@@ -1,0 +1,10 @@
+{
+  "patent_number": 137935,
+  "date": 19880601,
+  "ucid": "EP-0137935-B1",
+  "classifications": {
+    "main": "A61K   7/16",
+    "further": NaN,
+    "ipcr": "['A61K   8/19        20060101C I20051008RMEP', 'A61K   8/25        20060101ALI20060310RMJP', 'A61Q  11/00        20060101A I20051008RMEP', 'A61K   8/00        20060101CFI20060310RMJP', 'A61K   8/00        20060101AFI20060310RMJP', 'A61Q  11/00        20060101C I20051008RMEP', 'A61K   8/28        20060101A I20051008RMEP']"
+  }
+}

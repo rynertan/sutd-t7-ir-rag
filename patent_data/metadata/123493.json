@@ -1,0 +1,10 @@
+{
+  "patent_number": 123493,
+  "date": 19870722,
+  "ucid": "EP-0123493-B1",
+  "classifications": {
+    "main": "C09K   5/00",
+    "further": NaN,
+    "ipcr": "['C09K   9/00        20060101AFI20051220RMJP', 'C09K   5/16        20060101A I20051008RMEP', 'C09K   5/00        20060101C I20051008RMEP', 'C09K   9/00        20060101CFI20051220RMJP']"
+  }
+}

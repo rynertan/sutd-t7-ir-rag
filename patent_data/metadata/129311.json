@@ -1,0 +1,10 @@
+{
+  "patent_number": 129311,
+  "date": 19870708,
+  "ucid": "EP-0129311-B1",
+  "classifications": {
+    "main": "F01D   5/04",
+    "further": NaN,
+    "ipcr": "['F01D   5/04        20060101A I20051008RMEP', 'F01D   5/02        20060101C I20051008RMEP', 'F04D  29/28        20060101AFI20060310RMJP', 'B21D  53/78        20060101ALI20060310RMJP', 'F01D   5/02        20060101A I20051008RMEP', 'F04D  29/28        20060101CFI20060310RMJP', 'B21D  53/00        20060101CLI20060310RMJP']"
+  }
+}

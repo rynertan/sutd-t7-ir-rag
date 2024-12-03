@@ -1,0 +1,10 @@
+{
+  "patent_number": 103360,
+  "date": 19880420,
+  "ucid": "EP-0103360-B1",
+  "classifications": {
+    "main": "G01L   1/14",
+    "further": "G01G   7/06",
+    "ipcr": "['G01L   1/14        20060101A I20051008RMEP', 'G01G   7/00        20060101C I20051008RMEP', 'G01G   7/06        20060101A I20051008RMEP', 'G01L   1/14        20060101C I20051008RMEP']"
+  }
+}

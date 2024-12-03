@@ -1,0 +1,10 @@
+{
+  "patent_number": 29382,
+  "date": 19890322,
+  "ucid": "EP-0029382-B2",
+  "classifications": {
+    "main": "C12N   9/78",
+    "further": NaN,
+    "ipcr": "['C12N   9/78        20060101A I20051008RMEP', 'C12N   1/00        20060101AFI20051220RMJP', 'C12N   1/20        20060101ALI20051220RMJP', 'C12N   9/80        20060101ALI20051220RMJP', 'C12N   1/20        20060101CLI20051220RMJP', 'C12N   9/78        20060101C I20051008RMEP', 'C12R   1/20        20060101ALN20051220RMJP', 'C12N   1/00        20060101CFI20051220RMJP']"
+  }
+}

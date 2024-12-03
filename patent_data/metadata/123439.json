@@ -1,0 +1,10 @@
+{
+  "patent_number": 123439,
+  "date": 19880824,
+  "ucid": "EP-0123439-B1",
+  "classifications": {
+    "main": "H02K  11/00",
+    "further": NaN,
+    "ipcr": "['H02M   7/12        20060101C I20051008RMEP', 'H02M   7/155       20060101A I20051008RMEP', 'G01R  31/34        20060101A I20051008RMEP', 'G01R  31/34        20060101C I20051008RMEP']"
+  }
+}

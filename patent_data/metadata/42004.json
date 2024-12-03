@@ -1,0 +1,10 @@
+{
+  "patent_number": 42004,
+  "date": 19850911,
+  "ucid": "EP-0042004-B1",
+  "classifications": {
+    "main": "F41G   3/26",
+    "further": "F41G   3/08",
+    "ipcr": "['F41G   3/08        20060101AFI20051220RMJP', 'F41G   3/26        20060101A I20051008RMEP', 'F41G   3/00        20060101C I20051008RMEP']"
+  }
+}

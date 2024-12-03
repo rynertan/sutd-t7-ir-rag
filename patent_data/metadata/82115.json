@@ -1,0 +1,10 @@
+{
+  "patent_number": 82115,
+  "date": 19840222,
+  "ucid": "EP-0082115-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C03C   4/00        20060101C I20051008RMEP', 'C03C   4/06        20060101A I20051008RMEP', 'C08K   7/00        20060101C I20051008RMEP', 'C08K   7/20        20060101A I20051008RMEP', 'G02B   5/22        20060101C I20051008RMEP', 'G02B   5/23        20060101A I20051008RMEP', 'G03C   1/72        20060101C I20051008RMEP', 'G03C   1/725       20060101A I20051008RMEP']"
+  }
+}

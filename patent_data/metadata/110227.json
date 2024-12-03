@@ -1,0 +1,10 @@
+{
+  "patent_number": 110227,
+  "date": 19860716,
+  "ucid": "EP-0110227-B1",
+  "classifications": {
+    "main": "G06F   9/22",
+    "further": NaN,
+    "ipcr": "['G06F   9/26        20060101C I20051008RMEP', 'G06F   9/30        20060101C I20070721RMEP', 'G06F   9/22        20060101C I20051008RMEP', 'G06F   9/22        20060101A I20051008RMEP', 'G06F   9/26        20060101A I20051008RMEP', 'G06F   9/30        20060101A I20070721RMEP']"
+  }
+}

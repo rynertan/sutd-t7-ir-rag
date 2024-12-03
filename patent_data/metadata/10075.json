@@ -1,0 +1,10 @@
+{
+  "patent_number": 10075,
+  "date": 19800416,
+  "ucid": "EP-0010075-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B25D   9/00        20060101C I20051008RMEP', 'B25D   9/06        20060101AFI20051220RMJP', 'B25D   9/12        20060101A I20051008RMEP', 'E21B   1/00        20060101C I20060521RMUS', 'E21B   1/26        20060101A I20060521RMUS', 'E21C  37/00        20060101C I20051008RMEP', 'E21C  37/22        20060101A I20051008RMEP', 'E21C  37/24        20060101A I20060521RMUS']"
+  }
+}

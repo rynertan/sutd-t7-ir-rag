@@ -1,0 +1,10 @@
+{
+  "patent_number": 203514,
+  "date": 19861203,
+  "ucid": "EP-0203514-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C23C   2/04        20060101AFI20060101BMKR', 'C23C   2/04        20060101CFI20060101BMKR', 'C23C  22/02        20060101C I20051008RMEP', 'C23C  22/04        20060101A I20051008RMEP', 'C23C  22/05        20060101CLI20051220RMJP', 'C23C  22/26        20060101ALI20051220RMJP', 'C23C  22/82        20060101C I20051008RMEP', 'C23C  22/83        20060101A I20051008RMEP']"
+  }
+}

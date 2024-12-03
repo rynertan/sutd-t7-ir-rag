@@ -1,0 +1,10 @@
+{
+  "patent_number": 140936,
+  "date": 19850515,
+  "ucid": "EP-0140936-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B63B   1/00        20060101C I20051008RMEP', 'B63B   1/34        20060101AFI20051220RMJP', 'B63B   1/36        20060101A I20051008RMEP', 'B64C  21/00        20060101ALI20051220RMJP', 'B64C  21/00        20060101C I20051008RMEP', 'B64C  21/10        20060101A I20051008RMEP', 'B64C  23/00        20060101A I20051008RMEP', 'B64C  23/00        20060101C I20051008RMEP']"
+  }
+}

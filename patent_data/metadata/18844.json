@@ -1,0 +1,10 @@
+{
+  "patent_number": 18844,
+  "date": 19840111,
+  "ucid": "EP-0018844-B1",
+  "classifications": {
+    "main": "H04M   9/02",
+    "further": NaN,
+    "ipcr": "['H04M   3/58        20060101CFI20051220RMJP', 'H04Q   3/58        20060101ALI20051220RMJP', 'H04M   9/00        20060101A I20051008RMEP', 'H04Q   5/00        20060101CLI20051220RMJP', 'H04M   9/00        20060101C I20051008RMEP', 'H04M   3/58        20060101AFI20051220RMJP', 'H04Q   5/20        20060101ALI20051220RMJP', 'H04Q   3/58        20060101CLI20051220RMJP']"
+  }
+}

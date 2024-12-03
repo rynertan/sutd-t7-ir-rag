@@ -1,0 +1,10 @@
+{
+  "patent_number": 18120,
+  "date": 19840606,
+  "ucid": "EP-0018120-B1",
+  "classifications": {
+    "main": "G06F   7/52",
+    "further": "G06F   7/48",
+    "ipcr": "['G06F   7/48        20060101C I20051008RMEP', 'G06F   7/52        20060101A I20051008RMEP']"
+  }
+}

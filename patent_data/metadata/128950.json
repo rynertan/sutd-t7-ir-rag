@@ -1,0 +1,10 @@
+{
+  "patent_number": 128950,
+  "date": 19880622,
+  "ucid": "EP-0128950-B1",
+  "classifications": {
+    "main": "G06K  17/00",
+    "further": "G06K   5/00",
+    "ipcr": "['G06K  17/00        20060101C I20051008RMEP', 'G06K   5/00        20060101C I20051008RMEP', 'G06K  17/00        20060101A I20051008RMEP', 'G06K   5/00        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 53173,
+  "date": 19821125,
+  "ucid": "EP-0053173-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B62D   7/00        20060101C I20051008RMEP', 'B62D   7/06        20060101CLI20051220RMJP', 'B62D   7/08        20060101ALI20051220RMJP', 'B62D   7/22        20060101A I20051008RMEP', 'B62D  15/00        20060101C I20051008RMEP', 'B62D  15/02        20060101A I20051008RMEP', 'B62D  17/00        20060101A I20051008RMEP', 'B62D  17/00        20060101C I20051008RMEP']"
+  }
+}

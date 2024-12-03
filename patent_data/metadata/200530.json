@@ -1,0 +1,10 @@
+{
+  "patent_number": 200530,
+  "date": 19890712,
+  "ucid": "EP-0200530-B1",
+  "classifications": {
+    "main": "C08F   8/32",
+    "further": "C08F  20/52",
+    "ipcr": "['C08F   8/00        20060101C I20051008RMEP', 'C08F   8/32        20060101A I20051008RMEP']"
+  }
+}

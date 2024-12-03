@@ -1,0 +1,10 @@
+{
+  "patent_number": 78095,
+  "date": 19910123,
+  "ucid": "EP-0078095-B1",
+  "classifications": {
+    "main": "G01B  13/06",
+    "further": "G01B  13/12",
+    "ipcr": "['G01B  13/00        20060101C I20051008RMEP', 'G01B  13/06        20060101A I20051008RMEP']"
+  }
+}

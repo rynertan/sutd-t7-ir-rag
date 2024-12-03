@@ -1,0 +1,10 @@
+{
+  "patent_number": 64513,
+  "date": 19860423,
+  "ucid": "EP-0064513-B1",
+  "classifications": {
+    "main": "G05F   3/16",
+    "further": NaN,
+    "ipcr": "['H01L  29/66        20060101CFI20051220RMJP', 'G05F   3/24        20060101ALI20051220RMJP', 'G05F   1/10        20060101CLI20051220RMJP', 'G05F   3/20        20060101ALI20051220RMJP', 'G05F   3/26        20060101A I20051008RMEP', 'G05F   3/08        20060101C I20051008RMEP', 'G05F   1/56        20060101ALI20051220RMJP', 'H01L  29/94        20060101AFI20051220RMJP']"
+  }
+}

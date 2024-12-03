@@ -1,0 +1,10 @@
+{
+  "patent_number": 196229,
+  "date": 19900131,
+  "ucid": "EP-0196229-B1",
+  "classifications": {
+    "main": "H01G   1/035",
+    "further": NaN,
+    "ipcr": "['H05K   3/34        20060101C N20051008RMEP', 'H01G   2/06        20060101A I20070721RMEP', 'H01G   4/30        20060101ALI20051220RMJP', 'H01G   4/14        20060101CFI20051220RMJP', 'H01G   4/14        20060101AFI20051220RMJP', 'H01G   4/30        20060101CLI20051220RMJP', 'H01G   2/00        20060101C I20070721RMEP', 'H05K   3/34        20060101A N20051008RMEP']"
+  }
+}

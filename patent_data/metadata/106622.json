@@ -1,0 +1,10 @@
+{
+  "patent_number": 106622,
+  "date": 19840425,
+  "ucid": "EP-0106622-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61L   2/04        20060101A I20051008RMEP', 'A61L   2/04        20060101C I20051008RMEP', 'B01D   1/00        20060101CFI20051220RMJP', 'B01D   1/30        20060101AFI20051220RMJP', 'B01D   3/00        20060101CLI20051220RMJP', 'B01D   3/06        20060101ALI20051220RMJP', 'C02F   1/02        20060101A I20051008RMEP', 'C02F   1/02        20060101C I20051008RMEP']"
+  }
+}

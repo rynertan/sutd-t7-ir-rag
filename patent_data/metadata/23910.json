@@ -1,0 +1,10 @@
+{
+  "patent_number": 23910,
+  "date": 19840523,
+  "ucid": "EP-0023910-B1",
+  "classifications": {
+    "main": "A61M  16/00",
+    "further": "F17D   1/00",
+    "ipcr": "['A61M  16/01        20060101ALI20051220RMJP', 'A61M  16/00        20060101A I20051008RMEP', 'A61M  16/00        20060101C I20051008RMEP', 'A61M  16/01        20060101CLI20051220RMJP']"
+  }
+}

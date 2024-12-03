@@ -1,0 +1,10 @@
+{
+  "patent_number": 80251,
+  "date": 19830601,
+  "ucid": "EP-0080251-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F02C   3/00        20060101C I20051008RMEP', 'F02C   3/08        20060101A I20051008RMEP', 'F04D  17/00        20060101C I20051008RMEP', 'F04D  17/12        20060101A I20051008RMEP', 'F04D  29/28        20060101ALI20060310RMJP', 'F04D  29/28        20060101CLI20060310RMJP', 'F04D  29/44        20060101ALI20060310RMJP', 'F04D  29/44        20060101CLI20060310RMJP']"
+  }
+}

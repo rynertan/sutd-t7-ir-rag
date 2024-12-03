@@ -1,0 +1,10 @@
+{
+  "patent_number": 127900,
+  "date": 19880907,
+  "ucid": "EP-0127900-B1",
+  "classifications": {
+    "main": "F21S  11/00",
+    "further": NaN,
+    "ipcr": "['F21S   2/00        20060101CLI20051220RMJP', 'E21D   9/14        20060101ALI20051220RMJP', 'F21S   2/00        20060101ALI20051220RMJP', 'F21V   8/00        20060101AFI20051220RMJP', 'F21V   8/00        20060101CFI20051220RMJP', 'F21S  11/00        20060101C I20051008RMEP', 'F21S  11/00        20060101A I20051008RMEP', 'E21D   9/00        20060101CLI20051220RMJP']"
+  }
+}

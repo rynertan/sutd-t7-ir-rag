@@ -1,0 +1,10 @@
+{
+  "patent_number": 68747,
+  "date": 19830105,
+  "ucid": "EP-0068747-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B67D   5/08        20060101C I20051008RMEP', 'B67D   5/14        20060101A I20051008RMEP', 'B67D   5/32        20060101C I20051008RMEP', 'B67D   5/33        20060101A I20051008RMEP', 'B67D   5/37        20060101A I20051008RMEP', 'B67D   5/37        20060101C I20051008RMEP', 'G06K   7/10        20060101A I20051008RMEP', 'G06K   7/10        20060101C I20051008RMEP']"
+  }
+}

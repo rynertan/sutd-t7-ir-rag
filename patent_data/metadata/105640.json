@@ -1,0 +1,10 @@
+{
+  "patent_number": 105640,
+  "date": 19840418,
+  "ucid": "EP-0105640-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A21D   2/00        20060101CLI20051220RMJP', 'A21D   2/36        20060101ALI20051220RMJP', 'A21D   6/00        20060101A I20051008RMEP', 'A21D   6/00        20060101C I20051008RMEP', 'A21D  10/00        20060101ALI20051220RMJP', 'A21D  10/00        20060101CLI20051220RMJP', 'A23L   1/10        20060101AFI20051220RMJP', 'A23L   1/10        20060101CFI20051220RMJP']"
+  }
+}

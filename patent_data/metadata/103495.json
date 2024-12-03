@@ -1,0 +1,10 @@
+{
+  "patent_number": 103495,
+  "date": 19890111,
+  "ucid": "EP-0103495-B1",
+  "classifications": {
+    "main": "H01G   1/14",
+    "further": NaN,
+    "ipcr": "['H01R   3/00        20060101C I20051110RMEP', 'H01G   4/32        20060101ALI20051220RMJP', 'H01G   4/32        20060101CLI20051220RMJP', 'H01G   4/245       20060101A I20070721RMEP', 'H01G   4/228       20060101CFI20051220RMJP', 'H01G   4/228       20060101AFI20051220RMJP', 'H01R   3/00        20060101A I20051110RMEP']"
+  }
+}

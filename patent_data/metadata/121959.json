@@ -1,0 +1,10 @@
+{
+  "patent_number": 121959,
+  "date": 19871125,
+  "ucid": "EP-0121959-B1",
+  "classifications": {
+    "main": "B64G   1/44",
+    "further": NaN,
+    "ipcr": "['B64G   1/64        20060101A I20051008RMEP', 'B64G   1/22        20060101A I20051008RMEP', 'B26F   3/08        20060101AFI20051220RMJP', 'B26F   3/06        20060101CFI20051220RMJP', 'B64G   1/22        20060101C I20051008RMEP', 'B64G   1/64        20060101C I20051008RMEP', 'B64G   1/44        20060101ALI20051220RMJP', 'B64G   1/42        20060101CLI20051220RMJP']"
+  }
+}

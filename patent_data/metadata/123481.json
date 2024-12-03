@@ -1,0 +1,10 @@
+{
+  "patent_number": 123481,
+  "date": 19871028,
+  "ucid": "EP-0123481-B1",
+  "classifications": {
+    "main": "B64C   1/14",
+    "further": "B64D  25/02",
+    "ipcr": "['B64C   1/00        20060101C I20051008RMEP', 'B64D  25/08        20060101A I20051008RMEP', 'B64C   1/32        20060101A I20051008RMEP', 'B64D  25/00        20060101C I20051008RMEP']"
+  }
+}

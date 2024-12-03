@@ -1,0 +1,10 @@
+{
+  "patent_number": 170000,
+  "date": 19860205,
+  "ucid": "EP-0170000-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A45D  34/04        20060101A I20051008RMEP', 'A45D  34/04        20060101C I20051008RMEP', 'A61K   8/72        20060101C I20051008RMEP', 'A61K   8/73        20060101A I20051008RMEP', 'A61K   8/81        20060101A I20051008RMEP', 'A61K   8/84        20060101A I20051008RMEP', 'A61Q   3/02        20060101A I20051008RMEP', 'A61Q   3/02        20060101C I20051008RMEP']"
+  }
+}

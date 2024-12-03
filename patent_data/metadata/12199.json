@@ -1,0 +1,10 @@
+{
+  "patent_number": 12199,
+  "date": 19800625,
+  "ucid": "EP-0012199-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01F   1/00        20060101A I20051008RMEP', 'B01F   1/00        20060101C I20051008RMEP', 'B01J   8/00        20060101A I20051008RMEP', 'B01J   8/00        20060101C I20051008RMEP', 'C02F   1/50        20060101ALI20051220RMJP', 'C02F   1/50        20060101CLI20051220RMJP', 'C02F   1/68        20060101A I20051008RMEP', 'C02F   1/68        20060101C I20051008RMEP']"
+  }
+}

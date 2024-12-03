@@ -1,0 +1,10 @@
+{
+  "patent_number": 124995,
+  "date": 19860910,
+  "ucid": "EP-0124995-B1",
+  "classifications": {
+    "main": "B62D   1/18",
+    "further": "F16F   7/12",
+    "ipcr": "['B62D   1/19        20060101C I20051008RMEP', 'B62D   1/18        20060101CFI20060310RMJP', 'G05G   1/00        20060101CLI20060310RMJP', 'B62D   1/19        20060101A I20051008RMEP', 'B62D   1/18        20060101AFI20060310RMJP', 'G05G   1/00        20060101ALI20060310RMJP', 'G05G   1/08        20060101ALI20060310RMJP']"
+  }
+}

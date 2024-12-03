@@ -1,0 +1,10 @@
+{
+  "patent_number": 156154,
+  "date": 19890712,
+  "ucid": "EP-0156154-B1",
+  "classifications": {
+    "main": "G11B   5/09",
+    "further": NaN,
+    "ipcr": "['H04N   5/945       20060101A I20051008RMEP', 'G11B  20/18        20060101C I20051008RMEP', 'H04N   5/92        20060101CLI20051220RMJP', 'H04N   5/94        20060101C I20051008RMEP', 'H04N   5/92        20060101ALI20051220RMJP', 'H04N   5/94        20060101AFI20051220RMJP', 'G11B  20/18        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 150730,
+  "date": 19861112,
+  "ucid": "EP-0150730-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B63H   1/00        20060101CFI20051220RMJP', 'B63H   1/20        20060101AFI20051220RMJP', 'B63H  23/00        20060101C I20051008RMEP', 'B63H  23/32        20060101A I20051008RMEP', 'B63H  23/34        20060101ALI20051220RMJP', 'F16D   7/00        20060101CLI20051220RMJP', 'F16D   7/02        20060101ALI20051220RMJP']"
+  }
+}

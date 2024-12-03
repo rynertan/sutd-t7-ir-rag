@@ -1,0 +1,10 @@
+{
+  "patent_number": 66360,
+  "date": 19821208,
+  "ucid": "EP-0066360-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   5/01        20060101A I20051008RMEP', 'G06F   5/01        20060101C I20051008RMEP', 'G06F   7/00        20060101A I20051008RMEP', 'G06F   7/00        20060101C I20051008RMEP', 'G06F   7/76        20060101ALI20060310RMJP', 'G06F   7/76        20060101CLI20060310RMJP', 'G06F   9/308       20060101A I20051008RMEP', 'G06F   9/308       20060101C I20051008RMEP']"
+  }
+}

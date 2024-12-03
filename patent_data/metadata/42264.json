@@ -1,0 +1,10 @@
+{
+  "patent_number": 42264,
+  "date": 19851002,
+  "ucid": "EP-0042264-B1",
+  "classifications": {
+    "main": "H03C   1/62",
+    "further": "H03F   3/24",
+    "ipcr": "['H03F   3/20        20060101C I20051008RMEP', 'H03C   1/00        20060101C I20051008RMEP', 'H03C   1/16        20060101A I20051008RMEP', 'H03F   3/24        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 123927,
+  "date": 19900725,
+  "ucid": "EP-0123927-B1",
+  "classifications": {
+    "main": "C09K   3/18",
+    "further": "C08L  29/04",
+    "ipcr": "['C09K   3/18        20060101A I20051008RMEP', 'C09K   3/18        20060101C I20051008RMEP', 'C08K   3/36        20060101A I20051008RMEP', 'C08K   3/00        20060101C I20051008RMEP']"
+  }
+}

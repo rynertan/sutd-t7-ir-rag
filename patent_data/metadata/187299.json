@@ -1,0 +1,10 @@
+{
+  "patent_number": 187299,
+  "date": 19860716,
+  "ucid": "EP-0187299-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01D   5/26        20060101CLI20051220RMJP', 'G01D   5/34        20060101AFI20051220RMJP', 'G01D   5/347       20060101ALI20051220RMJP', 'G01V   8/12        20060101C I20051008RMEP', 'G01V   8/14        20060101A I20051008RMEP', 'G02B   6/43        20060101A I20051008RMEP', 'G02B   6/43        20060101C I20051008RMEP', 'G06K   7/10        20060101A I20051008RMEP', 'G06K   7/10        20060101C I20051008RMEP']"
+  }
+}

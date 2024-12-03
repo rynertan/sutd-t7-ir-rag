@@ -1,0 +1,10 @@
+{
+  "patent_number": 5733,
+  "date": 19880720,
+  "ucid": "EP-0005733-B1",
+  "classifications": {
+    "main": "A61K  31/135",
+    "further": NaN,
+    "ipcr": "['A61P   1/00        20060101CLI20051220RMJP', 'A61K  31/135       20060101A I20051008RMEP', 'A61P   1/16        20060101ALI20051220RMJP', 'A61P   3/10        20060101ALI20051220RMJP', 'A61K  31/135       20060101C I20051008RMEP', 'A61P   3/08        20060101ALI20051220RMJP', 'A61P   3/00        20060101CLI20051220RMJP']"
+  }
+}

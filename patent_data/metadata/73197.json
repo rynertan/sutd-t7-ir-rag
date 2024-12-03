@@ -1,0 +1,10 @@
+{
+  "patent_number": 73197,
+  "date": 19830309,
+  "ucid": "EP-0073197-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06K  17/00        20060101A N20051008RMEP', 'G06K  17/00        20060101C N20051008RMEP', 'G07C   9/00        20060101A I20051008RMEP', 'G07C   9/00        20060101C I20051008RMEP', 'G08B   1/00        20060101C I20051008RMEP', 'G08B   1/08        20060101A I20051008RMEP', 'G08B   3/00        20060101C I20051008RMEP', 'G08B   3/10        20060101A I20051008RMEP']"
+  }
+}

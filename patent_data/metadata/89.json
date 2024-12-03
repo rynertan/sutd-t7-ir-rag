@@ -1,0 +1,10 @@
+{
+  "patent_number": 89,
+  "date": 19781220,
+  "ucid": "EP-0000089-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K  31/415       20060101ALI20051220RMJP', 'A61K  31/415       20060101CLI20051220RMJP', 'A61P  21/00        20060101CLI20051220RMJP', 'A61P  21/02        20060101ALI20051220RMJP', 'C07D 233/00        20060101C I20051008RMEP', 'C07D 233/44        20060101A I20070602RMEP', 'C07D 233/48        20060101A I20051008RMEP']"
+  }
+}

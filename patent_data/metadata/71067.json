@@ -1,0 +1,10 @@
+{
+  "patent_number": 71067,
+  "date": 19861105,
+  "ucid": "EP-0071067-B1",
+  "classifications": {
+    "main": "F23N   5/12",
+    "further": NaN,
+    "ipcr": "['G01N  27/62        20060101CLI20051220RMJP', 'G01N  27/62        20060101ALI20051220RMJP', 'F23N   5/24        20060101ALI20051220RMJP', 'F23N   5/12        20060101C I20051008RMEP', 'F23N   5/00        20060101A I20051008RMEP', 'F23N   5/12        20060101A I20051008RMEP', 'F23N   5/00        20060101C I20051008RMEP', 'F23N   5/24        20060101CLI20051220RMJP']"
+  }
+}

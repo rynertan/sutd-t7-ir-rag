@@ -1,0 +1,10 @@
+{
+  "patent_number": 8225,
+  "date": 19800220,
+  "ucid": "EP-0008225-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B31F   1/00        20060101CLI20051220RMJP', 'B31F   1/20        20060101C I20051008RMEP', 'B31F   1/24        20060101ALI20051220RMJP', 'B31F   1/28        20060101A I20051008RMEP', 'B31F   1/36        20060101ALI20051220RMJP', 'B65H  29/00        20060101CFI20051220RMJP', 'B65H  29/12        20060101AFI20051220RMJP']"
+  }
+}

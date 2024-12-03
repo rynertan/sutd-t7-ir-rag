@@ -1,0 +1,10 @@
+{
+  "patent_number": 120330,
+  "date": 19910424,
+  "ucid": "EP-0120330-B1",
+  "classifications": {
+    "main": "G06F  12/08",
+    "further": "G06F   3/06",
+    "ipcr": "['G06F   7/22        20060101CLI20051220RMJP', 'G06F   3/06        20060101C I20051008RMEP', 'G06F   3/06        20060101A I20051008RMEP', 'G06F   7/22        20060101ALI20051220RMJP']"
+  }
+}

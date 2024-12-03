@@ -1,0 +1,10 @@
+{
+  "patent_number": 125622,
+  "date": 19900816,
+  "ucid": "EP-0125622-B1",
+  "classifications": {
+    "main": "G21K   1/10",
+    "further": "A61B   6/06",
+    "ipcr": "['G21K   1/00        20060101C I20051008RMEP', 'A61B   6/00        20060101CLI20051220RMJP', 'G21K   3/00        20060101CFI20051220RMJP', 'G21K   1/10        20060101A I20051008RMEP', 'A61B   6/00        20060101ALI20051220RMJP', 'G21K   3/00        20060101AFI20051220RMJP']"
+  }
+}

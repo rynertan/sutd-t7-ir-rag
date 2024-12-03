@@ -1,0 +1,10 @@
+{
+  "patent_number": 193221,
+  "date": 19860903,
+  "ucid": "EP-0193221-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B26D   1/01        20060101C I20051008RMEP', 'B26D   1/10        20060101A I20051008RMEP', 'B26D   7/26        20060101A I20051008RMEP', 'B26D   7/26        20060101C I20051008RMEP', 'B26D   9/00        20060101A I20051008RMEP', 'B26D   9/00        20060101C I20051008RMEP', 'B65H  18/10        20060101A I20051008RMEP', 'B65H  18/10        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 2601,
+  "date": 19790627,
+  "ucid": "EP-0002601-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C08K   5/00        20060101C I20051008RMEP', 'C08K   5/11        20060101A I20051008RMEP', 'C08K   5/52        20060101ALI20051220RMJP', 'C08K   5/521       20060101A I20051008RMEP', 'C08L  67/00        20060101AFI20051220RMJP', 'C08L  67/00        20060101CFI20051220RMJP', 'C08L  67/06        20060101ALI20051220RMJP']"
+  }
+}

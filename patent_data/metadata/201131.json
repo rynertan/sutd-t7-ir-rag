@@ -1,0 +1,10 @@
+{
+  "patent_number": 201131,
+  "date": 19900905,
+  "ucid": "EP-0201131-B1",
+  "classifications": {
+    "main": "H01J   9/24",
+    "further": "H01J  29/86",
+    "ipcr": "['H01J   9/385       20060101ALI20051220RMJP', 'H01J   9/38        20060101CLI20051220RMJP', 'H01J   9/24        20060101A I20051008RMEP', 'H01J  29/86        20060101CFI20051220RMJP', 'H01J  29/86        20060101AFI20051220RMJP', 'H01J   9/24        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 153333,
+  "date": 19880727,
+  "ucid": "EP-0153333-B1",
+  "classifications": {
+    "main": "H04J   3/06",
+    "further": "G08B   5/22",
+    "ipcr": "['H04W  28/02        20090101C I20090105RMEP', 'H04W  28/06        20090101A I20090105RMEP']"
+  }
+}

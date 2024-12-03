@@ -1,0 +1,10 @@
+{
+  "patent_number": 209125,
+  "date": 19870121,
+  "ucid": "EP-0209125-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60C   1/00        20060101A I20051008RMEP', 'B60C   1/00        20060101C I20051008RMEP', 'B60C  11/00        20060101A I20051008RMEP', 'B60C  11/00        20060101C I20051008RMEP', 'C08L   7/00        20060101ALI20051220RMJP', 'C08L   7/00        20060101CLI20051220RMJP', 'C08L  21/00        20060101ALI20051220RMJP', 'C08L  21/00        20060101CLI20051220RMJP']"
+  }
+}

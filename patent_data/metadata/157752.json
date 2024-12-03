@@ -1,0 +1,10 @@
+{
+  "patent_number": 157752,
+  "date": 19860528,
+  "ucid": "EP-0157752-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65H   3/02        20060101C I20051008RMEP', 'B65H   3/04        20060101A I20051008RMEP', 'B65H   3/52        20060101A I20051008RMEP', 'B65H   3/52        20060101C I20051008RMEP', 'B65H  29/38        20060101C I20051008RMEP', 'B65H  29/40        20060101A I20051008RMEP', 'G06M   7/00        20060101CFI20051220RMJP', 'G06M   7/06        20060101AFI20051220RMJP']"
+  }
+}

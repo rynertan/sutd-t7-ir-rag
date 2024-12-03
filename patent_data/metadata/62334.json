@@ -1,0 +1,10 @@
+{
+  "patent_number": 62334,
+  "date": 19830921,
+  "ucid": "EP-0062334-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B32B   7/02        20060101ALI20051220RMJP', 'B32B   7/02        20060101CLI20051220RMJP', 'B32B  27/06        20060101ALI20051220RMJP', 'B32B  27/06        20060101CLI20051220RMJP', 'B65D  65/40        20060101A I20051008RMEP', 'B65D  65/40        20060101C I20051008RMEP', 'C08J   7/00        20060101C I20051008RMEP', 'C08J   7/06        20060101A I20051008RMEP']"
+  }
+}

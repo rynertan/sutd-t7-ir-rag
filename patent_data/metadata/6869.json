@@ -1,0 +1,10 @@
+{
+  "patent_number": 6869,
+  "date": 19800123,
+  "ucid": "EP-0006869-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C25B  11/00        20060101A I20051008RMEP', 'C25B  11/00        20060101C I20051008RMEP', 'H01M   8/18        20060101A I20051008RMEP', 'H01M   8/18        20060101C I20051008RMEP', 'H01M   8/22        20060101A I20051008RMEP', 'H01M   8/22        20060101C I20051008RMEP', 'H01M  12/00        20060101C I20051008RMEP', 'H01M  12/06        20060101A I20051008RMEP']"
+  }
+}

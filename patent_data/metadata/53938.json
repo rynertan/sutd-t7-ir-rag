@@ -1,0 +1,10 @@
+{
+  "patent_number": 53938,
+  "date": 19840704,
+  "ucid": "EP-0053938-B1",
+  "classifications": {
+    "main": "D05B  69/18",
+    "further": NaN,
+    "ipcr": "['H02P  29/00        20060101CLI20051220RMJP', 'H02P  29/00        20060101ALI20051220RMJP', 'G05D  13/00        20060101ALI20051220RMJP', 'D05B  69/18        20060101A I20051008RMEP', 'G05D  13/00        20060101CLI20051220RMJP', 'D05B  69/14        20060101C I20051008RMEP', 'D05B  69/14        20060101AFI20060101BMKR']"
+  }
+}

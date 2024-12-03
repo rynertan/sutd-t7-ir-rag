@@ -1,0 +1,10 @@
+{
+  "patent_number": 141411,
+  "date": 19850515,
+  "ucid": "EP-0141411-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   3/00        20060101C I20051008RMEP', 'B41J   3/38        20060101A I20051008RMEP', 'B41J   9/00        20060101CFI20051220RMJP', 'B41J   9/28        20060101AFI20051220RMJP', 'B41J  11/00        20060101CLI20051220RMJP', 'B41J  11/18        20060101ALI20051220RMJP', 'B41J  11/58        20060101ALI20051220RMJP', 'B41J  11/58        20060101CLI20051220RMJP']"
+  }
+}

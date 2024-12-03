@@ -1,0 +1,10 @@
+{
+  "patent_number": 63045,
+  "date": 19840905,
+  "ucid": "EP-0063045-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F22B  37/00        20060101C I20051110RMEP', 'F22B  37/38        20060101A I20051110RMEP', 'G05B  15/00        20060101A I20051110RMEP', 'G05B  15/00        20060101C I20051110RMEP', 'G05B  15/02        20060101AFI20051220RMJP', 'G05B  15/02        20060101CFI20051220RMJP', 'G06F  19/00        20060101A I20070602RMEP', 'G06F  19/00        20060101C I20070602RMEP']"
+  }
+}

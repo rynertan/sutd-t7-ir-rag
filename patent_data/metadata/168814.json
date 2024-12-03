@@ -1,0 +1,10 @@
+{
+  "patent_number": 168814,
+  "date": 19940525,
+  "ucid": "EP-0168814-B1",
+  "classifications": {
+    "main": "G06F  15/38",
+    "further": NaN,
+    "ipcr": "['G06F  17/27        20060101C I20051008RMEP', 'G06F  17/27        20060101A I20051008RMEP', 'G06F  17/21        20060101CLI20051220RMJP', 'G06F  17/28        20060101A I20051008RMEP', 'G06F  17/21        20060101ALI20051220RMJP', 'G06F  17/28        20060101C I20051008RMEP']"
+  }
+}

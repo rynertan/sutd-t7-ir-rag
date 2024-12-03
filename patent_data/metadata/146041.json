@@ -1,0 +1,10 @@
+{
+  "patent_number": 146041,
+  "date": 19850626,
+  "ucid": "EP-0146041-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   3/06        20060101A I20051008RMEP', 'G06F   3/06        20060101C I20051008RMEP', 'G11B   5/02        20060101A N20080531RMEP', 'G11B   5/02        20060101C N20080531RMEP', 'G11B   5/09        20060101A I20080531RMEP', 'G11B   5/09        20060101C I20080531RMEP', 'G11B  20/14        20060101AFI20051220RMJP', 'G11B  20/14        20060101CFI20051220RMJP']"
+  }
+}

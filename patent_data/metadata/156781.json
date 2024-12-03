@@ -1,0 +1,10 @@
+{
+  "patent_number": 156781,
+  "date": 19940831,
+  "ucid": "EP-0156781-B1",
+  "classifications": {
+    "main": "A61M   1/12",
+    "further": NaN,
+    "ipcr": "['A61M   1/10        20060101A I20051008RMEP', 'A61M   1/00        20060101ALI20051220RMJP', 'A61M   1/10        20060101C I20051008RMEP', 'A61M   1/00        20060101CLI20051220RMJP', 'F04B  43/00        20060101CLI20051220RMJP', 'F04B  43/10        20060101AFI20051220RMJP', 'F04B  43/00        20060101ALI20051220RMJP']"
+  }
+}

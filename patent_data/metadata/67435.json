@@ -1,0 +1,10 @@
+{
+  "patent_number": 67435,
+  "date": 19821222,
+  "ucid": "EP-0067435-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F02P   3/02        20060101C I20051008RMEP', 'F02P   3/04        20060101ALI20051220RMJP', 'F02P   3/045       20060101A I20051008RMEP', 'F02P   3/05        20060101ALI20051220RMJP', 'H02M   1/08        20060101ALI20051220RMJP', 'H02M   1/08        20060101CLI20051220RMJP', 'H03K   5/04        20060101A I20051008RMEP', 'H03K   5/04        20060101C I20051008RMEP']"
+  }
+}

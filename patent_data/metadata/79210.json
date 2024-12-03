@@ -1,0 +1,10 @@
+{
+  "patent_number": 79210,
+  "date": 19860813,
+  "ucid": "EP-0079210-B1",
+  "classifications": {
+    "main": "G01N  21/35",
+    "further": "G01N  33/30",
+    "ipcr": "['G01N  21/35        20060101A I20051008RMEP', 'G01N  33/26        20060101C I20051008RMEP', 'G01N  33/28        20060101A I20051008RMEP', 'G01N  21/31        20060101C I20051008RMEP']"
+  }
+}

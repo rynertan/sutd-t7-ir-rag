@@ -1,0 +1,10 @@
+{
+  "patent_number": 101274,
+  "date": 19840321,
+  "ucid": "EP-0101274-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B42D   5/00        20060101C I20051008RMEP', 'B42D   5/02        20060101A I20051008RMEP', 'B42D  15/02        20060101A I20051008RMEP', 'B42D  15/02        20060101C I20051008RMEP', 'B42F   3/00        20060101A I20051008RMEP', 'B42F   3/00        20060101C I20051008RMEP', 'B42F   5/00        20060101A I20051008RMEP', 'B42F   5/00        20060101C I20051008RMEP']"
+  }
+}

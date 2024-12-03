@@ -1,0 +1,10 @@
+{
+  "patent_number": 80789,
+  "date": 19830608,
+  "ucid": "EP-0080789-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01L   1/25        20060101A I20051008RMEP', 'G01L   1/25        20060101C I20051008RMEP', 'G01M   5/00        20060101A I20051008RMEP', 'G01M   5/00        20060101C I20051008RMEP', 'G01N  29/14        20060101A I20051008RMEP', 'G01N  29/14        20060101C I20051008RMEP', 'G01N  29/28        20060101ALI20051220RMJP', 'G01N  29/28        20060101CLI20051220RMJP']"
+  }
+}

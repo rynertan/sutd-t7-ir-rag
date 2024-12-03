@@ -1,0 +1,10 @@
+{
+  "patent_number": 198978,
+  "date": 19871216,
+  "ucid": "EP-0198978-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C25D   5/54        20060101A I20051008RMEP', 'C25D   5/54        20060101C I20051008RMEP', 'H01M   8/02        20060101ALI20060310RMJP', 'H01M   8/02        20060101CLI20060310RMJP', 'H01M   8/12        20060101AFI20060310RMJP', 'H01M   8/12        20060101CFI20060310RMJP', 'H01M   8/24        20060101A I20051008RMEP', 'H01M   8/24        20060101C I20051008RMEP']"
+  }
+}

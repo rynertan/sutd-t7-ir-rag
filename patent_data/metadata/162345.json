@@ -1,0 +1,10 @@
+{
+  "patent_number": 162345,
+  "date": 19900418,
+  "ucid": "EP-0162345-B1",
+  "classifications": {
+    "main": "C23C  22/13",
+    "further": NaN,
+    "ipcr": "['C23C  22/77        20060101A I20051008RMEP', 'C23C  22/05        20060101C I20051008RMEP', 'C23C  22/73        20060101A I20051008RMEP', 'C23C  22/07        20060101ALI20051220RMJP', 'C23C  22/73        20060101C I20051008RMEP', 'C23C  22/13        20060101A I20051008RMEP']"
+  }
+}

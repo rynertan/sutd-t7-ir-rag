@@ -1,0 +1,10 @@
+{
+  "patent_number": 200730,
+  "date": 19861112,
+  "ucid": "EP-0200730-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F23C  10/00        20060101C I20051008RMEP', 'F23C  10/10        20060101A I20051008RMEP', 'F23L   1/00        20060101A I20051008RMEP', 'F23L   1/00        20060101C I20051008RMEP', 'F23L   9/00        20060101C I20051008RMEP', 'F23L   9/04        20060101A I20051008RMEP', 'F24H   1/22        20060101C I20051008RMEP', 'F24H   1/36        20060101A I20051008RMEP']"
+  }
+}

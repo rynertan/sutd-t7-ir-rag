@@ -1,0 +1,10 @@
+{
+  "patent_number": 35325,
+  "date": 19850424,
+  "ucid": "EP-0035325-B1",
+  "classifications": {
+    "main": "A61B  10/00",
+    "further": "G01P   5/00",
+    "ipcr": "['G01F   1/66        20060101A I20051008RMEP', 'G01F   1/66        20060101C I20051008RMEP', 'A61B   8/06        20060101C I20051008RMEP', 'A61B   8/06        20060101A I20051008RMEP']"
+  }
+}

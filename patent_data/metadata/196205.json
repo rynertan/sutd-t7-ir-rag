@@ -1,0 +1,10 @@
+{
+  "patent_number": 196205,
+  "date": 19861001,
+  "ucid": "EP-0196205-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B03C   1/00        20060101A I20051008RMEP', 'B03C   1/00        20060101C I20051008RMEP', 'G01N  15/02        20060101A I20051008RMEP', 'G01N  15/02        20060101C I20051008RMEP', 'G01N  33/26        20060101C I20051008RMEP', 'G01N  33/28        20060101A I20051008RMEP', 'G02B  27/02        20060101AFI20060310RMJP', 'G02B  27/02        20060101CFI20060310RMJP']"
+  }
+}

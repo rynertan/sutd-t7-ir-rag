@@ -1,0 +1,10 @@
+{
+  "patent_number": 67633,
+  "date": 19860917,
+  "ucid": "EP-0067633-B1",
+  "classifications": {
+    "main": "B30B   1/10",
+    "further": NaN,
+    "ipcr": "['B30B  15/04        20060101A I20060722RMEP', 'B30B   1/23        20060101AFI20051220RMJP', 'B30B   1/10        20060101A I20051008RMEP', 'B30B  15/00        20060101CLI20051220RMJP', 'B30B  15/04        20060101C I20060722RMEP', 'B30B  15/00        20060101ALI20051220RMJP', 'B30B   1/00        20060101C I20051008RMEP']"
+  }
+}

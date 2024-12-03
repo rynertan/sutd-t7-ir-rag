@@ -1,0 +1,10 @@
+{
+  "patent_number": 136903,
+  "date": 19940302,
+  "ucid": "EP-0136903-B1",
+  "classifications": {
+    "main": "G03F   7/021",
+    "further": NaN,
+    "ipcr": "['G03F   7/016       20060101AFI20051220RMJP', 'G03F   7/021       20060101A I20051008RMEP', 'G03F   7/038       20060101ALI20051220RMJP', 'G03F   7/032       20060101CLI20051220RMJP', 'G03F   7/016       20060101C I20051008RMEP', 'G03F   7/032       20060101ALI20051220RMJP', 'G03F   7/038       20060101CLI20051220RMJP']"
+  }
+}

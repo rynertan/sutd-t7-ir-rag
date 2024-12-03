@@ -1,0 +1,10 @@
+{
+  "patent_number": 205530,
+  "date": 19861230,
+  "ucid": "EP-0205530-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K   9/00        20060101A I20070721RMEP', 'A61K   9/00        20060101C I20070721RMEP', 'A61K   9/12        20060101A I20070602RMUS', 'A61K   9/12        20060101C I20070602RMUS', 'A61K   9/72        20060101A I20070602RMWO', 'A61K   9/72        20060101C I20070602RMWO', 'C07J   5/00        20060101A I20051008RMEP', 'C07J   5/00        20060101C I20051008RMEP']"
+  }
+}

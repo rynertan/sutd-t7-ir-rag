@@ -1,0 +1,10 @@
+{
+  "patent_number": 71326,
+  "date": 19830209,
+  "ucid": "EP-0071326-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G21C  15/00        20060101CLI20051220RMJP', 'G21C  15/18        20060101A I20051008RMEP', 'G21C  15/18        20060101C I20051008RMEP', 'G21C  15/28        20060101ALI20051220RMJP', 'G21D   1/02        20060101ALI20051220RMJP', 'G21D   1/02        20060101CLI20051220RMJP', 'G21D   3/00        20060101C I20051008RMEP', 'G21D   3/04        20060101A I20051008RMEP']"
+  }
+}

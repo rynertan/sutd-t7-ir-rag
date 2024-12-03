@@ -1,0 +1,10 @@
+{
+  "patent_number": 41549,
+  "date": 19880203,
+  "ucid": "EP-0041549-B1",
+  "classifications": {
+    "main": "G06F  15/40",
+    "further": "G06F   3/00",
+    "ipcr": "['G06F   7/22        20060101CFI20051220RMJP', 'G06F  17/30        20060101A I20051008RMEP', 'G06F   7/22        20060101AFI20051220RMJP', 'G06F  17/30        20060101C I20051008RMEP']"
+  }
+}

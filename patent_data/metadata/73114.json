@@ -1,0 +1,10 @@
+{
+  "patent_number": 73114,
+  "date": 19840111,
+  "ucid": "EP-0073114-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J  11/00        20060101CFI20051220RMJP', 'B41J  11/62        20060101AFI20051220RMJP', 'B41J  31/12        20060101A I20051008RMEP', 'B41J  31/12        20060101C I20051008RMEP', 'B41J  35/00        20060101C I20051008RMEP', 'B41J  35/04        20060101C I20051008RMEP', 'B41J  35/06        20060101A I20051008RMEP', 'B41J  35/26        20060101A I20051008RMEP']"
+  }
+}

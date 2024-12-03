@@ -1,0 +1,10 @@
+{
+  "patent_number": 102222,
+  "date": 19840307,
+  "ucid": "EP-0102222-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04B   1/74        20060101A I20051008RMEP', 'H04B   1/74        20060101C I20051008RMEP', 'H04B   3/46        20060101AFI20051220RMJP', 'H04B   3/46        20060101CFI20051220RMJP', 'H04L   1/24        20060101A I20051008RMEP', 'H04L   1/24        20060101C I20051008RMEP', 'H04L  12/437       20060101A I20051008RMEP', 'H04L  12/437       20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 28523,
+  "date": 19810513,
+  "ucid": "EP-0028523-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C21D   1/00        20060101AFI20051220RMJP', 'C21D   1/00        20060101CFI20051220RMJP', 'F27B   9/00        20060101CLI20051220RMJP', 'F27B   9/22        20060101ALI20051220RMJP', 'F27B   9/30        20060101ALI19871207BMSU', 'F27B   9/30        20060101CLI19871207BMSU', 'F27D   3/00        20060101C I20051008RMEP', 'F27D   3/02        20060101A I20051008RMEP']"
+  }
+}
