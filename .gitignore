@@ -1,3 +1,4 @@
 
 *.csv
 title_inventors_applicant/
+.env
