@@ -1,0 +1,10 @@
+{
+  "patent_number": 174611,
+  "date": 19870318,
+  "ucid": "EP-0174611-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B32B   1/00        20060101C I20051008RMEP', 'B32B   1/08        20060101A I20051008RMEP', 'B32B  27/00        20060101ALI20051220RMJP', 'B32B  27/00        20060101CLI20051220RMJP', 'B32B  27/32        20060101A I20051008RMEP', 'B32B  27/32        20060101C I20051008RMEP', 'F16L   9/00        20060101CLI20051220RMJP', 'F16L   9/12        20060101ALI20051220RMJP']"
+  }
+}

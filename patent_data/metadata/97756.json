@@ -1,0 +1,10 @@
+{
+  "patent_number": 97756,
+  "date": 19880601,
+  "ucid": "EP-0097756-B1",
+  "classifications": {
+    "main": "H02K   1/06",
+    "further": "H02K  15/02",
+    "ipcr": "['H02K   1/18        20060101CFI20051220RMJP', 'H02K   1/06        20060101A I20051008RMEP', 'H02K  15/02        20060101ALI20051220RMJP', 'H02K   1/18        20060101AFI20051220RMJP', 'H02K  15/02        20060101CLI20051220RMJP', 'H02K   1/06        20060101C I20051008RMEP']"
+  }
+}

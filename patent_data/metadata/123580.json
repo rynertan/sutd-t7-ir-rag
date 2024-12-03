@@ -1,0 +1,10 @@
+{
+  "patent_number": 123580,
+  "date": 19860806,
+  "ucid": "EP-0123580-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F16H   3/44        20060101C I20051008RMEP', 'F16H   3/48        20060101AFI20051220RMJP', 'F16H   3/54        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 115897,
+  "date": 19840815,
+  "ucid": "EP-0115897-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G05F   1/10        20060101CLI20051220RMJP', 'G05F   1/56        20060101ALI20051220RMJP', 'G05F   3/08        20060101C I20051008RMEP', 'G05F   3/26        20060101A I20051008RMEP', 'H03M   1/00        20060101A I20051008RMEP', 'H03M   1/00        20060101C I20051008RMEP', 'H03M   1/74        20060101A I20051008RMEP', 'H03M   1/74        20060101C I20051008RMEP', 'H03M   1/80        20060101AFI20051220RMJP']"
+  }
+}

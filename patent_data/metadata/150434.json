@@ -1,0 +1,10 @@
+{
+  "patent_number": 150434,
+  "date": 19850807,
+  "ucid": "EP-0150434-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01M   1/00        20060101A I20051110RMEP', 'G01M   1/00        20060101C I20051110RMEP', 'G01M  11/00        20060101A I20051008RMEP', 'G01M  11/00        20060101C I20051008RMEP', 'G01M  11/02        20060101ALI20051220RMJP', 'G01M  11/02        20060101CLI20051220RMJP', 'G02B   6/00        20060101ALI20051220RMJP', 'G02B   6/00        20060101CLI20051220RMJP']"
+  }
+}

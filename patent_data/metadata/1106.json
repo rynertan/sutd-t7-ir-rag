@@ -1,0 +1,10 @@
+{
+  "patent_number": 1106,
+  "date": 19820127,
+  "ucid": "EP-0001106-B1",
+  "classifications": {
+    "main": "A61M  25/00",
+    "further": "A61M   5/32",
+    "ipcr": "['A61M  25/00        20060101C I20051008RMEP', 'A61M  25/00        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 170511,
+  "date": 19880113,
+  "ucid": "EP-0170511-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01M  11/00        20060101A I20051008RMEP', 'G01M  11/00        20060101C I20051008RMEP', 'G02B   6/28        20060101ALI20051220RMJP', 'G02B   6/28        20060101CLI20051220RMJP', 'G02B   6/38        20060101A I20051008RMEP', 'G02B   6/38        20060101C I20051008RMEP', 'G02B   6/42        20060101A I20051008RMEP', 'G02B   6/42        20060101C I20051008RMEP']"
+  }
+}

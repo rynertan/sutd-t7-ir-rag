@@ -1,0 +1,10 @@
+{
+  "patent_number": 123809,
+  "date": 19891018,
+  "ucid": "EP-0123809-B1",
+  "classifications": {
+    "main": "C30B   7/10",
+    "further": "C30B  29/14",
+    "ipcr": "['C30B   7/10        20060101AFI20051220RMJP', 'C30B  29/14        20060101ALI20051220RMJP', 'C30B  29/10        20060101CLI20051220RMJP', 'C30B   7/00        20060101A I20051008RMEP', 'C30B   7/00        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 59733,
+  "date": 19851127,
+  "ucid": "EP-0059733-B1",
+  "classifications": {
+    "main": "G01M  15/00",
+    "further": NaN,
+    "ipcr": "['F02M  65/00        20060101C I20051008RMEP', 'G01D   5/12        20060101C I20051008RMEP', 'F02M  65/00        20060101A I20051008RMEP', 'F02M  61/10        20060101AFI20051220RMJP', 'F02M  61/00        20060101CLI20051220RMJP', 'G01D   5/14        20060101A I20051008RMEP', 'F02M  61/16        20060101ALI20051220RMJP']"
+  }
+}

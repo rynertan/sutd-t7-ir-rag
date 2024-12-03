@@ -1,0 +1,10 @@
+{
+  "patent_number": 10800,
+  "date": 19830126,
+  "ucid": "EP-0010800-B1",
+  "classifications": {
+    "main": "H01J   9/04",
+    "further": "C25D  13/22",
+    "ipcr": "['H01J   9/04        20060101C I20051008RMEP', 'H01J   9/04        20060101A I20051008RMEP', 'C25D   1/12        20060101A I20051008RMEP', 'C25D   1/00        20060101C I20051008RMEP']"
+  }
+}

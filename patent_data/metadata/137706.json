@@ -1,0 +1,10 @@
+{
+  "patent_number": 137706,
+  "date": 19891129,
+  "ucid": "EP-0137706-B1",
+  "classifications": {
+    "main": "B01F   5/20",
+    "further": NaN,
+    "ipcr": "['B05B   7/04        20060101AFI20051220RMJP', 'B05B   7/04        20060101CFI20051220RMJP', 'B01F   5/00        20060101ALI20051220RMJP', 'B29B   7/76        20060101A I20051008RMEP', 'B29K  75/00        20060101ALN20051220RMJP', 'B29B   7/00        20060101C I20051008RMEP', 'B01F   5/00        20060101CLI20051220RMJP']"
+  }
+}

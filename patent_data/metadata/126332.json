@@ -1,0 +1,10 @@
+{
+  "patent_number": 126332,
+  "date": 19870708,
+  "ucid": "EP-0126332-B1",
+  "classifications": {
+    "main": "H05K   5/00",
+    "further": "G06K   7/00",
+    "ipcr": "['G06K  13/02        20060101C I20051008RMEP', 'G06K  13/08        20060101A I20051008RMEP']"
+  }
+}

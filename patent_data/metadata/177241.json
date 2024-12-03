@@ -1,0 +1,10 @@
+{
+  "patent_number": 177241,
+  "date": 19890524,
+  "ucid": "EP-0177241-B1",
+  "classifications": {
+    "main": "F16H  37/08",
+    "further": NaN,
+    "ipcr": "['F16H  37/02        20060101ALI20051220RMJP', 'F16H  37/08        20060101A I20051008RMEP', 'F16H  37/02        20060101CLI20051220RMJP', 'F16H   3/72        20060101AFI20051220RMJP', 'F16H   3/44        20060101CLI20051220RMJP', 'F16H  37/06        20060101C I20051008RMEP', 'F16H   3/44        20060101ALI20051220RMJP']"
+  }
+}

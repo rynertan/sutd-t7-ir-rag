@@ -1,0 +1,10 @@
+{
+  "patent_number": 128750,
+  "date": 19850925,
+  "ucid": "EP-0128750-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01P   3/22        20060101A N20051008RMEP', 'F01P   3/22        20060101C N20051008RMEP', 'F02F   3/02        20060101ALI20051220RMJP', 'F02F   3/02        20060101CLI20051220RMJP', 'F02F   3/16        20060101C I20051008RMEP', 'F02F   3/18        20060101A I20051008RMEP', 'F16J   1/00        20060101CLI20051220RMJP', 'F16J   1/04        20060101ALI20051220RMJP']"
+  }
+}

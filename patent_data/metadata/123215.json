@@ -1,0 +1,10 @@
+{
+  "patent_number": 123215,
+  "date": 19860723,
+  "ucid": "EP-0123215-B1",
+  "classifications": {
+    "main": "A44B   1/44",
+    "further": NaN,
+    "ipcr": "['A44B   1/44        20060101A I20051008RMEP', 'A44B   1/00        20060101C I20051008RMEP']"
+  }
+}

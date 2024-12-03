@@ -1,0 +1,10 @@
+{
+  "patent_number": 7232,
+  "date": 19800123,
+  "ucid": "EP-0007232-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K  31/505       20060101ALI20051220RMJP', 'A61K  31/505       20060101CLI20051220RMJP', 'A61P  43/00        20060101ALI20051220RMJP', 'A61P  43/00        20060101CLI20051220RMJP', 'C07D 239/00        20060101C I20051008RMEP', 'C07D 239/32        20060101AFI20051220RMJP', 'C07D 239/46        20060101A I20051008RMEP']"
+  }
+}

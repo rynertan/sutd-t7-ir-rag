@@ -1,0 +1,10 @@
+{
+  "patent_number": 73088,
+  "date": 19840404,
+  "ucid": "EP-0073088-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01K  25/00        20060101C I20051008RMEP', 'F01K  25/10        20060101A I20051008RMEP', 'F02C   1/00        20060101CLI20060310RMJP', 'F02C   1/04        20060101ALI20060310RMJP', 'F17C   9/00        20060101C I20051008RMEP', 'F17C   9/04        20060101A I20051008RMEP', 'H02P   9/00        20060101C I20051008RMEP', 'H02P   9/42        20060101A I20051008RMEP']"
+  }
+}

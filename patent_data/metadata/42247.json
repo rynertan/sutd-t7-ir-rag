@@ -1,0 +1,10 @@
+{
+  "patent_number": 42247,
+  "date": 19811223,
+  "ucid": "EP-0042247-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B28B   3/00        20060101A I20051008RMEP', 'B28B   3/00        20060101C I20051008RMEP', 'B28B   7/28        20060101C I20051008RMEP', 'B28B   7/32        20060101A I20051008RMEP', 'B28B   7/40        20060101C I20051008RMEP', 'B28B   7/46        20060101A I20051008RMEP', 'B29D  12/00        20060101A I20051008RMEP', 'B29D  12/00        20060101C I20051008RMEP']"
+  }
+}

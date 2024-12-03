@@ -1,0 +1,10 @@
+{
+  "patent_number": 163365,
+  "date": 19890419,
+  "ucid": "EP-0163365-B1",
+  "classifications": {
+    "main": "G01F  23/16",
+    "further": "G05D   9/02",
+    "ipcr": "['G05D   9/00        20060101CFI20051220RMJP', 'F15C   1/00        20060101C I20051008RMEP', 'F15C   1/00        20060101A I20051008RMEP', 'G05D   9/04        20060101AFI20051220RMJP', 'B67D   7/32        20100101CLI20091226RMEP', 'B67D   7/32        20100101ALI20091226RMEP']"
+  }
+}

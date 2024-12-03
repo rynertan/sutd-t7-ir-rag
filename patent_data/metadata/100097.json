@@ -1,0 +1,10 @@
+{
+  "patent_number": 100097,
+  "date": 19910130,
+  "ucid": "EP-0100097-B1",
+  "classifications": {
+    "main": "G06F  15/20",
+    "further": NaN,
+    "ipcr": "['G09B   9/30        20060101A I20051008RMEP', 'G06T  15/10        20060101C I20051008RMEP', 'G09B   9/02        20060101C I20051008RMEP', 'H04N   7/24        20060101A I20060722RMEP', 'H04N   7/24        20060101C I20060722RMEP', 'G06T  15/20        20060101A I20051008RMEP']"
+  }
+}

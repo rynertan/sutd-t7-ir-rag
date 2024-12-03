@@ -1,0 +1,10 @@
+{
+  "patent_number": 132073,
+  "date": 19861230,
+  "ucid": "EP-0132073-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B22F   9/16        20060101C I20051008RMEP', 'B22F   9/28        20060101A I20051008RMEP', 'C22B   5/00        20060101C I20051008RMEP', 'C22B   5/04        20060101A I20051008RMEP', 'C22B   5/12        20060101A I20051008RMEP', 'C22B  34/00        20060101C I20051008RMEP', 'C22B  34/20        20060101AFI20051220RMJP', 'C22B  34/24        20060101A I20051008RMEP']"
+  }
+}

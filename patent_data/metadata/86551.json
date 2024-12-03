@@ -1,0 +1,10 @@
+{
+  "patent_number": 86551,
+  "date": 19870513,
+  "ucid": "EP-0086551-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G02F   1/13        20060101CLI20051220RMJP', 'G02F   1/133       20060101ALI20051220RMJP', 'G09G   3/00        20060101ALI20051220RMJP', 'G09G   3/00        20060101CLI20051220RMJP', 'G09G   3/04        20060101A I20051008RMEP', 'G09G   3/04        20060101C I20051008RMEP', 'G09G   3/18        20060101A I20051008RMEP', 'G09G   3/18        20060101C I20051008RMEP']"
+  }
+}

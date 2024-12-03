@@ -1,0 +1,10 @@
+{
+  "patent_number": 159659,
+  "date": 19900725,
+  "ucid": "EP-0159659-B1",
+  "classifications": {
+    "main": "B41M   5/26",
+    "further": NaN,
+    "ipcr": "['B41M   5/337       20060101A I20051008RMEP', 'B41M   5/44        20060101A I20051008RMEP', 'B41M   5/30        20060101C I20051008RMEP', 'B41M   5/28        20060101CFI20051220RMJP', 'B41M   5/28        20060101AFI20051220RMJP', 'B41M   5/30        20060101A I20051008RMEP', 'B41M   5/40        20060101C I20051008RMEP']"
+  }
+}

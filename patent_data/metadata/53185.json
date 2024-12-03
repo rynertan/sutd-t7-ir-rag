@@ -1,0 +1,10 @@
+{
+  "patent_number": 53185,
+  "date": 19851106,
+  "ucid": "EP-0053185-B1",
+  "classifications": {
+    "main": "H04N   7/18",
+    "further": NaN,
+    "ipcr": "['G08B  13/00        20060101AFI20051220RMJP', 'G08B  13/196       20060101ALI20051220RMJP', 'H04N   7/18        20060101CLI20051220RMJP', 'G08B  13/194       20060101C I20051008RMEP', 'G08B  13/194       20060101A I20051008RMEP', 'H04N   7/18        20060101ALI20051220RMJP', 'G08B  13/00        20060101CFI20051220RMJP']"
+  }
+}

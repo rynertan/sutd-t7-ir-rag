@@ -1,0 +1,10 @@
+{
+  "patent_number": 54020,
+  "date": 19820623,
+  "ucid": "EP-0054020-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61M   1/00        20060101AFI20051220RMJP', 'A61M   1/00        20060101CFI20051220RMJP', 'A61M   1/16        20060101C I20060521RMEP', 'A61M   1/22        20060101A I20060521RMEP', 'B01D  53/22        20060101A I20051008RMEP', 'B01D  53/22        20060101C I20051008RMEP', 'B01D  63/08        20060101ALI20051220RMJP', 'B01D  63/08        20060101CLI20051220RMJP']"
+  }
+}

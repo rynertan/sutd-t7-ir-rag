@@ -1,0 +1,10 @@
+{
+  "patent_number": 6508,
+  "date": 19800109,
+  "ucid": "EP-0006508-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['E05D  15/16        20060101C I20051008RMEP', 'E05D  15/22        20060101A I20051008RMEP', 'E05F   1/00        20060101C I20070602RMUS', 'E05F   1/02        20060101A I20070602RMUS', 'E06B   3/32        20060101C I20051008RMEP', 'E06B   3/50        20060101A I20051008RMEP', 'E06B   7/22        20060101C I20070602RMEP', 'E06B   7/232       20060101A I20070602RMEP']"
+  }
+}

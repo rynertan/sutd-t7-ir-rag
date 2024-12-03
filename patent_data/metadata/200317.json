@@ -1,0 +1,10 @@
+{
+  "patent_number": 200317,
+  "date": 19861105,
+  "ucid": "EP-0200317-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C01G  41/00        20060101ALI20051220RMJP', 'C01G  41/00        20060101CLI20051220RMJP', 'C22B   3/00        20060101C I20051008RMEP', 'C22B   3/16        20060101A I20051008RMEP', 'C22B   7/00        20060101A I20051008RMEP', 'C22B   7/00        20060101C I20051008RMEP', 'C22B  34/00        20060101C I20051008RMEP', 'C22B  34/36        20060101A I20051008RMEP']"
+  }
+}

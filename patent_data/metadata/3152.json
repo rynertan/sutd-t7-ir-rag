@@ -1,0 +1,10 @@
+{
+  "patent_number": 3152,
+  "date": 19790725,
+  "ucid": "EP-0003152-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/30        20060101A I20051008RMEP', 'G06F   1/30        20060101C I20051008RMEP', 'H02J   7/00        20060101A I20051008RMEP', 'H02J   7/00        20060101C I20051008RMEP', 'H02J   7/02        20060101A I20051008RMEP', 'H02J   7/02        20060101C I20051008RMEP', 'H02J   9/06        20060101A I20051008RMEP', 'H02J   9/06        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 42043,
+  "date": 19841031,
+  "ucid": "EP-0042043-B1",
+  "classifications": {
+    "main": "H02P  13/22",
+    "further": "G05F   5/00",
+    "ipcr": "['G05F   5/00        20060101A I20051008RMEP', 'H02M   3/24        20060101C I20051008RMEP', 'H02M   3/28        20060101AFI20051220RMJP', 'G05F   5/00        20060101C I20051008RMEP', 'H02M   3/335       20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 198567,
+  "date": 19861022,
+  "ucid": "EP-0198567-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['D04B   1/14        20060101C I20060722RMEP', 'D04B   1/16        20060101A I20060722RMEP', 'D04C   1/00        20060101CFI20051220RMJP', 'D04C   1/12        20060101AFI20051220RMJP', 'D07B   1/00        20060101C I20051008RMEP', 'D07B   1/02        20060101A I20051008RMEP', 'F16G   9/00        20060101A I20051008RMEP', 'F16G   9/00        20060101C I20051008RMEP']"
+  }
+}

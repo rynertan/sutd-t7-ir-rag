@@ -1,0 +1,10 @@
+{
+  "patent_number": 123663,
+  "date": 19870114,
+  "ucid": "EP-0123663-B1",
+  "classifications": {
+    "main": "F16J  15/34",
+    "further": NaN,
+    "ipcr": "['F16J  15/34        20060101A I20051008RMEP', 'F16J  15/34        20060101C I20051008RMEP']"
+  }
+}

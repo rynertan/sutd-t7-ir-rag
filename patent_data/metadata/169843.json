@@ -1,0 +1,10 @@
+{
+  "patent_number": 169843,
+  "date": 19920108,
+  "ucid": "EP-0169843-B2",
+  "classifications": {
+    "main": "F28F   9/00",
+    "further": NaN,
+    "ipcr": "['F28D   9/00        20060101A I20051008RMEP', 'F28D   9/02        20060101ALI20051220RMJP', 'F28F   3/10        20060101ALI20051220RMJP', 'F28F   3/08        20060101CLI20051220RMJP', 'F28F   9/00        20060101A I20051008RMEP', 'F28D   9/00        20060101C I20051008RMEP', 'F28F   9/00        20060101C I20051008RMEP']"
+  }
+}

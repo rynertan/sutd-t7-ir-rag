@@ -1,0 +1,10 @@
+{
+  "patent_number": 193234,
+  "date": 19880420,
+  "ucid": "EP-0193234-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F23C   1/00        20060101A I20051008RMEP', 'F23C   1/00        20060101C I20051008RMEP', 'F24H   1/22        20060101C I20051008RMEP', 'F24H   1/28        20060101A I20051008RMEP', 'F24H   1/36        20060101A I20051008RMEP', 'F24H   1/46        20060101A I20051008RMEP', 'F24H   1/46        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 149069,
+  "date": 19850724,
+  "ucid": "EP-0149069-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   2/51        20060101AFI20051220RMJP', 'B41J   2/51        20060101CFI20051220RMJP', 'G06K  15/02        20060101C I20051008RMEP', 'G06K  15/10        20060101A I20051008RMEP', 'G09G   5/24        20060101A I20051008RMEP', 'G09G   5/24        20060101C I20051008RMEP', 'G09G   5/32        20060101ALI20051220RMJP', 'G09G   5/32        20060101CLI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 91456,
+  "date": 19831019,
+  "ucid": "EP-0091456-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A01G  23/00        20060101C I20051008RMEP', 'A01G  23/097       20060101A I20051008RMEP', 'B27L   1/00        20060101AFI19900607BMSU', 'B27L   1/00        20060101CFI19900607BMSU', 'B66C   1/22        20060101CLI19900607BMSU', 'B66C   1/30        20060101ALI19900607BMSU', 'B66C   1/42        20060101C I20051008RMEP', 'B66C   1/58        20060101A I20051008RMEP']"
+  }
+}

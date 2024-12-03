@@ -1,0 +1,10 @@
+{
+  "patent_number": 161809,
+  "date": 19890315,
+  "ucid": "EP-0161809-B1",
+  "classifications": {
+    "main": "G11B   7/24",
+    "further": NaN,
+    "ipcr": "['G11B   7/24        20060101ALI20051220RMJP', 'G11B   7/257       20060101ALI20051220RMJP', 'B41M   5/26        20060101AFI20051220RMJP', 'G11B   7/244       20060101A I20051008RMEP', 'G11B   7/254       20060101A I20051008RMEP', 'B41M   5/26        20060101CFI20051220RMJP', 'G11B   7/24        20060101C I20051008RMEP']"
+  }
+}

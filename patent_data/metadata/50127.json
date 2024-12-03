@@ -1,0 +1,10 @@
+{
+  "patent_number": 50127,
+  "date": 19820428,
+  "ucid": "EP-0050127-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C09J   5/00        20060101AFI20051220RMJP', 'C09J   5/00        20060101CFI20051220RMJP', 'C09J   5/06        20060101A I20051008RMEP', 'C09J   5/06        20060101C I20051008RMEP', 'C09J 177/00        20060101A I20051008RMEP', 'C09J 177/00        20060101C I20051008RMEP', 'F28F   1/12        20060101C I20051008RMEP', 'F28F   1/22        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 200312,
+  "date": 19910206,
+  "ucid": "EP-0200312-B1",
+  "classifications": {
+    "main": "G01R  25/00",
+    "further": NaN,
+    "ipcr": "['H05B   3/00        20060101CLI20051220RMJP', 'G01R  31/00        20060101A I20051008RMEP', 'G01R  25/00        20060101A I20051008RMEP', 'G01R  25/00        20060101C I20051008RMEP', 'G01R  31/00        20060101C I20051008RMEP', 'H05B   3/00        20060101ALI20051220RMJP']"
+  }
+}

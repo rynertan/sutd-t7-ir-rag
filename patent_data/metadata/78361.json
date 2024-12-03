@@ -1,0 +1,10 @@
+{
+  "patent_number": 78361,
+  "date": 19851121,
+  "ucid": "EP-0078361-B1",
+  "classifications": {
+    "main": "C10M 173/00",
+    "further": NaN,
+    "ipcr": "['C10N  30/06        20060101ALN20051220RMJP', 'B21J   3/00        20060101CLI20051220RMJP', 'B21J   3/00        20060101ALI20051220RMJP', 'C10M 173/02        20060101C I20051008RMEP', 'C10N  30/08        20060101ALN20051220RMJP', 'C10M 173/02        20060101A I20051008RMEP', 'C10N  40/24        20060101ALN20051220RMJP']"
+  }
+}

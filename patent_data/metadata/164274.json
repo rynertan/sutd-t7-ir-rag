@@ -1,0 +1,10 @@
+{
+  "patent_number": 164274,
+  "date": 19851211,
+  "ucid": "EP-0164274-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04N   9/64        20060101AFI20060101BMKR', 'H04N   9/64        20060101CFI20060101BMKR', 'H04N   9/68        20060101A I20051008RMEP', 'H04N   9/68        20060101C I20051008RMEP', 'H04N   9/79        20060101A I20051008RMEP', 'H04N   9/79        20060101C I20051008RMEP', 'H04N   9/793       20060101A I20051008RMEP', 'H04N   9/793       20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 88444,
+  "date": 19830914,
+  "ucid": "EP-0088444-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H01F   6/00        20060101A I20051008RMEP', 'H01F   6/00        20060101C I20051008RMEP', 'H01F   7/08        20060101C I20051008RMEP', 'H01F   7/18        20060101A I20051008RMEP', 'H01L  39/00        20060101ALI20051220RMJP', 'H01L  39/00        20060101CLI20051220RMJP', 'H02J  15/00        20060101AFI20051220RMJP', 'H02J  15/00        20060101CFI20051220RMJP']"
+  }
+}

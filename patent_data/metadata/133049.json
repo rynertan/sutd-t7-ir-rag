@@ -1,0 +1,10 @@
+{
+  "patent_number": 133049,
+  "date": 19850213,
+  "ucid": "EP-0133049-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G11B  20/06        20060101AFI20051220RMJP', 'G11B  20/06        20060101CFI20051220RMJP', 'H04N   5/923       20060101A I20051008RMEP', 'H04N   5/923       20060101C I20051008RMEP', 'H04N   9/79        20060101A I20051008RMEP', 'H04N   9/79        20060101C I20051008RMEP', 'H04N   9/82        20060101C I20051008RMEP', 'H04N   9/83        20060101A I20051008RMEP']"
+  }
+}

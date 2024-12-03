@@ -1,0 +1,10 @@
+{
+  "patent_number": 146221,
+  "date": 19880824,
+  "ucid": "EP-0146221-B1",
+  "classifications": {
+    "main": "G06K   7/10",
+    "further": "G06K   5/00",
+    "ipcr": "['H04N   1/00        20060101CLI20051220RMJP', 'H04N   1/00        20060101ALI20051220RMJP', 'B65H   7/14        20060101CLI20051220RMJP', 'B65H   7/14        20060101ALI20051220RMJP', 'G06K  13/06        20060101C I20051008RMEP', 'G06K  13/067       20060101A I20051008RMEP']"
+  }
+}

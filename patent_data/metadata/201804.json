@@ -1,0 +1,10 @@
+{
+  "patent_number": 201804,
+  "date": 19920701,
+  "ucid": "EP-0201804-B1",
+  "classifications": {
+    "main": "A61K  33/00",
+    "further": "A61K  33/24",
+    "ipcr": "['A61K  33/00        20060101C I20051008RMEP', 'A61K  33/24        20060101C I20051008RMEP', 'A61K  33/24        20060101A I20051008RMEP', 'A61K  33/00        20060101A I20051008RMEP']"
+  }
+}

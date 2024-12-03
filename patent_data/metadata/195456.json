@@ -1,0 +1,10 @@
+{
+  "patent_number": 195456,
+  "date": 19881123,
+  "ucid": "EP-0195456-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C03B  37/00        20060101CFI20060310RMJP', 'C03B  37/02        20060101C I20051008RMEP', 'C03B  37/029       20060101A I20051008RMEP', 'C03B  37/08        20060101AFI20060310RMJP', 'H05B   6/00        20060101C I20051008RMEP', 'H05B   6/02        20060101A I20051008RMEP', 'H05B   6/02        20060101C I20051008RMEP', 'H05B   6/62        20060101A I20051008RMEP']"
+  }
+}

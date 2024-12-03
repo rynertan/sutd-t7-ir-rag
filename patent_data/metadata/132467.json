@@ -1,0 +1,10 @@
+{
+  "patent_number": 132467,
+  "date": 19850213,
+  "ucid": "EP-0132467-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60K   6/00        20060101C I20070721RMEP', 'B60K   6/10        20060101A I20070721RMEP', 'B60L  11/00        20060101C I20051008RMEP', 'B60L  11/16        20060101A I20051008RMEP', 'B61L   3/00        20060101A I20051008RMEP', 'B61L   3/00        20060101C I20051008RMEP', 'G05D   1/02        20060101A I20051008RMEP', 'G05D   1/02        20060101C I20051008RMEP']"
+  }
+}

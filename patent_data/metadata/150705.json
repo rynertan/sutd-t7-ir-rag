@@ -1,0 +1,10 @@
+{
+  "patent_number": 150705,
+  "date": 19930616,
+  "ucid": "EP-0150705-B1",
+  "classifications": {
+    "main": "G06F  12/08",
+    "further": NaN,
+    "ipcr": "['G06F   3/06        20060101AFI20051220RMJP', 'G06F  12/00        20060101CLI20051220RMJP', 'G06F  12/08        20060101A I20051008RMEP', 'G06F  12/00        20060101ALI20051220RMJP', 'G06F   3/06        20060101CFI20051220RMJP', 'G06F  12/08        20060101C I20051008RMEP']"
+  }
+}

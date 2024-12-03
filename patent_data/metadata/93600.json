@@ -1,0 +1,10 @@
+{
+  "patent_number": 93600,
+  "date": 19870722,
+  "ucid": "EP-0093600-B1",
+  "classifications": {
+    "main": "G09F   9/37",
+    "further": "G08B   5/22",
+    "ipcr": "['G09F   9/37        20060101C I20051008RMEP', 'G09F  11/235       20060101ALI20051220RMJP', 'G09F   9/37        20060101A I20051008RMEP', 'G09F  11/23        20060101ALI20051220RMJP', 'G09F  11/10        20060101AFI20051220RMJP', 'G09F  11/00        20060101CFI20051220RMJP']"
+  }
+}

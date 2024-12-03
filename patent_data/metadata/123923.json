@@ -1,0 +1,10 @@
+{
+  "patent_number": 123923,
+  "date": 19860903,
+  "ucid": "EP-0123923-B1",
+  "classifications": {
+    "main": "B21D  53/06",
+    "further": NaN,
+    "ipcr": "['B21C  37/15        20060101C I20051008RMEP', 'B21C  37/20        20060101A I20051008RMEP']"
+  }
+}

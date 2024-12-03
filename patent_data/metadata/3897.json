@@ -1,0 +1,10 @@
+{
+  "patent_number": 3897,
+  "date": 19790905,
+  "ucid": "EP-0003897-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K  31/555       20060101ALI20051220RMJP', 'A61K  31/555       20060101CLI20051220RMJP', 'A61P  29/00        20060101ALI20051220RMJP', 'A61P  29/00        20060101CLI20051220RMJP', 'C07F   9/00        20060101C I20051008RMEP', 'C07F   9/02        20060101AFI20051220RMJP', 'C07F   9/58        20060101A I20051008RMEP']"
+  }
+}

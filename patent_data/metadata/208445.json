@@ -1,0 +1,10 @@
+{
+  "patent_number": 208445,
+  "date": 19880330,
+  "ucid": "EP-0208445-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60R   1/02        20060101CLI20051220RMJP', 'B60R   1/04        20060101ALI20051220RMJP', 'B60R   1/08        20060101A I20051008RMEP', 'B60R   1/08        20060101C I20051008RMEP', 'G02B   5/08        20060101AFI20051220RMJP', 'G02B   5/08        20060101CFI20051220RMJP', 'G02B   7/182       20060101ALI20051220RMJP', 'G02B   7/182       20060101CLI20051220RMJP']"
+  }
+}

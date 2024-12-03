@@ -1,0 +1,10 @@
+{
+  "patent_number": 85089,
+  "date": 19851113,
+  "ucid": "EP-0085089-B1",
+  "classifications": {
+    "main": "H04M   1/24",
+    "further": NaN,
+    "ipcr": "['H04M   3/30        20060101A I20051008RMEP', 'H04M   1/24        20060101CLI20051220RMJP', 'H04M   3/28        20060101C I20051008RMEP', 'H04M   1/24        20060101ALI20051220RMJP', 'H04Q   3/52        20060101A I20051008RMEP', 'H04Q   3/52        20060101C I20051008RMEP', 'H04B   3/46        20060101CFI20060101BMKR', 'H04B   3/46        20060101AFI20060101BMKR']"
+  }
+}

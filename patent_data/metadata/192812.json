@@ -1,0 +1,10 @@
+{
+  "patent_number": 192812,
+  "date": 19910227,
+  "ucid": "EP-0192812-B1",
+  "classifications": {
+    "main": "G01D   5/16",
+    "further": NaN,
+    "ipcr": "['G01B   7/00        20060101CLI20060310RMJP', 'G01B   7/00        20060101ALI20060310RMJP', 'G05D   3/12        20060101CFI20060310RMJP', 'G01D   5/14        20060101A I20070721RMEP', 'G05D   3/12        20060101AFI20060310RMJP', 'G01D   5/12        20060101C I20051008RMEP', 'G01D   5/16        20060101A I20051008RMEP']"
+  }
+}

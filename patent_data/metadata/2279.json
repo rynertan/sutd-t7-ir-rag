@@ -1,0 +1,10 @@
+{
+  "patent_number": 2279,
+  "date": 19830126,
+  "ucid": "EP-0002279-B1",
+  "classifications": {
+    "main": "C08G  61/08",
+    "further": NaN,
+    "ipcr": "['C08F  32/00        20060101CLI20051220RMJP', 'C08F  32/00        20060101ALI20051220RMJP', 'C08F   4/00        20060101CFI20051220RMJP', 'C08F   4/00        20060101AFI20051220RMJP', 'C08G  61/08        20060101A I20051008RMEP', 'C08F   4/60        20060101ALI20051220RMJP', 'C08G  61/00        20060101C I20051008RMEP']"
+  }
+}

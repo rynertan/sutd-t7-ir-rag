@@ -1,0 +1,10 @@
+{
+  "patent_number": 42391,
+  "date": 19860305,
+  "ucid": "EP-0042391-B1",
+  "classifications": {
+    "main": "A61G   5/00",
+    "further": NaN,
+    "ipcr": "['A61G   5/00        20060101ALI20051220RMJP', 'A61G   5/00        20060101C I20051008RMEP', 'A61G   5/10        20060101A I20051008RMEP', 'A61G   5/02        20060101AFI20051220RMJP', 'A61G   5/14        20060101A I20051008RMEP', 'A61G   5/08        20060101A I20060722RMEP', 'A61G   5/12        20060101A N20080531RMEP']"
+  }
+}

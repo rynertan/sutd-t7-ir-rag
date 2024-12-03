@@ -1,0 +1,10 @@
+{
+  "patent_number": 29696,
+  "date": 19810603,
+  "ucid": "EP-0029696-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   2/045       20060101AFI20051220RMJP', 'B41J   2/045       20060101CFI20051220RMJP', 'B41J   2/055       20060101ALI20051220RMJP', 'B41J   2/055       20060101CLI20051220RMJP', 'B41J   2/165       20060101A I20051008RMEP', 'B41J   2/165       20060101C I20051008RMEP', 'B41J   2/17        20060101C I20051008RMEP', 'B41J   2/19        20060101A I20051008RMEP']"
+  }
+}

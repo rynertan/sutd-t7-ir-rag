@@ -1,0 +1,10 @@
+{
+  "patent_number": 180178,
+  "date": 19920513,
+  "ucid": "EP-0180178-B1",
+  "classifications": {
+    "main": "H04M   1/72",
+    "further": NaN,
+    "ipcr": "['H04Q   7/20        20060101CLI20051220RMJP', 'H04M   1/725       20060101A I20051008RMEP', 'H04M   1/727       20060101A I20051008RMEP', 'H04M   1/72        20060101C I20051008RMEP', 'H04Q   7/38        20060101AFI20051220RMJP', 'H04Q   7/20        20060101ALI20051220RMJP', 'H04Q   7/38        20060101CFI20051220RMJP']"
+  }
+}

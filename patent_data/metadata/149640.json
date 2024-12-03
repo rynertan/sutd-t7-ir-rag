@@ -1,0 +1,10 @@
+{
+  "patent_number": 149640,
+  "date": 19890906,
+  "ucid": "EP-0149640-B1",
+  "classifications": {
+    "main": "B26D   7/26",
+    "further": NaN,
+    "ipcr": "['B26D   7/26        20060101C I20051008RMEP', 'B26D   7/00        20060101CLI20051220RMJP', 'B26F   1/38        20060101C I20051008RMEP', 'B26D   7/22        20060101ALI20051220RMJP', 'B26F   1/38        20060101A I20051008RMEP', 'B26D   7/26        20060101A I20051008RMEP', 'B26D   1/04        20060101ALI20051220RMJP', 'B26D   1/01        20060101CLI20051220RMJP']"
+  }
+}

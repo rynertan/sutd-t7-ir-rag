@@ -1,0 +1,10 @@
+{
+  "patent_number": 193548,
+  "date": 19860910,
+  "ucid": "EP-0193548-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A43D  11/00        20060101C I20051008RMEP', 'A43D  11/14        20060101A I20051008RMEP', 'B05C   9/14        20060101ALI20051220RMJP', 'B05C   9/14        20060101CLI20051220RMJP', 'B05D   3/04        20060101A I20051008RMEP', 'B05D   3/04        20060101C I20051008RMEP', 'B65D   3/00        20060101CFI20051220RMJP', 'B65D   3/02        20060101AFI20051220RMJP']"
+  }
+}

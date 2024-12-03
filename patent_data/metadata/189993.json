@@ -1,0 +1,10 @@
+{
+  "patent_number": 189993,
+  "date": 19890726,
+  "ucid": "EP-0189993-B1",
+  "classifications": {
+    "main": "H01B   1/24",
+    "further": NaN,
+    "ipcr": "['C08L  83/00        20060101CFI20051220RMJP', 'C08K   3/00        20060101CLI20051220RMJP', 'C08K   3/04        20060101ALI20051220RMJP', 'C08L  83/00        20060101AFI20051220RMJP', 'C08L  83/04        20060101ALI20051220RMJP', 'H01B   1/24        20060101C I20051110RMEP', 'H01B   1/24        20060101A I20051110RMEP']"
+  }
+}

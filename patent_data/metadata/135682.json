@@ -1,0 +1,10 @@
+{
+  "patent_number": 135682,
+  "date": 19850403,
+  "ucid": "EP-0135682-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41C   1/14        20060101ALI20051220RMJP', 'B41C   1/14        20060101CLI20051220RMJP', 'B41F  15/40        20060101AFI20051220RMJP', 'B41F  15/40        20060101CFI20051220RMJP', 'G03F   7/12        20060101A I20051008RMEP', 'G03F   7/12        20060101C I20051008RMEP', 'G03F   7/16        20060101A I20051008RMEP', 'G03F   7/16        20060101C I20051008RMEP']"
+  }
+}

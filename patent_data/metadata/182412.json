@@ -1,0 +1,10 @@
+{
+  "patent_number": 182412,
+  "date": 19860528,
+  "ucid": "EP-0182412-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61F   2/00        20060101A N20051008RMEP', 'A61F   2/00        20060101C N20051008RMEP', 'A61F   2/50        20060101A N20051008RMEP', 'A61F   2/50        20060101C I20051008RMEP', 'A61F   2/60        20060101A N20051008RMEP', 'A61F   2/60        20060101C N20051008RMEP', 'A61F   2/78        20060101A I20051008RMEP', 'A61F   2/80        20060101A I20051008RMEP']"
+  }
+}

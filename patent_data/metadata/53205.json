@@ -1,0 +1,10 @@
+{
+  "patent_number": 53205,
+  "date": 19820609,
+  "ucid": "EP-0053205-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01D   1/00        20060101C I20051008RMEP', 'G01D   1/16        20060101A I20051008RMEP', 'G01F   9/00        20060101C I20051008RMEP', 'G01F   9/02        20060101A I20051008RMEP', 'G01P   1/00        20060101C I20051008RMEP', 'G01P   1/08        20060101A I20051008RMEP', 'G01P  11/00        20060101A I20051008RMEP', 'G01P  11/00        20060101C I20051008RMEP']"
+  }
+}

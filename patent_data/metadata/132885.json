@@ -1,0 +1,10 @@
+{
+  "patent_number": 132885,
+  "date": 19850213,
+  "ucid": "EP-0132885-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06G   7/00        20060101CLI20051220RMJP', 'G06G   7/16        20060101ALI20051220RMJP', 'H03D   1/00        20060101C I20051008RMEP', 'H03D   1/22        20060101A I20051008RMEP', 'H03H  19/00        20060101A I20051008RMEP', 'H03H  19/00        20060101C I20051008RMEP', 'H04H   5/00        20060101ALI20051220RMJP', 'H04H   5/00        20060101CLI20051220RMJP']"
+  }
+}

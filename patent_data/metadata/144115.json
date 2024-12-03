@@ -1,0 +1,10 @@
+{
+  "patent_number": 144115,
+  "date": 19900131,
+  "ucid": "EP-0144115-B1",
+  "classifications": {
+    "main": "G01N  21/21",
+    "further": "G01B  11/06",
+    "ipcr": "['G01J   4/00        20060101CLI20051220RMJP', 'G01J   4/00        20060101ALI20051220RMJP', 'G01N  21/21        20060101C I20051008RMEP', 'G01N  21/21        20060101A I20051008RMEP', 'G01J   4/04        20060101AFI20051220RMJP']"
+  }
+}

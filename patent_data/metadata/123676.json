@@ -1,0 +1,10 @@
+{
+  "patent_number": 123676,
+  "date": 19870219,
+  "ucid": "EP-0123676-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H01L  21/02        20060101CLI20051220RMJP', 'H01L  21/60        20060101ALI20051220RMJP', 'H05K   3/30        20060101AFI20051220RMJP', 'H05K   3/30        20060101CFI20051220RMJP', 'H05K   3/32        20060101ALI20051220RMJP', 'H05K   3/32        20060101CLI20051220RMJP', 'H05K   7/10        20060101A I20051008RMEP', 'H05K   7/10        20060101C I20051008RMEP']"
+  }
+}

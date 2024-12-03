@@ -1,0 +1,10 @@
+{
+  "patent_number": 123960,
+  "date": 19861015,
+  "ucid": "EP-0123960-B1",
+  "classifications": {
+    "main": "H01M   8/24",
+    "further": "C08K   3/34",
+    "ipcr": "['H01M   8/02        20060101C I20051008RMEP', 'H01M   2/08        20060101C I20051008RMEP', 'H01M   8/02        20060101A I20051008RMEP', 'H01M   2/08        20060101A I20051008RMEP']"
+  }
+}

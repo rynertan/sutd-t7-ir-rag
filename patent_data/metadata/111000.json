@@ -1,0 +1,10 @@
+{
+  "patent_number": 111000,
+  "date": 19840919,
+  "ucid": "EP-0111000-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B22D  11/045       20060101A I20051008RMEP', 'B22D  11/045       20060101C I20051008RMEP', 'B22D  11/047       20060101A I20051008RMEP', 'B22D  11/16        20060101AFI20060101BMKR', 'B22D  11/16        20060101CFI20060101BMKR', 'B22D  11/20        20060101A I20051008RMEP', 'B22D  11/20        20060101C I20051008RMEP']"
+  }
+}

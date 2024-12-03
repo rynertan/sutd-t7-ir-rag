@@ -1,0 +1,10 @@
+{
+  "patent_number": 200402,
+  "date": 19910814,
+  "ucid": "EP-0200402-B1",
+  "classifications": {
+    "main": "G11C  27/02",
+    "further": NaN,
+    "ipcr": "['H03K   7/00        20060101CLI20051220RMJP', 'G11C  27/02        20060101A I20051008RMEP', 'H04N   5/66        20060101CLI20051220RMJP', 'G11C  27/00        20060101C I20051008RMEP', 'H03K   7/02        20060101ALI20051220RMJP', 'G09G   3/36        20060101CLI20051220RMJP', 'H04N   5/66        20060101ALI20051220RMJP', 'G09G   3/36        20060101ALI20051220RMJP']"
+  }
+}

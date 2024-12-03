@@ -1,0 +1,10 @@
+{
+  "patent_number": 123478,
+  "date": 19880203,
+  "ucid": "EP-0123478-B1",
+  "classifications": {
+    "main": "B23Q   7/00",
+    "further": "B30B  15/30",
+    "ipcr": "['B21D  43/10        20060101A I20051008RMEP', 'B65H  15/00        20060101C I20051008RMEP', 'B21D  43/04        20060101C I20051008RMEP', 'B65H  15/00        20060101A I20051008RMEP']"
+  }
+}

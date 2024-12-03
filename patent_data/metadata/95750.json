@@ -1,0 +1,10 @@
+{
+  "patent_number": 95750,
+  "date": 19840718,
+  "ucid": "EP-0095750-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04B   1/16        20060101AFI20051220RMJP', 'H04B   1/16        20060101CFI20051220RMJP', 'H04B   5/04        20060101ALI20060101BMKR', 'H04B   5/04        20060101CLI20060101BMKR', 'H04W  52/00        20090101C I20090105RMEP', 'H04W  52/02        20090101A I20090105RMEP', 'H04W  88/00        20090101C N20090105RMEP', 'H04W  88/02        20090101A N20090105RMEP']"
+  }
+}

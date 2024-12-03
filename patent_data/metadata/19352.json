@@ -1,0 +1,10 @@
+{
+  "patent_number": 19352,
+  "date": 19840711,
+  "ucid": "EP-0019352-B1",
+  "classifications": {
+    "main": "B66D   5/26",
+    "further": NaN,
+    "ipcr": "['B66D   1/08        20060101AFI20051220RMJP', 'F15B   1/00        20060101CLI19951127RMRU', 'B66D   5/00        20060101C I20051008RMEP', 'F15B  11/08        20060101ALI20051220RMJP', 'F15B   1/02        20060101ALI19951127RMRU', 'B66D   1/02        20060101CFI20051220RMJP', 'B66D   5/26        20060101A I20051008RMEP', 'F15B  11/00        20060101CLI20051220RMJP']"
+  }
+}

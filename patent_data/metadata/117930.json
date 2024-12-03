@@ -1,0 +1,10 @@
+{
+  "patent_number": 117930,
+  "date": 19840912,
+  "ucid": "EP-0117930-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/46        20060101A I20051008RMEP', 'G06F   9/46        20060101C I20051008RMEP', 'G06F  12/14        20060101A I20051008RMEP', 'G06F  12/14        20060101C I20051008RMEP', 'G06F  13/36        20060101ALI20051220RMJP', 'G06F  13/36        20060101CLI20051220RMJP', 'G06F  21/00        20060101CLI20051220RMJP', 'G06F  21/24        20060101ALI20051220RMJP']"
+  }
+}

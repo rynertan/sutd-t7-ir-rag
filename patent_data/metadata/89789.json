@@ -1,0 +1,10 @@
+{
+  "patent_number": 89789,
+  "date": 19870128,
+  "ucid": "EP-0089789-B1",
+  "classifications": {
+    "main": "B68G   9/00",
+    "further": "A47C  27/06",
+    "ipcr": "['A47C  27/04        20060101C I20051008RMEP', 'B68G   9/00        20060101C I20051008RMEP', 'B68G   9/00        20060101A I20051008RMEP', 'A47C  27/06        20060101A I20051008RMEP']"
+  }
+}

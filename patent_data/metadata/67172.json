@@ -1,0 +1,10 @@
+{
+  "patent_number": 67172,
+  "date": 19821222,
+  "ucid": "EP-0067172-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G07D   7/00        20060101C I20051008RMEP', 'G07D   7/20        20060101A I20051008RMEP', 'G09G   1/16        20060101A I20051008RMEP', 'G09G   1/16        20060101C I20051008RMEP', 'G09G   5/00        20060101A I20070721RMEP', 'G09G   5/00        20060101C I20070721RMEP', 'G09G   5/14        20060101A I20051008RMEP', 'G09G   5/14        20060101C I20051008RMEP']"
+  }
+}

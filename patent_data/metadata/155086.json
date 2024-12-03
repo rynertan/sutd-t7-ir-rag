@@ -1,0 +1,10 @@
+{
+  "patent_number": 155086,
+  "date": 19850918,
+  "ucid": "EP-0155086-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B28B   3/00        20060101AFI20060101BMKR', 'B28B   3/00        20060101CFI20060101BMKR', 'B28B   3/02        20060101A I20051008RMEP', 'B28B   3/02        20060101C I20051008RMEP', 'B30B   1/00        20060101CLI20051220RMJP', 'B30B   1/32        20060101ALI20051220RMJP', 'B30B  15/16        20060101CLI20051220RMJP', 'B30B  15/18        20060101ALI20051220RMJP']"
+  }
+}

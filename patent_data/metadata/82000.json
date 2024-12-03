@@ -1,0 +1,10 @@
+{
+  "patent_number": 82000,
+  "date": 19830622,
+  "ucid": "EP-0082000-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F  17/30        20060101A I20051008RMEP', 'G06F  17/30        20060101C I20051008RMEP', 'G10L  11/00        20060101AFI20051220RMJP', 'G10L  11/00        20060101CFI20051220RMJP', 'G10L  15/00        20060101C I20051008RMEP', 'G10L  15/12        20060101A I20051008RMEP', 'G10L  15/18        20060101ALI20051220RMJP']"
+  }
+}

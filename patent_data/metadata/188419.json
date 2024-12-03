@@ -1,0 +1,10 @@
+{
+  "patent_number": 188419,
+  "date": 19890111,
+  "ucid": "EP-0188419-B1",
+  "classifications": {
+    "main": "C09K   3/18",
+    "further": "C08F   8/30",
+    "ipcr": "['C08F   8/00        20060101C I20051110RMEP', 'C09D   5/00        20060101ALI20051220RMJP', 'C09K   3/18        20060101AFI20051220RMJP', 'C09K   3/18        20060101CFI20051220RMJP', 'C08F   8/30        20060101A I20051110RMEP', 'C09D   5/00        20060101CLI20051220RMJP']"
+  }
+}

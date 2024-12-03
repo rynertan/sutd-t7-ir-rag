@@ -1,0 +1,10 @@
+{
+  "patent_number": 152355,
+  "date": 19880427,
+  "ucid": "EP-0152355-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F  17/30        20060101A I20051008RMEP', 'G06F  17/30        20060101C I20051008RMEP', 'H04N   1/21        20060101A I20051008RMEP', 'H04N   1/21        20060101C I20051008RMEP', 'H04N   1/41        20060101A I20051008RMEP', 'H04N   1/41        20060101C I20051008RMEP', 'H04N   7/26        20060101A I20051008RMEP', 'H04N   7/26        20060101C I20051008RMEP']"
+  }
+}

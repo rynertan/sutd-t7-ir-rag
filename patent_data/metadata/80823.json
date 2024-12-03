@@ -1,0 +1,10 @@
+{
+  "patent_number": 80823,
+  "date": 19871014,
+  "ucid": "EP-0080823-B1",
+  "classifications": {
+    "main": "G06F  12/06",
+    "further": NaN,
+    "ipcr": "['G06F  13/00        20060101AFI20051220RMJP', 'G06F  12/06        20060101A I20051008RMEP', 'G06F  12/06        20060101C I20051008RMEP', 'G11C   8/00        20060101ALI20051220RMJP', 'G11C   8/00        20060101CLI20051220RMJP', 'G06F  13/00        20060101CFI20051220RMJP']"
+  }
+}

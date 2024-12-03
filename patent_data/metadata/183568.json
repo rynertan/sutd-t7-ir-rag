@@ -1,0 +1,10 @@
+{
+  "patent_number": 183568,
+  "date": 19900221,
+  "ucid": "EP-0183568-B1",
+  "classifications": {
+    "main": "G04G   1/00",
+    "further": "G01L   7/00",
+    "ipcr": "['G04C  10/00        20060101C I20051008RMEP', 'G04G   1/04        20060101A I20051008RMEP', 'G04C  10/04        20060101A I20051008RMEP', 'G04G   1/00        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 47243,
+  "date": 19850123,
+  "ucid": "EP-0047243-B1",
+  "classifications": {
+    "main": "G01C  15/00",
+    "further": "G01S   1/70",
+    "ipcr": "['G01S   1/00        20060101C I20051008RMEP', 'G01S   1/70        20060101A I20051008RMEP', 'G01C  15/00        20060101C I20051008RMEP', 'G01C  15/00        20060101A I20051008RMEP']"
+  }
+}

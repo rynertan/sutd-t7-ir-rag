@@ -1,0 +1,10 @@
+{
+  "patent_number": 150981,
+  "date": 19850807,
+  "ucid": "EP-0150981-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G21C  19/28        20060101C I20051008RMEP', 'G21C  19/30        20060101A I20051008RMEP', 'G21C  19/303       20060101ALI20051220RMJP', 'G21D   1/02        20060101AFI20051220RMJP', 'G21D   1/02        20060101CFI20051220RMJP', 'G21D   5/00        20060101CLI20051220RMJP', 'G21D   5/08        20060101ALI20051220RMJP', 'G21D   5/12        20060101ALI20051220RMJP']"
+  }
+}

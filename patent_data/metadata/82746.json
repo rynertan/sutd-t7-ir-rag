@@ -1,0 +1,10 @@
+{
+  "patent_number": 82746,
+  "date": 19890315,
+  "ucid": "EP-0082746-B1",
+  "classifications": {
+    "main": "G06F  15/64",
+    "further": "G09G   1/16",
+    "ipcr": "['G06T   1/60        20060101C I20051008RMEP', 'G09G   5/36        20060101C I20051008RMEP', 'G09G   5/395       20060101A I20051008RMEP', 'G06T   1/60        20060101A I20051008RMEP']"
+  }
+}

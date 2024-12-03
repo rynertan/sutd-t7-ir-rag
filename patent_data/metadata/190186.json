@@ -1,0 +1,10 @@
+{
+  "patent_number": 190186,
+  "date": 19860813,
+  "ucid": "EP-0190186-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H05B   3/00        20060101ALI20051220RMJP', 'H05B   3/00        20060101CLI20051220RMJP', 'H05B   3/14        20060101A I20051008RMEP', 'H05B   3/14        20060101C I20051008RMEP', 'H05B   3/34        20060101A I20051008RMEP', 'H05B   3/34        20060101C I20051008RMEP', 'H05B   3/54        20060101C I20051008RMEP', 'H05B   3/56        20060101A I20051008RMEP']"
+  }
+}

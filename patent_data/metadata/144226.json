@@ -1,0 +1,10 @@
+{
+  "patent_number": 144226,
+  "date": 19920212,
+  "ucid": "EP-0144226-B1",
+  "classifications": {
+    "main": "G06F  11/00",
+    "further": "G05B   9/03",
+    "ipcr": "['G06F  11/16        20060101A I20051008RMEP', 'G06F  11/32        20060101A I20051008RMEP', 'G06F  11/16        20060101C I20051008RMEP', 'G06F  11/32        20060101C I20051008RMEP']"
+  }
+}

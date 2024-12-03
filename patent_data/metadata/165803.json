@@ -1,0 +1,10 @@
+{
+  "patent_number": 165803,
+  "date": 19870415,
+  "ucid": "EP-0165803-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  15/24        20060101A I20051008RMEP', 'G01R  15/24        20060101C I20051008RMEP', 'G01R  31/08        20060101A I20051008RMEP', 'G01R  31/08        20060101C I20051008RMEP', 'H02H   3/26        20060101CLI20051220RMJP', 'H02H   3/30        20060101ALI20051220RMJP', 'H02H   7/26        20060101ALI20051220RMJP', 'H02H   7/26        20060101CLI20051220RMJP']"
+  }
+}

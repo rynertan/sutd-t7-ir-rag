@@ -1,0 +1,10 @@
+{
+  "patent_number": 132053,
+  "date": 19851030,
+  "ucid": "EP-0132053-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F16K  31/64        20060101CFI20051220RMJP', 'F16K  31/70        20060101AFI20051220RMJP', 'F24D  19/00        20060101ALI20051220RMJP', 'F24D  19/00        20060101CLI20051220RMJP', 'F24H   9/12        20060101A I20051008RMEP', 'F24H   9/12        20060101C I20051008RMEP', 'G05D  23/01        20060101C I20051008RMEP', 'G05D  23/08        20060101A I20051008RMEP']"
+  }
+}

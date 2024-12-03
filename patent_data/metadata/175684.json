@@ -1,0 +1,10 @@
+{
+  "patent_number": 175684,
+  "date": 19890816,
+  "ucid": "EP-0175684-B1",
+  "classifications": {
+    "main": "A24D   1/10",
+    "further": NaN,
+    "ipcr": "['A24D   1/00        20060101C I20051008RMEP', 'A24D   1/10        20060101ALI20051220RMJP', 'A24D   1/02        20060101A I20051008RMEP', 'D21H  19/12        20060101ALI20051220RMJP', 'D21H  27/00        20060101ALI20051220RMJP', 'D21H  27/00        20060101CLI20051220RMJP', 'D21H  19/00        20060101CLI20051220RMJP']"
+  }
+}

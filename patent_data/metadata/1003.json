@@ -1,0 +1,10 @@
+{
+  "patent_number": 1003,
+  "date": 19790321,
+  "ucid": "EP-0001003-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  19/06        20060101A I20051008RMEP', 'G01R  19/06        20060101C I20051008RMEP', 'H02H   1/00        20060101C I20051008RMEP', 'H02H   1/04        20060101A I20051008RMEP', 'H02H   3/38        20060101A I20051008RMEP', 'H02H   3/38        20060101C I20051008RMEP', 'H02H   7/085       20060101A I20051008RMEP', 'H02H   7/085       20060101C I20051008RMEP']"
+  }
+}

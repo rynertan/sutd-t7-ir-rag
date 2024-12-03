@@ -1,0 +1,10 @@
+{
+  "patent_number": 4170,
+  "date": 19790919,
+  "ucid": "EP-0004170-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A01H   4/00        20060101A I20051008RMEP', 'A01H   4/00        20060101C I20051008RMEP', 'A24C   1/00        20060101C I20051008RMEP', 'A24C   1/04        20060101A I20051008RMEP', 'B26D   5/20        20060101C I20051008RMEP', 'B26D   5/34        20060101A I20051008RMEP', 'G06T   1/00        20060101A I20051008RMEP', 'G06T   1/00        20060101C I20051008RMEP']"
+  }
+}

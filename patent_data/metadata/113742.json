@@ -1,0 +1,10 @@
+{
+  "patent_number": 113742,
+  "date": 19841123,
+  "ucid": "EP-0113742-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['E06B  11/00        20060101C I20051008RMEP', 'E06B  11/08        20060101A I20051008RMEP', 'G07B  15/00        20060101ALI20051220RMJP', 'G07B  15/00        20060101CLI20051220RMJP', 'G07C   9/02        20060101ALI20051220RMJP', 'G07C   9/02        20060101CLI20051220RMJP', 'G07F   7/00        20060101C I20051008RMEP', 'G07F   7/06        20060101A I20051008RMEP']"
+  }
+}

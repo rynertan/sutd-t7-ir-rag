@@ -1,0 +1,10 @@
+{
+  "patent_number": 22253,
+  "date": 19830824,
+  "ucid": "EP-0022253-B1",
+  "classifications": {
+    "main": "G01K   1/04",
+    "further": "G01W   1/17",
+    "ipcr": "['G01K   1/00        20060101C I20051110RMEP', 'G01W   1/00        20060101C I20051110RMEP', 'G01W   1/17        20060101A I20051110RMEP', 'G01K   1/04        20060101A I20051110RMEP']"
+  }
+}

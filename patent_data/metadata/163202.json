@@ -1,0 +1,10 @@
+{
+  "patent_number": 163202,
+  "date": 19910206,
+  "ucid": "EP-0163202-B1",
+  "classifications": {
+    "main": "G03F   7/42",
+    "further": NaN,
+    "ipcr": "['H01L  21/02        20060101CLI20060310RMJP', 'G03F   7/30        20060101ALI20060310RMJP', 'G03F   7/30        20060101CLI20060310RMJP', 'H01L  21/30        20060101AFI20060310RMJP', 'H01L  21/027       20060101ALI20060310RMJP', 'G03F   7/42        20060101A I20051008RMEP', 'G03F   7/42        20060101C I20051008RMEP']"
+  }
+}

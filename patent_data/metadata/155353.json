@@ -1,0 +1,10 @@
+{
+  "patent_number": 155353,
+  "date": 19851204,
+  "ucid": "EP-0155353-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J   6/00        20060101ALI20051220RMJP', 'B01J   6/00        20060101CLI20051220RMJP', 'C03B   3/00        20060101A I20051008RMEP', 'C03B   3/00        20060101C I20051008RMEP', 'C03B   3/02        20060101A I20051008RMEP', 'C03B   5/00        20060101AFI20051220RMJP', 'C03B   5/00        20060101C I20051008RMEP', 'C03B   5/14        20060101A I20051008RMEP', 'C03B   5/235       20060101A I20051008RMEP']"
+  }
+}

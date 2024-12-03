@@ -1,0 +1,10 @@
+{
+  "patent_number": 45790,
+  "date": 19851030,
+  "ucid": "EP-0045790-B1",
+  "classifications": {
+    "main": "A61F   5/46",
+    "further": NaN,
+    "ipcr": "['A61F   6/08        20060101A I20051008RMEP', 'A61F   6/06        20060101AFI20051220RMJP', 'A61F   6/00        20060101C I20051008RMEP', 'A61F   5/457       20060101ALI20060101BMKR', 'A61B  19/00        20060101CFI20060101BMKR', 'A61B  19/00        20060101ALI20060101BMKR', 'A61F   5/451       20060101CLI20060101BMKR']"
+  }
+}

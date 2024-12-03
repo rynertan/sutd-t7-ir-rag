@@ -1,0 +1,10 @@
+{
+  "patent_number": 42738,
+  "date": 19840307,
+  "ucid": "EP-0042738-B1",
+  "classifications": {
+    "main": "E04H  12/34",
+    "further": "E04H  12/22",
+    "ipcr": "['E04H  12/34        20060101A I20051008RMEP', 'E04H  12/18        20060101A I20051008RMEP', 'E04H  12/00        20060101C I20051008RMEP']"
+  }
+}

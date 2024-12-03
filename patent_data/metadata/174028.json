@@ -1,0 +1,10 @@
+{
+  "patent_number": 174028,
+  "date": 19910717,
+  "ucid": "EP-0174028-B1",
+  "classifications": {
+    "main": "H03M   7/24",
+    "further": NaN,
+    "ipcr": "['G06F   7/76        20060101CLI20060310RMJP', 'G06F   5/01        20060101CLI20060310RMJP', 'G06F   7/00        20060101CFI20060310RMJP', 'G06F   5/01        20060101ALI20060310RMJP', 'G06F   7/76        20060101ALI20060310RMJP', 'G06F   7/00        20060101AFI20060310RMJP', 'H03M   7/14        20060101C I20051008RMEP', 'H03M   7/24        20060101A I20051008RMEP']"
+  }
+}

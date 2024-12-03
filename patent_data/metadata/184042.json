@@ -1,0 +1,10 @@
+{
+  "patent_number": 184042,
+  "date": 19860611,
+  "ucid": "EP-0184042-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01B   9/00        20060101CFI20051220RMJP', 'F01B   9/02        20060101AFI20051220RMJP', 'F02B  41/00        20060101C I20051008RMEP', 'F02B  41/04        20060101A I20051008RMEP', 'F02B  75/00        20060101C I20051008RMEP', 'F02B  75/04        20060101A I20051008RMEP', 'F02B  75/32        20060101ALI20051220RMJP', 'F02B  75/32        20060101CLI20051220RMJP']"
+  }
+}

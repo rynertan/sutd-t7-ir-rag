@@ -1,0 +1,10 @@
+{
+  "patent_number": 100418,
+  "date": 19890412,
+  "ucid": "EP-0100418-B1",
+  "classifications": {
+    "main": "G02F   1/29",
+    "further": NaN,
+    "ipcr": "['G02F   1/35        20060101CFI20051220RMJP', 'G02F   1/01        20060101ALI20051220RMJP', 'G02F   1/29        20060101A I20051008RMEP', 'G02F   1/29        20060101C I20051008RMEP', 'G02F   1/35        20060101AFI20051220RMJP', 'G02F   1/19        20060101ALI20051220RMJP', 'G02F   1/01        20060101CLI20051220RMJP']"
+  }
+}

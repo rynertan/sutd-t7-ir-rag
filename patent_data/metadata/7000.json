@@ -1,0 +1,10 @@
+{
+  "patent_number": 7000,
+  "date": 19840125,
+  "ucid": "EP-0007000-B1",
+  "classifications": {
+    "main": "E02F   3/76",
+    "further": "A01B  59/048",
+    "ipcr": "['E02F   3/76        20060101C I20051008RMEP', 'E01H   5/06        20060101A I20051008RMEP', 'E01H   5/04        20060101C I20051008RMEP', 'E02F   3/76        20060101A I20051008RMEP', 'E02F   3/815       20060101A I20051008RMEP']"
+  }
+}

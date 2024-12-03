@@ -1,0 +1,10 @@
+{
+  "patent_number": 66890,
+  "date": 19860507,
+  "ucid": "EP-0066890-B1",
+  "classifications": {
+    "main": "H01J   1/63",
+    "further": "H04N   9/31",
+    "ipcr": "['H01J  29/20        20060101A I20051008RMEP', 'H01J  31/10        20060101CLI20051220RMJP', 'H01J   9/22        20060101ALI20051220RMJP', 'H01J   9/22        20060101CLI20051220RMJP', 'H01J  31/10        20060101ALI20051220RMJP', 'H01J  29/20        20060101C I20051008RMEP']"
+  }
+}

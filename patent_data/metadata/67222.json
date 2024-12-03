@@ -1,0 +1,10 @@
+{
+  "patent_number": 67222,
+  "date": 19870121,
+  "ucid": "EP-0067222-B1",
+  "classifications": {
+    "main": "B23B   1/00",
+    "further": "B26D   1/00",
+    "ipcr": "['B23C   5/16        20060101CFI20051220RMJP', 'B23B  27/14        20060101ALI20051220RMJP', 'B23B  27/14        20060101CLI20051220RMJP', 'B23C   5/20        20060101AFI20051220RMJP', 'B23B  27/16        20060101C I20051008RMEP', 'B23B  27/16        20060101A I20051008RMEP']"
+  }
+}

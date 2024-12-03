@@ -1,0 +1,10 @@
+{
+  "patent_number": 42308,
+  "date": 19811223,
+  "ucid": "EP-0042308-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01K  21/00        20060101C I20051008RMEP', 'F01K  21/04        20060101A I20051008RMEP', 'F03G   7/00        20060101C I20051008RMEP', 'F03G   7/04        20060101A I20051008RMEP', 'F24J   3/00        20060101C I20051008RMEP', 'F24J   3/08        20060101A I20051008RMEP', 'F28C   3/00        20060101C I20051008RMEP', 'F28C   3/08        20060101A I20051008RMEP']"
+  }
+}

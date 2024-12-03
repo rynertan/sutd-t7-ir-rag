@@ -1,0 +1,10 @@
+{
+  "patent_number": 108314,
+  "date": 19840516,
+  "ucid": "EP-0108314-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H01B   1/20        20060101ALI20051220RMJP', 'H01B   1/20        20060101CLI20051220RMJP', 'H01L  21/70        20060101A I20051008RMEP', 'H01L  21/70        20060101C I20051008RMEP', 'H05K   3/12        20060101ALI20051220RMJP', 'H05K   3/12        20060101CLI20051220RMJP', 'H05K   3/46        20060101A I20051008RMEP', 'H05K   3/46        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 3389,
+  "date": 19790808,
+  "ucid": "EP-0003389-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B05D   7/14        20060101ALI20051220RMJP', 'B05D   7/14        20060101CLI20051220RMJP', 'C09D   5/08        20060101AFI20051220RMJP', 'C09D   5/08        20060101CFI20051220RMJP', 'C09D   5/16        20060101A I20051008RMEP', 'C09D   5/16        20060101C I20051008RMEP', 'C09D 191/00        20060101CLI20051220RMJP', 'C09D 191/06        20060101ALI20051220RMJP']"
+  }
+}

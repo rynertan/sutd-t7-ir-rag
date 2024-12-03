@@ -1,0 +1,10 @@
+{
+  "patent_number": 194643,
+  "date": 19900321,
+  "ucid": "EP-0194643-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  25/00        20060101ALI20051220RMJP', 'G01R  25/00        20060101CLI20051220RMJP', 'G04F  10/00        20060101CFI20051220RMJP', 'G04F  10/04        20060101AFI20051220RMJP', 'G06F  17/15        20060101A I20051008RMEP', 'G06F  17/15        20060101C I20051008RMEP', 'G06G   7/00        20060101C I20051008RMEP', 'G06G   7/19        20060101A I20051008RMEP']"
+  }
+}

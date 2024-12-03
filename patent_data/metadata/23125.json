@@ -1,0 +1,10 @@
+{
+  "patent_number": 23125,
+  "date": 19840502,
+  "ucid": "EP-0023125-B1",
+  "classifications": {
+    "main": "G01N  29/04",
+    "further": "G01M   3/00",
+    "ipcr": "['G01N  29/24        20060101C I20051008RMEP', 'B08B   9/043       20060101A I20060521RMGB', 'G01N  29/24        20060101A I20051008RMEP', 'B08B   9/02        20060101C I20060521RMGB']"
+  }
+}

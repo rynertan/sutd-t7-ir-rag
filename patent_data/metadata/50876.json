@@ -1,0 +1,10 @@
+{
+  "patent_number": 50876,
+  "date": 19850206,
+  "ucid": "EP-0050876-B1",
+  "classifications": {
+    "main": "H03J   7/18",
+    "further": NaN,
+    "ipcr": "['H04N   5/50        20060101CLI20051220RMJP', 'H04N   5/44        20060101ALI20051220RMJP', 'H04N   5/44        20060101CLI20051220RMJP', 'H04N   5/50        20060101ALI20051220RMJP', 'H03J   7/28        20060101A I20051008RMEP', 'H03J   7/18        20060101C I20051008RMEP', 'H03J   7/18        20060101A I20051008RMEP']"
+  }
+}

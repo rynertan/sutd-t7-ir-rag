@@ -1,0 +1,10 @@
+{
+  "patent_number": 111775,
+  "date": 19900321,
+  "ucid": "EP-0111775-B1",
+  "classifications": {
+    "main": "B41J   2/23",
+    "further": "H01F   7/16",
+    "ipcr": "['B41J   9/00        20060101CLI20051220RMJP', 'B41J   2/27        20060101C I20051008RMEP', 'B41J   2/285       20060101A I20051008RMEP', 'B41J   9/38        20060101ALI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 157701,
+  "date": 19911227,
+  "ucid": "EP-0157701-B1",
+  "classifications": {
+    "main": "H03L   7/00",
+    "further": NaN,
+    "ipcr": "['H03L   7/00        20060101AFI20051220RMJP', 'H03L   7/00        20060101CFI20051220RMJP', 'H03L   7/10        20060101ALI20051220RMJP', 'H04L   7/033       20060101C N20051008RMEP', 'H03L   7/081       20060101A I20051008RMEP', 'H04L   7/033       20060101A N20051008RMEP', 'H03L   7/08        20060101C I20051008RMEP']"
+  }
+}

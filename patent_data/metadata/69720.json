@@ -1,0 +1,10 @@
+{
+  "patent_number": 69720,
+  "date": 19850410,
+  "ucid": "EP-0069720-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B23K   9/12        20060101ALI20060310RMJP', 'B23K   9/12        20060101CLI20060310RMJP', 'G01B   7/00        20060101ALI20060310RMJP', 'G01B   7/00        20060101CLI20060310RMJP', 'G01B   7/14        20060101A I20051008RMEP', 'G01B   7/14        20060101C I20051008RMEP', 'G01D   5/12        20060101C I20051008RMEP', 'G01D   5/14        20060101A I20051008RMEP']"
+  }
+}

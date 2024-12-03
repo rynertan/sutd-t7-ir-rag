@@ -1,0 +1,10 @@
+{
+  "patent_number": 187243,
+  "date": 19890208,
+  "ucid": "EP-0187243-B1",
+  "classifications": {
+    "main": "B28B   7/30",
+    "further": NaN,
+    "ipcr": "['E03F   5/04        20060101CLI20051220RMJP', 'E04G  11/02        20060101AFI20051220RMJP', 'E04G  11/00        20060101CLI20051220RMJP', 'B28B   7/30        20060101A I20051008RMEP', 'E03F   5/04        20060101ALI20051220RMJP', 'B28B   7/28        20060101C I20051008RMEP', 'E04G  11/06        20060101ALI20051220RMJP']"
+  }
+}

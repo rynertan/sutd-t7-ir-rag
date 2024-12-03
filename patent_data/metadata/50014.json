@@ -1,0 +1,10 @@
+{
+  "patent_number": 50014,
+  "date": 19850213,
+  "ucid": "EP-0050014-B1",
+  "classifications": {
+    "main": "G01R  31/28",
+    "further": "G06F  15/20",
+    "ipcr": "['G01R  31/28        20060101C I20051008RMEP', 'G01R  31/28        20060101A I20051008RMEP']"
+  }
+}

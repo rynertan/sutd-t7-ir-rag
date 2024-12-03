@@ -1,0 +1,10 @@
+{
+  "patent_number": 104184,
+  "date": 19890614,
+  "ucid": "EP-0104184-B1",
+  "classifications": {
+    "main": "A61L   2/10",
+    "further": NaN,
+    "ipcr": "['A61L   2/10        20060101A I20051008RMEP', 'A61M   1/00        20060101CLI20051220RMJP', 'A61M   1/00        20060101ALI20051220RMJP', 'A61L   2/10        20060101C I20051008RMEP', 'A61L   2/08        20060101CFI20051220RMJP', 'A61M   1/28        20060101A N20051008RMEP', 'A61M   1/28        20060101C N20051008RMEP', 'A61L   2/08        20060101AFI20051220RMJP']"
+  }
+}

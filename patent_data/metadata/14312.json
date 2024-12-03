@@ -1,0 +1,10 @@
+{
+  "patent_number": 14312,
+  "date": 19800820,
+  "ucid": "EP-0014312-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   3/023       20060101A I20051008RMEP', 'G06F   3/023       20060101C I20051008RMEP', 'G06Q  40/00        20060101AFI20051220RMJP', 'G06Q  40/00        20060101CFI20051220RMJP', 'G07F   7/10        20060101A I20051008RMEP', 'G07F   7/10        20060101C I20051008RMEP', 'G07F  19/00        20060101A I20051008RMEP', 'G07F  19/00        20060101C I20051008RMEP']"
+  }
+}

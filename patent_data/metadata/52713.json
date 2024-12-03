@@ -1,0 +1,10 @@
+{
+  "patent_number": 52713,
+  "date": 19880427,
+  "ucid": "EP-0052713-B1",
+  "classifications": {
+    "main": "G06F   9/46",
+    "further": "G06F  15/20",
+    "ipcr": "['G06F   9/46        20060101AFI20051220RMJP', 'G06F   9/48        20060101A I20051008RMEP', 'G06F  17/24        20060101C I20051008RMEP', 'G06F  17/24        20060101A I20051008RMEP', 'G06F   9/46        20060101C I20051008RMEP']"
+  }
+}

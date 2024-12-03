@@ -1,0 +1,10 @@
+{
+  "patent_number": 193728,
+  "date": 19890426,
+  "ucid": "EP-0193728-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06T   3/40        20060101A I20051008RMEP', 'G06T   3/40        20060101C I20051008RMEP', 'G09G   3/20        20060101A N20080531RMEP', 'G09G   3/20        20060101C N20080531RMEP', 'G09G   3/36        20060101A I20051008RMEP', 'G09G   3/36        20060101C I20051008RMEP', 'H04N   3/10        20060101C I20051008RMEP', 'H04N   3/12        20060101A I20051008RMEP']"
+  }
+}

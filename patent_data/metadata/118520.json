@@ -1,0 +1,10 @@
+{
+  "patent_number": 118520,
+  "date": 19890125,
+  "ucid": "EP-0118520-B1",
+  "classifications": {
+    "main": "F16D  13/75",
+    "further": NaN,
+    "ipcr": "['F16D  13/58        20060101CLI20060310RMJP', 'G05G   1/00        20060101ALI20060310RMJP', 'F16C   1/22        20060101A I20051008RMEP', 'F16D  13/75        20060101ALI20060310RMJP', 'G05G   7/10        20060101ALI20060310RMJP', 'G05G   7/00        20060101CLI20060310RMJP', 'F16C   1/10        20060101C I20051008RMEP', 'G05G   1/00        20060101CLI20060310RMJP']"
+  }
+}

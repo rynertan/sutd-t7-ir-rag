@@ -1,0 +1,10 @@
+{
+  "patent_number": 206639,
+  "date": 19880803,
+  "ucid": "EP-0206639-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06Q  50/00        20060101AFI20051220RMJP', 'G06Q  50/00        20060101CFI20051220RMJP', 'G07C   9/00        20060101A I20051008RMEP', 'G07C   9/00        20060101C I20051008RMEP', 'G07F   7/00        20060101A I20051008RMEP', 'G07F   7/00        20060101C I20051008RMEP', 'G07F  11/16        20060101C I20051008RMEP', 'G07F  11/26        20060101A I20051008RMEP']"
+  }
+}

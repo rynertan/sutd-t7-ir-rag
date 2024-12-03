@@ -1,0 +1,10 @@
+{
+  "patent_number": 42603,
+  "date": 19811230,
+  "ucid": "EP-0042603-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65D  41/04        20060101AFI20051220RMJP', 'B65D  41/04        20060101C I20051008RMEP', 'B65D  41/06        20060101A I20051008RMEP', 'B65D  50/00        20060101C I20051008RMEP', 'B65D  50/04        20060101A I20051008RMEP', 'B65D  55/02        20060101ALI20051220RMJP', 'B65D  55/02        20060101CLI20051220RMJP']"
+  }
+}

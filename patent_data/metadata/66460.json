@@ -1,0 +1,10 @@
+{
+  "patent_number": 66460,
+  "date": 19830413,
+  "ucid": "EP-0066460-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41F  17/00        20060101AFI20051220RMJP', 'B41F  17/00        20060101CFI20051220RMJP', 'B41J   2/385       20060101ALI20051220RMJP', 'B41J   2/385       20060101CLI20051220RMJP', 'B41J   7/00        20060101CLI20051220RMJP', 'B41J   7/32        20060101ALI20051220RMJP', 'B44C   1/16        20060101A I20051008RMEP', 'B44C   1/16        20060101C I20051008RMEP']"
+  }
+}

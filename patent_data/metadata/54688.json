@@ -1,0 +1,10 @@
+{
+  "patent_number": 54688,
+  "date": 19830126,
+  "ucid": "EP-0054688-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01N  27/30        20060101ALI20051220RMJP', 'G01N  27/30        20060101CLI20051220RMJP', 'G01N  27/49        20060101A I20051008RMEP', 'G01N  27/49        20060101C I20051008RMEP', 'H01M   4/86        20060101A I20051008RMEP', 'H01M   4/86        20060101C I20051008RMEP', 'H01M   4/96        20060101A I20051008RMEP', 'H01M   4/96        20060101C I20051008RMEP']"
+  }
+}

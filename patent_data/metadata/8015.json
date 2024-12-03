@@ -1,0 +1,10 @@
+{
+  "patent_number": 8015,
+  "date": 19821027,
+  "ucid": "EP-0008015-B1",
+  "classifications": {
+    "main": "A23F   5/46",
+    "further": NaN,
+    "ipcr": "['A23F   5/48        20060101A I20051008RMEP', 'A23F   5/24        20060101CFI20051220RMJP', 'B01J  13/02        20060101CLI20051220RMJP', 'A23F   5/46        20060101ALI20051220RMJP', 'A23F   5/38        20060101AFI20051220RMJP', 'B01J  13/02        20060101ALI20051220RMJP', 'A23F   5/46        20060101C I20051008RMEP']"
+  }
+}

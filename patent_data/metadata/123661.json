@@ -1,0 +1,10 @@
+{
+  "patent_number": 123661,
+  "date": 19870527,
+  "ucid": "EP-0123661-B1",
+  "classifications": {
+    "main": "A61F   5/453",
+    "further": NaN,
+    "ipcr": "['A61F   5/451       20060101C I20051008RMEP', 'A61F   5/453       20060101A I20051008RMEP']"
+  }
+}

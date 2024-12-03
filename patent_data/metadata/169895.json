@@ -1,0 +1,10 @@
+{
+  "patent_number": 169895,
+  "date": 19860205,
+  "ucid": "EP-0169895-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K   9/08        20060101A I20051110RMEP', 'A61K   9/08        20060101C I20051110RMEP', 'A61K  36/00        20060101AFI20051220RMJP', 'A61K  36/00        20060101CFI20051220RMJP', 'A61K  36/185       20060101A I20080531RMEP', 'A61K  36/185       20060101C I20080531RMEP', 'A61P   1/00        20060101CLI20060315RMRU', 'A61P   1/16        20060101ALI20060315RMRU']"
+  }
+}

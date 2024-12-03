@@ -1,0 +1,10 @@
+{
+  "patent_number": 198214,
+  "date": 19930203,
+  "ucid": "EP-0198214-B1",
+  "classifications": {
+    "main": "G06F   9/38",
+    "further": "G06F  15/31",
+    "ipcr": "['G06F  17/10        20060101C I20051008RMEP', 'G06F  17/10        20060101A I20051008RMEP', 'G06F   9/38        20060101A I20051008RMEP', 'G06F   9/38        20060101C I20051008RMEP']"
+  }
+}

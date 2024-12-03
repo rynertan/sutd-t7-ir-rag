@@ -1,0 +1,10 @@
+{
+  "patent_number": 78685,
+  "date": 19860528,
+  "ucid": "EP-0078685-B1",
+  "classifications": {
+    "main": "A61M  16/00",
+    "further": "A61F   2/20",
+    "ipcr": "['A61F   2/20        20060101A I20051008RMEP', 'A61M  16/04        20060101A I20051008RMEP', 'A61F   2/20        20060101C I20051008RMEP', 'A61M  16/04        20060101C I20051008RMEP']"
+  }
+}

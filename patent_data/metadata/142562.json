@@ -1,0 +1,10 @@
+{
+  "patent_number": 142562,
+  "date": 19850529,
+  "ucid": "EP-0142562-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   9/22        20060101ALI20051220RMJP', 'G06F   9/22        20060101CLI20051220RMJP', 'G06F   9/26        20060101A I20051008RMEP', 'G06F   9/26        20060101C I20051008RMEP', 'G06F   9/28        20060101A I20051008RMEP', 'G06F   9/28        20060101C I20051008RMEP', 'G06F   9/38        20060101ALI20051220RMJP', 'G06F   9/38        20060101CLI20051220RMJP']"
+  }
+}

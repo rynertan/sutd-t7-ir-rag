@@ -1,0 +1,10 @@
+{
+  "patent_number": 105715,
+  "date": 19860820,
+  "ucid": "EP-0105715-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B07C   3/00        20060101CLI20051220RMJP', 'B07C   3/18        20060101ALI20051220RMJP', 'B07C   5/34        20060101A I20051008RMEP', 'B07C   5/34        20060101C I20051008RMEP', 'B07C   5/342       20060101ALI20051220RMJP', 'B07C   5/342       20060101CLI20051220RMJP', 'G06K   7/10        20060101A I20051008RMEP', 'G06K   7/10        20060101C I20051008RMEP']"
+  }
+}

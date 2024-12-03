@@ -1,0 +1,10 @@
+{
+  "patent_number": 205764,
+  "date": 19861230,
+  "ucid": "EP-0205764-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F22B  35/00        20060101C I20051008RMEP', 'F22B  35/18        20060101A I20051008RMEP', 'F22B  37/00        20060101CFI20051220RMJP', 'F22B  37/38        20060101AFI20051220RMJP', 'G06G   7/00        20060101CLI20060101BMKR', 'G06G   7/48        20060101ALI20060101BMKR', 'G07C   3/00        20060101A I20051008RMEP', 'G07C   3/00        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 28888,
+  "date": 19840425,
+  "ucid": "EP-0028888-B1",
+  "classifications": {
+    "main": "C07C  25/18",
+    "further": "C07C  25/22",
+    "ipcr": "['C07C  17/00        20060101C I20051008RMEP', 'C07C  17/12        20060101A I20051008RMEP']"
+  }
+}

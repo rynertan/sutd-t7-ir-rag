@@ -1,0 +1,10 @@
+{
+  "patent_number": 101705,
+  "date": 19860702,
+  "ucid": "EP-0101705-B1",
+  "classifications": {
+    "main": "C05G   3/00",
+    "further": "C05D   9/02",
+    "ipcr": "['C05B  17/00        20060101C I20051008RMEP', 'C05B  17/00        20060101A I20051008RMEP']"
+  }
+}

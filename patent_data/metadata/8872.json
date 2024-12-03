@@ -1,0 +1,10 @@
+{
+  "patent_number": 8872,
+  "date": 19800319,
+  "ucid": "EP-0008872-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60Q   5/00        20060101ALI20051220RMJP', 'B60Q   5/00        20060101CLI20051220RMJP', 'G01R  19/14        20060101A I20051008RMEP', 'G01R  19/14        20060101C I20051008RMEP', 'H02H   7/18        20060101ALI20051220RMJP', 'H02H   7/18        20060101CLI20051220RMJP', 'H02H  11/00        20060101A I20051008RMEP', 'H02H  11/00        20060101C I20051008RMEP']"
+  }
+}

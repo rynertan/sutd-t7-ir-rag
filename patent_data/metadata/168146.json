@@ -1,0 +1,10 @@
+{
+  "patent_number": 168146,
+  "date": 19890405,
+  "ucid": "EP-0168146-B1",
+  "classifications": {
+    "main": "C10G  45/64",
+    "further": NaN,
+    "ipcr": "['C10G  45/58        20060101C I20051008RMEP', 'C10G  73/02        20060101ALI20051220RMJP', 'B01J  29/40        20060101ALI20051220RMJP', 'C10G  45/64        20060101A I20051008RMEP', 'B01J  29/00        20060101ALI20051220RMJP', 'C10G  73/00        20060101CLI20051220RMJP', 'B01J  29/00        20060101CLI20051220RMJP']"
+  }
+}

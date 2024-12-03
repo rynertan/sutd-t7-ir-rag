@@ -1,0 +1,10 @@
+{
+  "patent_number": 167322,
+  "date": 19880615,
+  "ucid": "EP-0167322-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/30        20060101A I20051008RMEP', 'G06F   1/30        20060101C I20051008RMEP', 'G06F  11/14        20060101A I20051008RMEP', 'G06F  11/14        20060101C I20051008RMEP', 'G06F  11/20        20060101A I20051008RMEP', 'G06F  11/20        20060101C I20051008RMEP', 'G06F  12/16        20060101AFI20060310RMJP', 'G06F  12/16        20060101CFI20060310RMJP']"
+  }
+}

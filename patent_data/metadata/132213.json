@@ -1,0 +1,10 @@
+{
+  "patent_number": 132213,
+  "date": 19850123,
+  "ucid": "EP-0132213-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F23C   7/00        20060101A I20051008RMEP', 'F23C   7/00        20060101C I20051008RMEP', 'F23D  11/10        20060101A I20051008RMEP', 'F23D  11/10        20060101C I20051008RMEP', 'F23L   1/00        20060101ALI20051220RMJP', 'F23L   1/00        20060101CLI20051220RMJP', 'F23R   3/28        20060101A I20051008RMEP', 'F23R   3/28        20060101C I20051008RMEP']"
+  }
+}

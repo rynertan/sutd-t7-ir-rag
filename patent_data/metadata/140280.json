@@ -1,0 +1,10 @@
+{
+  "patent_number": 140280,
+  "date": 19850508,
+  "ucid": "EP-0140280-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65B   9/06        20060101AFI20051220RMJP', 'B65B   9/06        20060101CFI20051220RMJP', 'B65B  51/10        20060101ALI20051220RMJP', 'B65B  51/10        20060101CLI20051220RMJP', 'B65B  51/26        20060101C I20051008RMEP', 'B65B  51/30        20060101A I20051008RMEP', 'B65B  59/00        20060101C I20051008RMEP', 'B65B  59/02        20060101A I20051008RMEP']"
+  }
+}

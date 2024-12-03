@@ -1,0 +1,10 @@
+{
+  "patent_number": 192686,
+  "date": 19860903,
+  "ucid": "EP-0192686-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61C   1/00        20060101C I20051008RMEP', 'A61C   1/05        20060101A I20051008RMEP', 'A61C   1/08        20060101A I20051008RMEP', 'A61C   1/08        20060101C I20051008RMEP', 'A61C   5/04        20060101ALI20051220RMJP', 'A61C   5/04        20060101CLI20051220RMJP', 'A61C  17/00        20060101CLI20051220RMJP', 'A61C  17/02        20060101ALI20051220RMJP']"
+  }
+}

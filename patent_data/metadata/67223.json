@@ -1,0 +1,10 @@
+{
+  "patent_number": 67223,
+  "date": 19840424,
+  "ucid": "EP-0067223-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B08B   3/02        20060101A I20051008RMEP', 'B08B   3/02        20060101C I20051008RMEP', 'F22B   1/00        20060101C I20051008RMEP', 'F22B   1/22        20060101A I20051008RMEP', 'F23C  15/00        20060101A I20051008RMEP', 'F23C  15/00        20060101C I20051008RMEP', 'F24H   1/22        20060101C I20051008RMEP', 'F24H   1/28        20060101A I20051008RMEP']"
+  }
+}

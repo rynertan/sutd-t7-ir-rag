@@ -1,0 +1,10 @@
+{
+  "patent_number": 125036,
+  "date": 19870701,
+  "ucid": "EP-0125036-B1",
+  "classifications": {
+    "main": "A61K   6/08",
+    "further": NaN,
+    "ipcr": "['A61C   5/08        20060101AFI20051220RMJP', 'A61K   6/08        20060101ALI20051220RMJP', 'A61C  13/083       20060101ALI20051220RMJP', 'A61K   6/09        20060101A I20051008RMEP', 'A61C   5/08        20060101CFI20051220RMJP', 'A61K   6/06        20060101A I20051008RMEP', 'A61K   6/02        20060101C I20051008RMEP', 'A61C  13/08        20060101CLI20051220RMJP']"
+  }
+}

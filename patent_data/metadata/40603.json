@@ -1,0 +1,10 @@
+{
+  "patent_number": 40603,
+  "date": 19850123,
+  "ucid": "EP-0040603-B1",
+  "classifications": {
+    "main": "G02B   5/22",
+    "further": "G02C   7/10",
+    "ipcr": "['G02B   5/22        20060101A I20051008RMEP', 'G02C   7/10        20060101A I20051008RMEP', 'G02B   5/22        20060101C I20051008RMEP', 'G02C   7/00        20060101C I20051008RMEP']"
+  }
+}

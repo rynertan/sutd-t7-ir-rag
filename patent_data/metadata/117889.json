@@ -1,0 +1,10 @@
+{
+  "patent_number": 117889,
+  "date": 19871104,
+  "ucid": "EP-0117889-B1",
+  "classifications": {
+    "main": "A61K   7/30",
+    "further": NaN,
+    "ipcr": "['C09K               20060101S I20051110RMEP', 'A61C               20060101S I20051110RMEP', 'A61K               20060101S I20051110RMEP', 'A61K   8/46        20060101A I20080531RMEP', 'A61K   8/34        20060101A I20080531RMEP', 'A61Q  11/02        20060101A I20080531RMEP', 'A61Q  11/02        20060101C I20080531RMEP', 'A61K   8/30        20060101C I20080531RMEP']"
+  }
+}

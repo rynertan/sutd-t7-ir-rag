@@ -1,0 +1,10 @@
+{
+  "patent_number": 202868,
+  "date": 19890726,
+  "ucid": "EP-0202868-B1",
+  "classifications": {
+    "main": "B65B   1/36",
+    "further": NaN,
+    "ipcr": "['G01F  11/10        20060101CLI20051220RMJP', 'G01F  11/24        20060101ALI20051220RMJP', 'B65B   1/30        20060101C I20051008RMEP', 'B65G  65/48        20060101AFI20051220RMJP', 'B65G  65/00        20060101CFI20051220RMJP', 'B65B   1/36        20060101A I20051008RMEP', 'B65B   1/38        20060101ALI20051220RMJP']"
+  }
+}

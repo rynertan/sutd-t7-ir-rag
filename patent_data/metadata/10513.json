@@ -1,0 +1,10 @@
+{
+  "patent_number": 10513,
+  "date": 19800430,
+  "ucid": "EP-0010513-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B22D   1/00        20060101ALI20051220RMJP', 'B22D   1/00        20060101CLI20051220RMJP', 'B22D  27/00        20060101CLI20051220RMJP', 'B22D  27/20        20060101ALI20051220RMJP', 'C21C   1/00        20060101C I20051008RMEP', 'C21C   1/10        20060101A I20051008RMEP', 'C22C  37/00        20060101ALI20051220RMJP', 'C22C  37/00        20060101CLI20051220RMJP']"
+  }
+}

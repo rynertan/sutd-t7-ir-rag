@@ -1,0 +1,10 @@
+{
+  "patent_number": 195523,
+  "date": 19860924,
+  "ucid": "EP-0195523-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04B   7/185       20060101ALI20051220RMJP', 'H04B   7/185       20060101CLI20051220RMJP', 'H04N   7/16        20060101A N20051008RMEP', 'H04N   7/16        20060101C N20051008RMEP', 'H04N   7/167       20060101A I20051008RMEP', 'H04N   7/167       20060101C I20051008RMEP', 'H04N   7/20        20060101ALI20051220RMJP', 'H04N   7/20        20060101CLI20051220RMJP']"
+  }
+}

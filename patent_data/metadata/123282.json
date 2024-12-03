@@ -1,0 +1,10 @@
+{
+  "patent_number": 123282,
+  "date": 19880525,
+  "ucid": "EP-0123282-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60T   8/17        20060101C I20051008RMEP', 'B60T   8/1761      20060101A I20051008RMEP', 'B60T   8/32        20060101A I20051008RMEP', 'B60T   8/32        20060101C I20051008RMEP', 'B60T   8/60        20060101C I20060521RMEP', 'B60T   8/70        20060101A I20060521RMEP', 'G01P  15/16        20060101AFI20051220RMJP', 'G01P  15/16        20060101CFI20051220RMJP']"
+  }
+}

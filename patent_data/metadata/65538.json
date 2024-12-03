@@ -1,0 +1,10 @@
+{
+  "patent_number": 65538,
+  "date": 19840529,
+  "ucid": "EP-0065538-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61M   5/00        20060101AFI20051220RMJP', 'A61M   5/00        20060101CFI20051220RMJP', 'A61M   5/168       20060101A I20051008RMEP', 'A61M   5/168       20060101C I20051008RMEP', 'A61M   5/175       20060101A I20060521RMWO', 'G01F  11/02        20060101C I20051008RMEP', 'G01F  11/08        20060101A I20051008RMEP']"
+  }
+}

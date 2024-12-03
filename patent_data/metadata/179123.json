@@ -1,0 +1,10 @@
+{
+  "patent_number": 179123,
+  "date": 19860430,
+  "ucid": "EP-0179123-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  11/00        20060101C I20051008RMEP', 'G01R  11/02        20060101ALI20051220RMJP', 'G01R  11/64        20060101A I20051008RMEP', 'G01R  21/00        20060101C I20051008RMEP', 'G01R  21/133       20060101A I20051008RMEP', 'G01R  22/00        20060101AFI20051220RMJP', 'G01R  22/00        20060101CFI20051220RMJP']"
+  }
+}

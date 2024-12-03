@@ -1,0 +1,10 @@
+{
+  "patent_number": 1595,
+  "date": 19810520,
+  "ucid": "EP-0001595-B1",
+  "classifications": {
+    "main": "A47K   5/12",
+    "further": NaN,
+    "ipcr": "['D06F  39/02        20060101CLI20051220RMJP', 'B67D   3/00        20060101CLI20051220RMJP', 'B67D   3/00        20060101ALI20051220RMJP', 'D06F  39/02        20060101ALI20051220RMJP', 'B67B   7/00        20060101C I20060521RMUS', 'B67B   7/48        20060101A I20060521RMUS', 'A47K   5/00        20060101C I20051008RMEP', 'A47K   5/12        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 102821,
+  "date": 19870408,
+  "ucid": "EP-0102821-B1",
+  "classifications": {
+    "main": "G03C   7/34",
+    "further": NaN,
+    "ipcr": "['C07D 257/04        20060101ALI20051220RMJP', 'G03C   7/34        20060101A I20051008RMEP', 'G03C   7/32        20060101CLI20051220RMJP', 'G03C   7/26        20060101AFI20051220RMJP', 'G03C   7/32        20060101ALI20051220RMJP', 'G03C   7/34        20060101C I20051008RMEP', 'C07D 257/00        20060101CLI20051220RMJP', 'G03C   7/26        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 59826,
+  "date": 19880810,
+  "ucid": "EP-0059826-B1",
+  "classifications": {
+    "main": "G06F   3/06",
+    "further": NaN,
+    "ipcr": "['G11B  20/10        20060101CLI20051220RMJP', 'G06F  12/08        20060101A I20051008RMEP', 'G06F  12/08        20060101C I20051008RMEP', 'G11B  20/10        20060101ALI20051220RMJP', 'G06F   3/06        20060101C I20051008RMEP', 'G06F   3/06        20060101A I20051008RMEP']"
+  }
+}

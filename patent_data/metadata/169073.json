@@ -1,0 +1,10 @@
+{
+  "patent_number": 169073,
+  "date": 19860122,
+  "ucid": "EP-0169073-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C08G  63/00        20060101C I20051008RMEP', 'C08G  63/60        20060101A I20051008RMEP', 'G02B   6/24        20060101ALI20051220RMJP', 'G02B   6/24        20060101CLI20051220RMJP', 'G02B   6/36        20060101AFI20051220RMJP', 'G02B   6/36        20060101CFI20051220RMJP', 'G02B   6/38        20060101A I20051008RMEP', 'G02B   6/38        20060101C I20051008RMEP']"
+  }
+}

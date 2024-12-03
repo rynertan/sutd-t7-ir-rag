@@ -1,0 +1,10 @@
+{
+  "patent_number": 179830,
+  "date": 19860507,
+  "ucid": "EP-0179830-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65G   1/00        20060101ALI20051220RMJP', 'B65G   1/00        20060101CLI20051220RMJP', 'B65G   1/04        20060101A I20051110RMEP', 'B65G   1/04        20060101C I20051110RMEP', 'B65G   1/06        20060101A I20051110RMEP', 'B65G   1/06        20060101C I20051110RMEP', 'B65G   1/137       20060101ALI20051220RMJP', 'B65G   1/137       20060101CLI20051220RMJP']"
+  }
+}

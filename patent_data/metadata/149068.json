@@ -1,0 +1,10 @@
+{
+  "patent_number": 149068,
+  "date": 19900117,
+  "ucid": "EP-0149068-B1",
+  "classifications": {
+    "main": "G06F   1/00",
+    "further": "F16M  11/04",
+    "ipcr": "['F16M  11/02        20060101C I20051008RMEP', 'F16M  11/04        20060101A I20051008RMEP', 'F16M  11/20        20060101C I20051008RMEP', 'F16M  11/38        20060101A I20051008RMEP']"
+  }
+}

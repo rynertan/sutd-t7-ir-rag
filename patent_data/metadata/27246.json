@@ -1,0 +1,10 @@
+{
+  "patent_number": 27246,
+  "date": 19840404,
+  "ucid": "EP-0027246-B1",
+  "classifications": {
+    "main": "G06K  17/00",
+    "further": "G06K  13/02",
+    "ipcr": "['G06K  17/00        20060101A I20051008RMEP', 'G06K  13/02        20060101C I20051008RMEP', 'G06K  13/02        20060101A I20051008RMEP', 'G06K  17/00        20060101C I20051008RMEP']"
+  }
+}

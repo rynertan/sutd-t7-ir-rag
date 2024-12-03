@@ -1,0 +1,10 @@
+{
+  "patent_number": 83171,
+  "date": 19840321,
+  "ucid": "EP-0083171-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65H   5/34        20060101ALI20051220RMJP', 'B65H   5/34        20060101CLI20051220RMJP', 'B65H   7/00        20060101C I20051008RMEP', 'B65H   7/20        20060101A I20051008RMEP', 'G03G  15/00        20060101A I20051008RMEP', 'G03G  15/00        20060101C I20051008RMEP', 'G06K  13/06        20060101CFI20051220RMJP', 'G06K  13/067       20060101AFI20051220RMJP']"
+  }
+}

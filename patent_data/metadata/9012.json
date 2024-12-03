@@ -1,0 +1,10 @@
+{
+  "patent_number": 9012,
+  "date": 19800319,
+  "ucid": "EP-0009012-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F24J   2/00        20060101C I20051008RMEP', 'F24J   2/04        20060101AFI20051220RMJP', 'F24J   2/04        20060101C I20051008RMEP', 'F24J   2/06        20060101C I20051008RMEP', 'F24J   2/14        20060101A I20051008RMEP', 'F24J   2/26        20060101A I20051008RMEP', 'F24J   2/36        20060101A I20051008RMEP', 'F24J   2/36        20060101C I20051008RMEP', 'F24J   2/46        20060101A I20051008RMEP']"
+  }
+}

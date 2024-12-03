@@ -1,0 +1,10 @@
+{
+  "patent_number": 102792,
+  "date": 19840314,
+  "ucid": "EP-0102792-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B31B  27/00        20060101ALI20051220RMJP', 'B31B  27/00        20060101CLI20051220RMJP', 'B42D   5/00        20060101C I20051008RMEP', 'B42D   5/02        20060101A I20051008RMEP', 'B65D  27/00        20060101A I20051008RMEP', 'B65D  27/00        20060101C I20051008RMEP', 'B65D  27/04        20060101A I20051008RMEP', 'B65D  27/10        20060101AFI20051220RMJP']"
+  }
+}

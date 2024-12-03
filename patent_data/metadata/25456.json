@@ -1,0 +1,10 @@
+{
+  "patent_number": 25456,
+  "date": 19810716,
+  "ucid": "EP-0025456-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61C  17/00        20060101C I20051008RMEP', 'A61C  17/02        20060101A I20051008RMEP', 'A61C  17/16        20060101C I20051008RMEP', 'A61C  17/22        20060101A I20051008RMEP', 'A61C  17/36        20060101A I20051008RMEP', 'F16L  11/12        20060101CFI20051220RMJP', 'F16L  11/127       20060101AFI20051220RMJP']"
+  }
+}

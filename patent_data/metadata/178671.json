@@ -1,0 +1,10 @@
+{
+  "patent_number": 178671,
+  "date": 19910612,
+  "ucid": "EP-0178671-B1",
+  "classifications": {
+    "main": "G06F   9/26",
+    "further": NaN,
+    "ipcr": "['G06F   9/22        20060101AFI20051220RMJP', 'G06F   9/28        20060101A I20051008RMEP', 'G06F   9/22        20060101CFI20051220RMJP', 'G06F   9/28        20060101C I20051008RMEP', 'G06F   9/26        20060101C I20051008RMEP', 'G06F   9/26        20060101A I20051008RMEP']"
+  }
+}

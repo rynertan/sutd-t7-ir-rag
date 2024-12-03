@@ -1,0 +1,10 @@
+{
+  "patent_number": 167069,
+  "date": 19890628,
+  "ucid": "EP-0167069-B1",
+  "classifications": {
+    "main": "G21C   7/26",
+    "further": NaN,
+    "ipcr": "['G21C   3/32        20060101ALI20060310RMJP', 'G21C   3/32        20060101CLI20060310RMJP', 'G21C   7/22        20060101A I20051008RMEP', 'G21C   7/00        20060101C I20051008RMEP', 'G21C   7/06        20060101C I20051008RMEP', 'G21C   1/08        20060101AFI20060310RMJP', 'G21C   1/00        20060101CFI20060310RMJP', 'G21C   7/27        20060101A I20051008RMEP']"
+  }
+}

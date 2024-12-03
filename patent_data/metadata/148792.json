@@ -1,0 +1,10 @@
+{
+  "patent_number": 148792,
+  "date": 19861008,
+  "ucid": "EP-0148792-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H01R   4/24        20060101A I20051110RMEP', 'H01R   4/24        20060101C I20051110RMEP', 'H01R   9/00        20060101CLI20051220RMJP', 'H01R   9/16        20060101ALI20051220RMJP', 'H01R  12/00        20060101C I20060521RMEP', 'H01R  12/04        20060101ALI20051220RMJP', 'H01R  12/32        20060101AFI20051220RMJP', 'H01R  12/34        20060101A I20060521RMEP']"
+  }
+}

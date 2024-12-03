@@ -1,0 +1,10 @@
+{
+  "patent_number": 200430,
+  "date": 19900404,
+  "ucid": "EP-0200430-B1",
+  "classifications": {
+    "main": "A61M  25/00",
+    "further": NaN,
+    "ipcr": "['A61B   5/00        20060101C I20051110RMEP', 'A61M  25/00        20060101ALI20051220RMJP', 'A61M  25/00        20060101CLI20051220RMJP', 'A61M  25/01        20060101AFI20051220RMJP', 'A61B   5/00        20060101A I20051110RMEP', 'A61M  25/01        20060101CFI20051220RMJP']"
+  }
+}

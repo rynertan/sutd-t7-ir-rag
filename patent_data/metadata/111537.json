@@ -1,0 +1,10 @@
+{
+  "patent_number": 111537,
+  "date": 19861210,
+  "ucid": "EP-0111537-B1",
+  "classifications": {
+    "main": "B65G  19/02",
+    "further": "B65G  35/00",
+    "ipcr": "['B65G  19/02        20060101A I20051008RMEP', 'B65G  19/00        20060101C I20051008RMEP', 'B65G  47/26        20060101A I20051008RMEP', 'B65G  47/26        20060101C I20051008RMEP']"
+  }
+}

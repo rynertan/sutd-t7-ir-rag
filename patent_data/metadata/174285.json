@@ -1,0 +1,10 @@
+{
+  "patent_number": 174285,
+  "date": 19870909,
+  "ucid": "EP-0174285-B1",
+  "classifications": {
+    "main": "B23K   1/04",
+    "further": "B23K   3/04",
+    "ipcr": "['B23K   1/00        20060101A I20051008RMEP', 'H01R  43/02        20060101CLI20051220RMJP', 'B23K   3/04        20060101ALI20051220RMJP', 'H01R  43/02        20060101ALI20051220RMJP', 'B23K   3/04        20060101CLI20051220RMJP', 'B23K   1/00        20060101C I20051008RMEP']"
+  }
+}

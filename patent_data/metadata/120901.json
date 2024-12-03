@@ -1,0 +1,10 @@
+{
+  "patent_number": 120901,
+  "date": 19850411,
+  "ucid": "EP-0120901-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04B   5/00        20060101A I20051008RMEP', 'H04B   5/00        20060101C I20051008RMEP', 'H04R   3/00        20060101A N20051008RMEP', 'H04R   3/00        20060101C N20051008RMEP', 'H04R   5/00        20060101C N20051008RMEP', 'H04R   5/02        20060101A I20080531RMEP', 'H04R   5/02        20060101C I20080531RMEP', 'H04R   5/04        20060101A N20051008RMEP']"
+  }
+}

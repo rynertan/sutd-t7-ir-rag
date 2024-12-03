@@ -1,0 +1,10 @@
+{
+  "patent_number": 42690,
+  "date": 19860102,
+  "ucid": "EP-0042690-B1",
+  "classifications": {
+    "main": "B60L   5/36",
+    "further": "B60M   3/00",
+    "ipcr": "['B60M   3/00        20060101A I20051008RMEP', 'B60L   5/00        20060101C I20051008RMEP', 'B60M   3/00        20060101C I20051008RMEP', 'B60L   5/36        20060101A I20051008RMEP']"
+  }
+}

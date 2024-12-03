@@ -1,0 +1,10 @@
+{
+  "patent_number": 134109,
+  "date": 19900117,
+  "ucid": "EP-0134109-B1",
+  "classifications": {
+    "main": "G07F   7/10",
+    "further": NaN,
+    "ipcr": "['G06Q  40/00        20060101CLI20051220RMJP', 'G07D   1/00        20060101CFI20051220RMJP', 'G07D   1/00        20060101AFI20051220RMJP', 'G07F   7/10        20060101A I20051008RMEP', 'G07D   9/00        20060101ALI20051220RMJP', 'G07D   9/00        20060101CLI20051220RMJP', 'G06Q  40/00        20060101ALI20051220RMJP', 'G07F   7/10        20060101C I20051008RMEP']"
+  }
+}

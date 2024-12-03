@@ -1,0 +1,10 @@
+{
+  "patent_number": 133295,
+  "date": 19850703,
+  "ucid": "EP-0133295-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J  13/02        20060101AFI20060101BMKR', 'B01J  13/02        20060101CFI20060101BMKR', 'B01J  13/06        20060101C I20051008RMEP', 'B01J  13/18        20060101A I20051008RMEP', 'B41M   5/165       20060101A I20051008RMEP', 'B41M   5/165       20060101C I20051008RMEP', 'C08F   2/44        20060101A I20060521RMGB', 'C08F   2/44        20060101C I20060521RMGB']"
+  }
+}

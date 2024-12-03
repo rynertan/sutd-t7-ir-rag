@@ -1,0 +1,10 @@
+{
+  "patent_number": 10970,
+  "date": 19800514,
+  "ucid": "EP-0010970-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['D04B   9/00        20060101CFI20051220RMJP', 'D04B   9/46        20060101AFI20051220RMJP', 'D04B  15/00        20060101C I20051008RMEP', 'D04B  15/38        20060101CLI20051220RMJP', 'D04B  15/58        20060101ALI20051220RMJP', 'D04B  15/66        20060101A I20051008RMEP', 'D04B  15/66        20060101C I20051008RMEP', 'D04B  15/94        20060101A I20051008RMEP']"
+  }
+}

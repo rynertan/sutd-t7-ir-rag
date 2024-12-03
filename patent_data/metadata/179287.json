@@ -1,0 +1,10 @@
+{
+  "patent_number": 179287,
+  "date": 19890215,
+  "ucid": "EP-0179287-B1",
+  "classifications": {
+    "main": "F16G   1/28",
+    "further": NaN,
+    "ipcr": "['F16G   1/28        20060101C I20051008RMEP', 'F16H   7/02        20060101CFI20051220RMJP', 'F16H   7/02        20060101AFI20051220RMJP', 'F16G   1/00        20060101C I20051008RMEP', 'F16G   5/20        20060101ALI20051220RMJP', 'F16G   1/00        20060101A I20051008RMEP', 'F16G   5/00        20060101CLI20051220RMJP', 'F16G   1/28        20060101A I20051008RMEP']"
+  }
+}

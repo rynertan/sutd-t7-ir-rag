@@ -1,0 +1,10 @@
+{
+  "patent_number": 60731,
+  "date": 19890726,
+  "ucid": "EP-0060731-B1",
+  "classifications": {
+    "main": "B22C   7/06",
+    "further": NaN,
+    "ipcr": "['B22C   9/00        20060101CLI20051220RMJP', 'B22C   7/06        20060101A I20051008RMEP', 'B22C   7/00        20060101C I20051008RMEP', 'B22C   9/02        20060101ALI20051220RMJP', 'B22C   7/00        20060101A I20051008RMEP', 'B22C   9/12        20060101ALI20051220RMJP', 'B22C   9/02        20060101CLI20051220RMJP']"
+  }
+}

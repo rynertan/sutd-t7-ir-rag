@@ -1,0 +1,10 @@
+{
+  "patent_number": 123665,
+  "date": 19890315,
+  "ucid": "EP-0123665-B1",
+  "classifications": {
+    "main": "G05D   1/00",
+    "further": "B64C  13/50",
+    "ipcr": "['G05D   1/00        20060101A I20051008RMEP', 'G05D   1/00        20060101C I20051008RMEP']"
+  }
+}

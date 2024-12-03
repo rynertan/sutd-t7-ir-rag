@@ -1,0 +1,10 @@
+{
+  "patent_number": 123395,
+  "date": 19880511,
+  "ucid": "EP-0123395-B1",
+  "classifications": {
+    "main": "C10G   7/10",
+    "further": "C09K  15/20",
+    "ipcr": "['C10G   7/10        20060101A I20051008RMEP', 'C10G   7/00        20060101C I20051008RMEP']"
+  }
+}

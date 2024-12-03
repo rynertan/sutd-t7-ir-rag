@@ -1,0 +1,10 @@
+{
+  "patent_number": 42665,
+  "date": 19841017,
+  "ucid": "EP-0042665-B1",
+  "classifications": {
+    "main": "A24C   5/58",
+    "further": "B07C   5/10",
+    "ipcr": "['B07C   5/04        20060101C I20051008RMEP', 'A24C   5/00        20060101C I20051008RMEP', 'A24C   5/47        20060101A I20051008RMEP', 'B07C   5/10        20060101A I20051008RMEP']"
+  }
+}

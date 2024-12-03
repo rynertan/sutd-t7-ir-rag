@@ -1,0 +1,10 @@
+{
+  "patent_number": 42032,
+  "date": 19850626,
+  "ucid": "EP-0042032-B1",
+  "classifications": {
+    "main": "B41J   9/00",
+    "further": NaN,
+    "ipcr": "['B41J   1/30        20060101AFI20051220RMJP', 'B41J   9/00        20060101C I20051008RMEP', 'G06K  15/08        20060101ALI20051220RMJP', 'B41J   1/00        20060101CFI20051220RMJP', 'B41J   9/48        20060101A I20051008RMEP', 'G06K  15/02        20060101CLI20051220RMJP', 'B41J   9/44        20060101ALI20051220RMJP']"
+  }
+}

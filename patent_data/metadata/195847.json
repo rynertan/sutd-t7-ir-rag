@@ -1,0 +1,10 @@
+{
+  "patent_number": 195847,
+  "date": 19861001,
+  "ucid": "EP-0195847-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/30        20060101ALI20051220RMJP', 'G06F   1/30        20060101CLI20051220RMJP', 'G06F   3/02        20060101AFI20051220RMJP', 'G06F   3/02        20060101CFI20051220RMJP', 'G08B  21/00        20060101C I20051008RMEP', 'G08B  21/20        20060101A I20051008RMEP', 'G08B  29/00        20060101C I20051008RMEP', 'G08B  29/18        20060101A I20051008RMEP']"
+  }
+}

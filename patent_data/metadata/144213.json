@@ -1,0 +1,10 @@
+{
+  "patent_number": 144213,
+  "date": 19850612,
+  "ucid": "EP-0144213-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C02F   1/00        20060101A I20051008RMEP', 'C02F   1/00        20060101C I20051008RMEP', 'C02F   3/12        20060101A I20051008RMEP', 'C02F   3/12        20060101C I20051008RMEP', 'C02F   3/28        20060101A I20051008RMEP', 'C02F   3/28        20060101C I20051008RMEP', 'C12M   1/107       20060101A I20051008RMEP', 'C12M   1/107       20060101C I20051008RMEP']"
+  }
+}

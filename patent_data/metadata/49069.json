@@ -1,0 +1,10 @@
+{
+  "patent_number": 49069,
+  "date": 19821013,
+  "ucid": "EP-0049069-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['E05D   5/00        20060101C I20051008RMEP', 'E05D   5/04        20060101A I20051008RMEP', 'E05D   7/00        20060101ALI20051220RMJP', 'E05D   7/00        20060101CLI20051220RMJP', 'E05D   7/04        20060101A I20051008RMEP', 'E05D   7/04        20060101C I20051008RMEP', 'E05D   7/08        20060101A I20051008RMEP', 'E05D   7/08        20060101C I20051008RMEP', 'E05D   7/081       20060101AFI20051220RMJP']"
+  }
+}

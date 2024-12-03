@@ -1,0 +1,10 @@
+{
+  "patent_number": 7777,
+  "date": 19800206,
+  "ucid": "EP-0007777-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A23C   9/12        20060101A I20051008RMEP', 'A23C   9/12        20060101C I20051008RMEP', 'A47J  41/00        20060101A I20051008RMEP', 'A47J  41/00        20060101C I20051008RMEP', 'B65D  81/38        20060101A I20051008RMEP', 'B65D  81/38        20060101C I20051008RMEP']"
+  }
+}

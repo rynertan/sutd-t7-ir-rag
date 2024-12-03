@@ -1,0 +1,10 @@
+{
+  "patent_number": 70336,
+  "date": 19830126,
+  "ucid": "EP-0070336-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F16M  11/00        20060101ALI20051220RMJP', 'F16M  11/00        20060101CLI20051220RMJP', 'F16M  11/02        20060101C I20051008RMEP', 'F16M  11/14        20060101A I20051008RMEP', 'G09F   9/00        20060101ALI20051220RMJP', 'G09F   9/00        20060101CLI20051220RMJP', 'H04N   5/64        20060101A I20051008RMEP', 'H04N   5/64        20060101C I20051008RMEP']"
+  }
+}

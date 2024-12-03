@@ -1,0 +1,10 @@
+{
+  "patent_number": 180822,
+  "date": 19920909,
+  "ucid": "EP-0180822-B1",
+  "classifications": {
+    "main": "G06F  13/12",
+    "further": "G06F  13/42",
+    "ipcr": "['G06F  13/42        20060101C I20051008RMEP', 'G06F  13/12        20060101A I20051008RMEP', 'G06F  13/12        20060101C I20051008RMEP', 'G06F  13/42        20060101A I20051008RMEP']"
+  }
+}

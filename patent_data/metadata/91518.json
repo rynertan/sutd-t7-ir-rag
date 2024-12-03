@@ -1,0 +1,10 @@
+{
+  "patent_number": 91518,
+  "date": 19851227,
+  "ucid": "EP-0091518-B1",
+  "classifications": {
+    "main": "E01H   5/04",
+    "further": NaN,
+    "ipcr": "['B60K  23/00        20060101ALI20051220RMJP', 'E01C  19/26        20060101A I20051008RMEP', 'B60K  23/00        20060101CLI20051220RMJP', 'E01H   5/04        20060101A I20051008RMEP', 'E01H   5/04        20060101C I20051008RMEP', 'E01C  19/22        20060101C I20051008RMEP', 'E01H   5/07        20060101A I20051008RMEP']"
+  }
+}

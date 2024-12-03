@@ -1,0 +1,10 @@
+{
+  "patent_number": 197196,
+  "date": 19861015,
+  "ucid": "EP-0197196-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01R  13/00        20060101CFI20051220RMJP', 'G01R  13/22        20060101C I20051008RMEP', 'G01R  13/34        20060101A I20051008RMEP', 'G01R  13/40        20060101AFI20051220RMJP', 'G02F   1/01        20060101C I20051008RMEP', 'G02F   1/03        20060101A I20051008RMEP', 'G04F  13/00        20060101C I20051008RMEP', 'G04F  13/02        20060101A I20051008RMEP']"
+  }
+}

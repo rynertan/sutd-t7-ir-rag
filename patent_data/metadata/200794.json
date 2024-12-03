@@ -1,0 +1,10 @@
+{
+  "patent_number": 200794,
+  "date": 19861112,
+  "ucid": "EP-0200794-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K               20060101S I20051110RMEP', 'C07C               20060101S I20051110RMEP', 'C07C  43/00        20060101C I20051008RMEP', 'C07C  43/23        20060101A I20051008RMEP', 'C07C  46/00        20060101C I20051008RMEP', 'C07C  46/06        20060101A I20051008RMEP', 'C07C 403/00        20060101A I20070602RMEP', 'C07C 403/00        20060101C I20070602RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 189466,
+  "date": 19890503,
+  "ucid": "EP-0189466-B1",
+  "classifications": {
+    "main": "B02C  17/14",
+    "further": NaN,
+    "ipcr": "['B02C  23/18        20060101CLI20051220RMJP', 'B02C  17/24        20060101ALI20051220RMJP', 'B02C  17/04        20060101AFI20051220RMJP', 'B02C  23/32        20060101ALI20051220RMJP', 'B02C  17/18        20060101A I20051008RMEP', 'B02C  17/00        20060101C I20051110RMEP', 'B02C  17/14        20060101A I20051110RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 1676,
+  "date": 19790502,
+  "ucid": "EP-0001676-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C10C   1/00        20060101CLI20051220RMJP', 'C10C   1/18        20060101ALI20051220RMJP', 'C10G   1/00        20060101A I20051008RMEP', 'C10G   1/00        20060101C I20051008RMEP', 'C10G   1/04        20060101A I20051008RMEP', 'C10G   1/08        20060101A I20051008RMEP', 'C10G  21/00        20060101A I20051008RMEP', 'C10G  21/00        20060101C I20051008RMEP']"
+  }
+}

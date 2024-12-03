@@ -1,0 +1,10 @@
+{
+  "patent_number": 142709,
+  "date": 19890329,
+  "ucid": "EP-0142709-B1",
+  "classifications": {
+    "main": "G03B  42/02",
+    "further": "G03B  42/08",
+    "ipcr": "['G06T   1/00        20060101ALI20051220RMJP', 'H04N   5/30        20060101CLI20051220RMJP', 'G03B  42/02        20060101A I20051008RMEP', 'H04N   5/30        20060101ALI20051220RMJP', 'G06T   1/00        20060101CLI20051220RMJP', 'G03B  42/02        20060101C I20051008RMEP']"
+  }
+}

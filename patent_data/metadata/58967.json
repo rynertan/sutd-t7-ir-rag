@@ -1,0 +1,10 @@
+{
+  "patent_number": 58967,
+  "date": 19841227,
+  "ucid": "EP-0058967-B1",
+  "classifications": {
+    "main": "G01P   1/04",
+    "further": NaN,
+    "ipcr": "['G01D   5/02        20060101CFI20051220RMJP', 'G01D   5/04        20060101AFI20051220RMJP', 'F16H   1/16        20060101A I20051008RMEP', 'F16H  48/06        20060101ALI20051220RMJP', 'F16H   1/04        20060101C I20051008RMEP', 'G01P   1/00        20060101C I20051008RMEP', 'G01P   1/04        20060101A I20051008RMEP', 'F16H  48/00        20060101CLI20051220RMJP']"
+  }
+}

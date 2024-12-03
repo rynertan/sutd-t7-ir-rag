@@ -1,0 +1,10 @@
+{
+  "patent_number": 70059,
+  "date": 19860129,
+  "ucid": "EP-0070059-B1",
+  "classifications": {
+    "main": "B01D  13/00",
+    "further": NaN,
+    "ipcr": "['C02F   1/44        20060101CFI20051220RMJP', 'B01D  61/02        20060101C I20051008RMEP', 'B01D  61/58        20060101CLI20051220RMJP', 'C02F   1/44        20060101AFI20051220RMJP', 'B01D  61/58        20060101ALI20051220RMJP', 'B01D  61/10        20060101ALI20051220RMJP', 'B01D  61/02        20060101A I20051008RMEP']"
+  }
+}

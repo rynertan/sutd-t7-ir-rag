@@ -1,0 +1,10 @@
+{
+  "patent_number": 123038,
+  "date": 19870826,
+  "ucid": "EP-0123038-B1",
+  "classifications": {
+    "main": "G02B  26/10",
+    "further": NaN,
+    "ipcr": "['H04N   3/02        20060101C I20051008RMEP', 'G02B  26/10        20060101C I20051008RMEP', 'H04N   1/113       20060101CLI20051220RMJP', 'H04N   3/09        20060101A I20051008RMEP', 'H04N   1/113       20060101ALI20051220RMJP', 'G02B  26/10        20060101A I20051008RMEP']"
+  }
+}

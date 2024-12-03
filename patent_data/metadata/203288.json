@@ -1,0 +1,10 @@
+{
+  "patent_number": 203288,
+  "date": 19861203,
+  "ucid": "EP-0203288-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F28D   7/10        20060101C I20051008RMEP', 'F28D   7/12        20060101A I20051008RMEP', 'F28F   9/02        20060101A I20051008RMEP', 'F28F   9/02        20060101C I20051008RMEP', 'F28F   9/04        20060101C I20051008RMEP', 'F28F   9/06        20060101A I20051008RMEP', 'F28F  19/00        20060101C I20051008RMEP', 'F28F  19/02        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 134121,
+  "date": 19881130,
+  "ucid": "EP-0134121-B1",
+  "classifications": {
+    "main": "A61K   7/035",
+    "further": NaN,
+    "ipcr": "['A61K   8/00        20060101ALI20060310RMJP', 'A61K   8/00        20060101CLI20060310RMJP', 'A61K   8/72        20060101C I20051008RMEP', 'A61Q   1/12        20060101A I20051008RMEP', 'A61K   8/72        20060101AFI20060310RMJP', 'A61K   8/73        20060101A I20051008RMEP', 'A61Q   1/12        20060101C I20051008RMEP']"
+  }
+}

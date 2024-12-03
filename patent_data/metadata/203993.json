@@ -1,0 +1,10 @@
+{
+  "patent_number": 203993,
+  "date": 19900124,
+  "ucid": "EP-0203993-B1",
+  "classifications": {
+    "main": "G06F  13/16",
+    "further": NaN,
+    "ipcr": "['G06F   9/46        20060101CFI20051220RMJP', 'G06F  13/16        20060101C I20051008RMEP', 'G06F   5/10        20060101A I20051008RMEP', 'G06F   9/46        20060101AFI20051220RMJP', 'G06F  13/16        20060101A I20051008RMEP', 'G06F   5/06        20060101C I20051008RMEP']"
+  }
+}

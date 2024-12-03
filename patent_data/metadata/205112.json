@@ -1,0 +1,10 @@
+{
+  "patent_number": 205112,
+  "date": 19910724,
+  "ucid": "EP-0205112-B1",
+  "classifications": {
+    "main": "G06F   9/40",
+    "further": NaN,
+    "ipcr": "['G06F   9/40        20060101C I20051008RMEP', 'G06F   9/45        20060101CLI20051220RMJP', 'G06F   9/42        20060101A I20051008RMEP', 'G06F   9/44        20060101CLI20051220RMJP', 'G11C   7/00        20060101CLI20051220RMJP', 'G11C   7/00        20060101ALI20051220RMJP', 'G06F   9/45        20060101ALI20051220RMJP', 'G06F   9/44        20060101ALI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 205238,
+  "date": 19870506,
+  "ucid": "EP-0205238-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J   3/00        20060101AFI20051220RMJP', 'B01J   3/00        20060101CFI20051220RMJP', 'C10J   3/46        20060101A I20051008RMEP', 'C10J   3/46        20060101C I20051008RMEP', 'C10J   3/48        20060101A I20051008RMEP', 'C10J   3/48        20060101C I20051008RMEP', 'C10K   3/00        20060101CLI20051220RMJP', 'C10K   3/06        20060101ALI20051220RMJP']"
+  }
+}

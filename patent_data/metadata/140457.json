@@ -1,0 +1,10 @@
+{
+  "patent_number": 140457,
+  "date": 19850508,
+  "ucid": "EP-0140457-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G02B   5/22        20060101C I20051008RMEP', 'G02B   5/24        20060101A I20051008RMEP', 'H01J  29/18        20060101AFI20051220RMJP', 'H01J  29/18        20060101CFI20051220RMJP', 'H01J  29/89        20060101A I20051008RMEP', 'H01J  29/89        20060101C I20051008RMEP', 'H01J  31/10        20060101ALI20051220RMJP', 'H01J  31/10        20060101CLI20051220RMJP']"
+  }
+}

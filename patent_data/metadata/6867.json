@@ -1,0 +1,10 @@
+{
+  "patent_number": 6867,
+  "date": 19800123,
+  "ucid": "EP-0006867-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01D  21/26        20060101AFI20051220RMJP', 'B01D  21/26        20060101CFI20051220RMJP', 'B03B   5/00        20060101C I20051008RMEP', 'B03B   5/02        20060101A I20051008RMEP', 'B03B   5/28        20060101ALI20051220RMJP', 'B03B   5/28        20060101CLI20051220RMJP', 'E21C  50/00        20060101A I20060521RMWO', 'E21C  50/00        20060101C I20060521RMWO']"
+  }
+}

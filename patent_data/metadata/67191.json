@@ -1,0 +1,10 @@
+{
+  "patent_number": 67191,
+  "date": 19850918,
+  "ucid": "EP-0067191-B1",
+  "classifications": {
+    "main": "B62M   1/18",
+    "further": NaN,
+    "ipcr": "['B62K   9/00        20060101C I20051008RMEP', 'B62M   1/00        20060101ALI20051220RMJP', 'A63G  19/00        20060101CLI20051220RMJP', 'B62M   1/18        20060101A I20051008RMEP', 'B62K   9/00        20060101A I20051008RMEP', 'B62M   1/00        20060101C I20051008RMEP', 'A63G  19/04        20060101ALI20051220RMJP']"
+  }
+}

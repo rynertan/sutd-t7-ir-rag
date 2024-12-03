@@ -1,0 +1,10 @@
+{
+  "patent_number": 160405,
+  "date": 19891011,
+  "ucid": "EP-0160405-B1",
+  "classifications": {
+    "main": "B65H   3/06",
+    "further": "B65H   5/06",
+    "ipcr": "['B65H   5/06        20060101A I20051008RMEP', 'B65H   3/06        20060101C I20051008RMEP', 'B65H   3/06        20060101A I20051008RMEP', 'B65H   5/06        20060101C I20051008RMEP']"
+  }
+}

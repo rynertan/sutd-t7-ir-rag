@@ -1,0 +1,10 @@
+{
+  "patent_number": 198920,
+  "date": 19930428,
+  "ucid": "EP-0198920-B1",
+  "classifications": {
+    "main": "G01N  27/60",
+    "further": NaN,
+    "ipcr": "['G01F   1/56        20060101C I20051008RMEP', 'G01N  27/60        20060101CLI20051220RMJP', 'G01F   1/74        20060101CLI20051220RMJP', 'G01P   5/00        20060101AFI20051220RMJP', 'G01N  27/60        20060101ALI20051220RMJP', 'G01F   1/74        20060101ALI20051220RMJP', 'G01F   1/64        20060101A I20051008RMEP', 'G01P   5/00        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 111317,
+  "date": 19900718,
+  "ucid": "EP-0111317-B1",
+  "classifications": {
+    "main": "G07B  17/02",
+    "further": NaN,
+    "ipcr": "['G07B  17/00        20060101A I20051008RMEP', 'G07B  17/02        20060101ALI20051220RMJP', 'G06F  19/00        20060101ALI20051220RMJP', 'G07B  17/00        20060101C I20051008RMEP', 'G06F  19/00        20060101CLI20051220RMJP', 'G06Q  50/00        20060101ALI20051220RMJP', 'G06Q  50/00        20060101CLI20051220RMJP']"
+  }
+}

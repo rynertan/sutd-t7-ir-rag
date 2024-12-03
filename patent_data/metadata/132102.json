@@ -1,0 +1,10 @@
+{
+  "patent_number": 132102,
+  "date": 19861001,
+  "ucid": "EP-0132102-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61D   7/00        20060101A I20051008RMEP', 'A61D   7/00        20060101C I20051008RMEP', 'A61K   9/00        20060101A I20051008RMEP', 'A61K   9/00        20060101C I20051008RMEP', 'A61K   9/22        20060101A I20060521RMEP', 'A61K   9/22        20060101C I20060521RMEP', 'A61M  31/00        20060101A I20051008RMEP', 'A61M  31/00        20060101C I20051008RMEP']"
+  }
+}

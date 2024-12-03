@@ -1,0 +1,10 @@
+{
+  "patent_number": 123173,
+  "date": 19880323,
+  "ucid": "EP-0123173-B1",
+  "classifications": {
+    "main": "A43D 111/00",
+    "further": "A43D  95/12",
+    "ipcr": "['A43D  95/00        20060101C I20051008RMEP', 'A43D  95/12        20060101A I20051008RMEP', 'A43D 111/00        20060101AFI20060101BMKR', 'A43D 111/00        20060101CFI20060101BMKR']"
+  }
+}

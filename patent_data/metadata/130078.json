@@ -1,0 +1,10 @@
+{
+  "patent_number": 130078,
+  "date": 19850102,
+  "ucid": "EP-0130078-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B21D  51/26        20060101AFI20051220RMJP', 'B21D  51/26        20060101CFI20051220RMJP', 'B21D  51/38        20060101C I20051008RMEP', 'B21D  51/44        20060101A I20051008RMEP', 'B65G  47/74        20060101C I20051008RMEP', 'B65G  47/76        20060101A I20051008RMEP', 'G01N   1/00        20060101ALI20051220RMJP', 'G01N   1/00        20060101CLI20051220RMJP']"
+  }
+}

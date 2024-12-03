@@ -1,0 +1,10 @@
+{
+  "patent_number": 185724,
+  "date": 19860702,
+  "ucid": "EP-0185724-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/00        20060101A I20051008RMEP', 'G06F   1/00        20060101C I20051008RMEP', 'G06F  21/22        20060101ALI20060310RMJP', 'G06F  21/22        20060101CLI20060310RMJP', 'G09C   1/00        20060101AFI20060310RMJP', 'G09C   1/00        20060101CFI20060310RMJP', 'G09C   1/04        20060101A I20051008RMEP', 'G09C   1/04        20060101C I20051008RMEP']"
+  }
+}

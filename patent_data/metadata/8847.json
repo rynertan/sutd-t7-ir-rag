@@ -1,0 +1,10 @@
+{
+  "patent_number": 8847,
+  "date": 19850327,
+  "ucid": "EP-0008847-B2",
+  "classifications": {
+    "main": "C10J   3/08",
+    "further": NaN,
+    "ipcr": "['C10J   3/48        20060101CLN19820423BMSU', 'F27D   3/15        20060101ALI20051220RMJP', 'F27D   3/00        20060101CLI20051220RMJP', 'C10J   3/52        20060101ALN19820423BMSU', 'C10J   3/02        20060101C I20051008RMEP', 'C10J   3/08        20060101A I20051008RMEP', 'C10J   3/02        20060101AFI20051220RMJP']"
+  }
+}

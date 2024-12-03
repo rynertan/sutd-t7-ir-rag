@@ -1,0 +1,10 @@
+{
+  "patent_number": 202223,
+  "date": 19900523,
+  "ucid": "EP-0202223-B1",
+  "classifications": {
+    "main": "D21F   1/66",
+    "further": "D21D   1/30",
+    "ipcr": "['D21F   1/66        20060101A I20051008RMEP', 'D21D   1/30        20060101A I20051008RMEP', 'D21D   1/00        20060101C I20051008RMEP', 'D21F   1/66        20060101C I20051008RMEP']"
+  }
+}

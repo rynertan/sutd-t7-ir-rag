@@ -1,0 +1,10 @@
+{
+  "patent_number": 108364,
+  "date": 19860827,
+  "ucid": "EP-0108364-B1",
+  "classifications": {
+    "main": "F28F  13/18",
+    "further": NaN,
+    "ipcr": "['F28F  13/00        20060101C I20051008RMEP', 'B01D   1/22        20060101A I20051008RMEP', 'F28F  13/18        20060101A I20051008RMEP', 'F28F   1/10        20060101CLI20051220RMJP', 'B01D   1/22        20060101C I20051008RMEP', 'F28F  13/02        20060101AFI20051220RMJP', 'F28F   1/10        20060101ALI20051220RMJP']"
+  }
+}

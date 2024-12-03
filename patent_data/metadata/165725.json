@@ -1,0 +1,10 @@
+{
+  "patent_number": 165725,
+  "date": 19880817,
+  "ucid": "EP-0165725-B1",
+  "classifications": {
+    "main": "F23C   7/00",
+    "further": "F23D   1/00",
+    "ipcr": "['F23D  11/24        20060101CFI20060310RMJP', 'F23D   1/00        20060101A I20051008RMEP', 'F23D  11/24        20060101AFI20060310RMJP', 'F23D   1/00        20060101C I20051008RMEP', 'F23D  99/00        20100101CLI20091226RMEP', 'F23D  99/00        20100101ALI20091226RMEP']"
+  }
+}

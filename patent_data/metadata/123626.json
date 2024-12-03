@@ -1,0 +1,10 @@
+{
+  "patent_number": 123626,
+  "date": 19841031,
+  "ucid": "EP-0123626-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G10L  11/00        20060101A I20051008RMEP', 'G10L  11/00        20060101C I20051008RMEP', 'G10L  15/00        20060101CFI20060310RMJP', 'G10L  15/02        20060101AFI20060310RMJP', 'H04R  25/00        20060101A N20051008RMEP', 'H04R  25/00        20060101C N20051008RMEP']"
+  }
+}

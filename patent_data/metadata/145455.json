@@ -1,0 +1,10 @@
+{
+  "patent_number": 145455,
+  "date": 19900307,
+  "ucid": "EP-0145455-B1",
+  "classifications": {
+    "main": "D02G   1/02",
+    "further": NaN,
+    "ipcr": "['D02J   3/00        20060101CLI20051220RMJP', 'D02G   3/24        20060101CLI20051220RMJP', 'D01F  11/04        20060101ALI20051220RMJP', 'D02J   3/18        20060101ALI20051220RMJP', 'D02G   3/24        20060101ALI20051220RMJP', 'D01F  11/00        20060101CLI20051220RMJP', 'D02G   1/02        20060101A I20051008RMEP', 'D02G   1/02        20060101C I20051008RMEP']"
+  }
+}

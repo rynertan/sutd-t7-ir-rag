@@ -1,0 +1,10 @@
+{
+  "patent_number": 101247,
+  "date": 19890118,
+  "ucid": "EP-0101247-B1",
+  "classifications": {
+    "main": "G01G   3/14",
+    "further": "G01G   3/142",
+    "ipcr": "['G01G  23/00        20060101CLI20051220RMJP', 'G01G   3/00        20060101C I20051008RMEP', 'G01G   3/142       20060101A I20051008RMEP', 'G01G   3/14        20060101A I20051008RMEP', 'G01G  23/01        20060101ALI20051220RMJP']"
+  }
+}

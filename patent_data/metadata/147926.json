@@ -1,0 +1,10 @@
+{
+  "patent_number": 147926,
+  "date": 19850807,
+  "ucid": "EP-0147926-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K  31/28        20060101AFI20051220RMJP', 'A61K  31/28        20060101CFI20051220RMJP', 'A61K  31/282       20060101ALI20051220RMJP', 'A61P  35/00        20060101ALI20051220RMJP', 'A61P  35/00        20060101CLI20051220RMJP', 'C07F  15/00        20060101A I20051008RMEP', 'C07F  15/00        20060101C I20051008RMEP']"
+  }
+}

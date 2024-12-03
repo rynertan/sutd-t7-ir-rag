@@ -1,0 +1,10 @@
+{
+  "patent_number": 152207,
+  "date": 19890726,
+  "ucid": "EP-0152207-B1",
+  "classifications": {
+    "main": "G21C   3/32",
+    "further": NaN,
+    "ipcr": "['G21C   7/14        20060101ALI20051220RMJP', 'G21C   7/12        20060101AFI20051220RMJP', 'G21C   3/334       20060101A I20051008RMEP', 'G21C   7/08        20060101CLI20051220RMJP', 'G21C   3/33        20060101CLI20051220RMJP', 'G21C   3/33        20060101ALI20051220RMJP', 'G21C   3/32        20060101C I20051008RMEP']"
+  }
+}

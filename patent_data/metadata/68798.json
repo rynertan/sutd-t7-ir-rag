@@ -1,0 +1,10 @@
+{
+  "patent_number": 68798,
+  "date": 19860122,
+  "ucid": "EP-0068798-B1",
+  "classifications": {
+    "main": "B65B  43/14",
+    "further": NaN,
+    "ipcr": "['B65B  43/26        20060101CLI20051220RMJP', 'B65B  43/36        20060101ALI20051220RMJP', 'B65B  43/20        20060101ALI20051220RMJP', 'B65B  43/00        20060101C I20051008RMEP', 'B65H   3/28        20060101A I20051008RMEP', 'B65B  43/14        20060101A I20051008RMEP', 'B65H   3/00        20060101C I20051008RMEP']"
+  }
+}

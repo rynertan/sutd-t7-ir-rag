@@ -1,0 +1,10 @@
+{
+  "patent_number": 127249,
+  "date": 19911023,
+  "ucid": "EP-0127249-B1",
+  "classifications": {
+    "main": "G06F  15/20",
+    "further": "G06F  15/72",
+    "ipcr": "['G06T  15/50        20060101C I20051008RMEP', 'G06T  15/50        20060101A I20051008RMEP']"
+  }
+}

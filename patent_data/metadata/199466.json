@@ -1,0 +1,10 @@
+{
+  "patent_number": 199466,
+  "date": 19870819,
+  "ucid": "EP-0199466-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65G  69/00        20060101CLI20051220RMJP', 'B65G  69/04        20060101ALI20051220RMJP', 'G01N   1/00        20060101A I20051008RMEP', 'G01N   1/00        20060101C I20051008RMEP', 'G01N  35/00        20060101A I20051008RMEP', 'G01N  35/00        20060101C I20051008RMEP', 'G01N  35/10        20060101A I20051008RMEP', 'G01N  35/10        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 96407,
+  "date": 19831221,
+  "ucid": "EP-0096407-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B41J   5/30        20060101ALI20051220RMJP', 'B41J   5/30        20060101CLI20051220RMJP', 'B41J  29/38        20060101ALI20051220RMJP', 'B41J  29/38        20060101CLI20051220RMJP', 'G06F   3/12        20060101A I20051008RMEP', 'G06F   3/12        20060101C I20051008RMEP', 'G06F  13/38        20060101A I20051008RMEP', 'G06F  13/38        20060101C I20051008RMEP']"
+  }
+}

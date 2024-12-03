@@ -1,0 +1,10 @@
+{
+  "patent_number": 62543,
+  "date": 19821013,
+  "ucid": "EP-0062543-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C02F   1/52        20060101A I20051008RMEP', 'C02F   1/52        20060101C I20051008RMEP', 'C02F   9/00        20060101A I20051008RMEP', 'C02F   9/00        20060101C I20051008RMEP', 'C02F  11/00        20060101AFI20051220RMJP', 'C02F  11/00        20060101CFI20051220RMJP', 'C02F  11/12        20060101A I20051008RMEP', 'C02F  11/12        20060101C I20051008RMEP']"
+  }
+}

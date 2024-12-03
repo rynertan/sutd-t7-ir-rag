@@ -1,0 +1,10 @@
+{
+  "patent_number": 123450,
+  "date": 19870520,
+  "ucid": "EP-0123450-B1",
+  "classifications": {
+    "main": "G01F  23/28",
+    "further": "B22D  11/16",
+    "ipcr": "['G01F  23/22        20060101C I20051008RMEP', 'G01F  23/22        20060101A I20051008RMEP']"
+  }
+}

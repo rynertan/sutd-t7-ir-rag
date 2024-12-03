@@ -1,0 +1,10 @@
+{
+  "patent_number": 72236,
+  "date": 19870715,
+  "ucid": "EP-0072236-B1",
+  "classifications": {
+    "main": "G07D   7/00",
+    "further": NaN,
+    "ipcr": "['G07D   7/00        20060101C I20051008RMEP', 'G01N  21/892       20060101ALI20051220RMJP', 'G07D   7/16        20060101ALI20051220RMJP', 'G07D   7/00        20060101AFI20051220RMJP', 'G01N  21/88        20060101CLI20051220RMJP', 'G01N  21/89        20060101ALI20051220RMJP', 'G07D   7/12        20060101A I20051008RMEP']"
+  }
+}

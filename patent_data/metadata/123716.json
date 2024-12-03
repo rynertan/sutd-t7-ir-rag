@@ -1,0 +1,10 @@
+{
+  "patent_number": 123716,
+  "date": 19890719,
+  "ucid": "EP-0123716-B1",
+  "classifications": {
+    "main": "B25C   1/08",
+    "further": NaN,
+    "ipcr": "['B25C   1/00        20060101C I20051008RMEP', 'F02B   1/00        20060101C N20051008RMEP', 'F02B   1/04        20060101A N20051008RMEP', 'B25C   1/08        20060101A I20051008RMEP']"
+  }
+}

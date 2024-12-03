@@ -1,0 +1,10 @@
+{
+  "patent_number": 33293,
+  "date": 19850911,
+  "ucid": "EP-0033293-B1",
+  "classifications": {
+    "main": "D21F   3/02",
+    "further": NaN,
+    "ipcr": "['D21F   3/02        20060101A I20070721RMEP', 'D21F   1/00        20060101CLI20051220RMJP', 'D21F   3/00        20060101AFI19881007BMSU', 'D21F   1/00        20060101ALI20051220RMJP', 'D21F   3/00        20060101CFI19881007BMSU', 'B30B   9/24        20060101ALI20051220RMJP', 'B30B   9/02        20060101CLI20051220RMJP', 'D21F   3/02        20060101C I20070721RMEP']"
+  }
+}

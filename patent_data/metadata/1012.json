@@ -1,0 +1,10 @@
+{
+  "patent_number": 1012,
+  "date": 19810429,
+  "ucid": "EP-0001012-B1",
+  "classifications": {
+    "main": "B29F   1/00",
+    "further": NaN,
+    "ipcr": "['B29C  45/00        20060101CLI20051220RMJP', 'B29C  45/00        20060101ALI20051220RMJP', 'B29C  41/00        20060101CLI20051220RMJP', 'B29K 101/10        20060101ALN20051220RMJP', 'B29C  41/00        20060101ALI20051220RMJP', 'B29C  45/34        20060101C I20051008RMEP', 'B29C  45/34        20060101A I20051008RMEP']"
+  }
+}

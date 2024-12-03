@@ -1,0 +1,10 @@
+{
+  "patent_number": 103729,
+  "date": 19840328,
+  "ucid": "EP-0103729-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F21V   8/00        20060101A I20051008RMEP', 'F21V   8/00        20060101C I20051008RMEP', 'G02B   6/00        20060101A N20051008RMEP', 'G02B   6/00        20060101C N20051008RMEP', 'G02B   6/04        20060101A I20051008RMEP', 'G02B   6/04        20060101C I20051008RMEP', 'G02B   6/26        20060101A I20051008RMEP', 'G02B   6/26        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 198767,
+  "date": 19861022,
+  "ucid": "EP-0198767-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B04B   5/00        20060101CLI20051220RMJP', 'B04B   5/02        20060101ALI20051220RMJP', 'B04B  11/00        20060101CLI20051220RMJP', 'B04B  11/04        20060101ALI20051220RMJP', 'G01N   1/28        20060101A I20051008RMEP', 'G01N   1/28        20060101C I20051008RMEP', 'G01N  33/48        20060101AFI20051220RMJP', 'G01N  33/48        20060101CFI20051220RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 183401,
+  "date": 19880824,
+  "ucid": "EP-0183401-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['D21G   9/00        20060101A I20051008RMEP', 'D21G   9/00        20060101C I20051008RMEP', 'G05B  11/36        20060101AFI20051220RMJP', 'G05B  11/36        20060101CFI20051220RMJP', 'G05B  21/00        20060101C I20051008RMEP', 'G05B  21/02        20060101A I20051008RMEP', 'G05D   5/00        20060101C I20051008RMEP', 'G05D   5/03        20060101A I20051008RMEP']"
+  }
+}

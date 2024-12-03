@@ -1,0 +1,10 @@
+{
+  "patent_number": 82123,
+  "date": 19870318,
+  "ucid": "EP-0082123-B1",
+  "classifications": {
+    "main": "B65B   5/12",
+    "further": "B65B  35/44",
+    "ipcr": "['B65B   5/06        20060101C I20051008RMEP', 'B65B   5/06        20060101A I20051008RMEP']"
+  }
+}

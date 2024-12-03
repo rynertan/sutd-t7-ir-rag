@@ -1,0 +1,10 @@
+{
+  "patent_number": 67567,
+  "date": 19840411,
+  "ucid": "EP-0067567-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C25D   3/02        20060101C I20051008RMEP', 'C25D   3/12        20060101A I20051008RMEP', 'C25D   3/12        20060101C I20051008RMEP', 'C25D   3/50        20060101A I20051008RMEP', 'C25D   5/48        20060101A I20051008RMEP', 'C25D   5/48        20060101C I20051008RMEP', 'F24J   2/00        20060101C I20051008RMEP', 'F24J   2/48        20060101A I20051008RMEP']"
+  }
+}

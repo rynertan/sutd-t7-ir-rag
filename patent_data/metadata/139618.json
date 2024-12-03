@@ -1,0 +1,10 @@
+{
+  "patent_number": 139618,
+  "date": 19850502,
+  "ucid": "EP-0139618-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B27D   1/00        20060101A I20051008RMEP', 'B27D   1/00        20060101C I20051008RMEP', 'B44C   3/00        20060101C I20051008RMEP', 'B44C   3/08        20060101A I20051008RMEP', 'B44C   5/00        20060101C I20051008RMEP', 'B44C   5/04        20060101A I20051008RMEP', 'B44F   9/00        20060101C I20051008RMEP', 'B44F   9/02        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 149248,
+  "date": 19860625,
+  "ucid": "EP-0149248-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   1/02        20060101C I20051008RMEP', 'G06F   1/035       20060101A I20051008RMEP', 'G06F   7/48        20060101C I20051008RMEP', 'G06F   7/483       20060101ALI20060310RMJP', 'G06F   7/52        20060101A I20051008RMEP', 'G06F   7/535       20060101ALI20060310RMJP', 'G06F  17/17        20060101ALI20060310RMJP', 'G06F  17/17        20060101CLI20060310RMJP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 16050,
+  "date": 19830216,
+  "ucid": "EP-0016050-B1",
+  "classifications": {
+    "main": "G06F   5/00",
+    "further": "G06F  15/40",
+    "ipcr": "['G06F   7/22        20060101CFI20051220RMJP', 'H03M   7/30        20060101C I20051008RMEP', 'G06F   5/00        20060101CLI20051220RMJP', 'G06F   7/22        20060101AFI20051220RMJP', 'G06F   5/00        20060101ALI20051220RMJP', 'H03M   7/30        20060101A I20051008RMEP']"
+  }
+}

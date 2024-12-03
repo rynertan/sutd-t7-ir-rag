@@ -1,0 +1,10 @@
+{
+  "patent_number": 87284,
+  "date": 19830831,
+  "ucid": "EP-0087284-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06T   5/00        20060101A I20051008RMEP', 'G06T   5/00        20060101C I20051008RMEP', 'G06T   7/00        20060101A I20051008RMEP', 'G06T   7/00        20060101C I20051008RMEP', 'H04N   1/41        20060101A I20051008RMEP', 'H04N   1/41        20060101C I20051008RMEP', 'H04N   7/26        20060101A I20051008RMEP', 'H04N   7/26        20060101C I20051008RMEP']"
+  }
+}

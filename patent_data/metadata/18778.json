@@ -1,0 +1,10 @@
+{
+  "patent_number": 18778,
+  "date": 19801112,
+  "ucid": "EP-0018778-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B01J  29/00        20060101C I20051008RMEP', 'B01J  29/48        20060101A I20051008RMEP', 'C10G  45/58        20060101C I20051008RMEP', 'C10G  45/64        20060101A I20051008RMEP', 'C10G  71/00        20060101A I20070602RMUS', 'C10G  71/00        20060101C I20070602RMUS', 'C10G  73/00        20060101CFI20051220RMJP', 'C10G  73/02        20060101AFI20051220RMJP']"
+  }
+}

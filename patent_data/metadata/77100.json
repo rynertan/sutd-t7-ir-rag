@@ -1,0 +1,10 @@
+{
+  "patent_number": 77100,
+  "date": 19830420,
+  "ucid": "EP-0077100-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06M   1/00        20060101C I20051008RMEP', 'G06M   1/10        20060101A I20051008RMEP', 'G06M   7/00        20060101A I20051008RMEP', 'G06M   7/00        20060101C I20051008RMEP', 'G07C   9/00        20060101A I20051008RMEP', 'G07C   9/00        20060101C I20051008RMEP', 'G08B  13/02        20060101C I20051008RMEP', 'G08B  13/10        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 1337,
+  "date": 19790404,
+  "ucid": "EP-0001337-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B60G   3/00        20060101C I20051008RMEP', 'B60G   3/06        20060101A I20051008RMEP', 'B60G   7/02        20060101A I20051008RMEP', 'B60G   7/02        20060101C I20051008RMEP', 'B62D  21/02        20060101C I20051008RMEP', 'B62D  21/04        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 123084,
+  "date": 19880720,
+  "ucid": "EP-0123084-B1",
+  "classifications": {
+    "main": "G09D   3/12",
+    "further": NaN,
+    "ipcr": "['G09D   3/12        20060101A I20051008RMEP', 'G06Q  10/00        20060101A I20051008RMEP', 'G06Q  10/00        20060101C I20051008RMEP', 'G09D   3/00        20060101ALI20051220RMJP', 'G09D   3/00        20060101C I20051008RMEP', 'B42D   5/00        20060101CFI20051220RMJP', 'B42D   5/04        20060101AFI20051220RMJP']"
+  }
+}

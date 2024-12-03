@@ -1,0 +1,10 @@
+{
+  "patent_number": 31337,
+  "date": 19810708,
+  "ucid": "EP-0031337-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A22B   5/00        20060101C I20051008RMEP', 'A22B   5/16        20060101A I20051008RMEP']"
+  }
+}

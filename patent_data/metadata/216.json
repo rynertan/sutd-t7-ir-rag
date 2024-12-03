@@ -1,0 +1,10 @@
+{
+  "patent_number": 216,
+  "date": 19790110,
+  "ucid": "EP-0000216-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['C11D   3/00        20060101A I20051008RMEP', 'C11D   3/00        20060101C I20051008RMEP', 'C11D   3/12        20060101A I20051008RMEP', 'C11D   3/12        20060101C I20051008RMEP', 'C11D   3/18        20060101A I20051008RMEP', 'C11D   3/18        20060101C I20051008RMEP', 'C11D   3/20        20060101A I20051008RMEP', 'C11D   3/20        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 157424,
+  "date": 19900829,
+  "ucid": "EP-0157424-B1",
+  "classifications": {
+    "main": "G06F   1/00",
+    "further": "G06F  12/10",
+    "ipcr": "['G06F   1/22        20060101C I20051008RMEP', 'G06F  12/06        20060101C I20051008RMEP', 'G06F   1/22        20060101A I20051008RMEP', 'G06F  12/06        20060101A I20051008RMEP']"
+  }
+}

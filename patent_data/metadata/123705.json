@@ -1,0 +1,10 @@
+{
+  "patent_number": 123705,
+  "date": 19841107,
+  "ucid": "EP-0123705-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G21F   9/16        20060101A I20051008RMEP', 'G21F   9/16        20060101C I20051008RMEP']"
+  }
+}

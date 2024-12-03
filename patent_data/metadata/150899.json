@@ -1,0 +1,10 @@
+{
+  "patent_number": 150899,
+  "date": 19850821,
+  "ucid": "EP-0150899-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F01N   1/08        20060101A I20051008RMEP', 'F01N   1/08        20060101C I20051008RMEP', 'F01N   1/10        20060101A I20051008RMEP', 'F01N   7/00        20060101CLI20051220RMJP', 'F01N   7/02        20060101ALI20051220RMJP', 'F01N   7/18        20060101A I20051008RMEP', 'F01N   7/18        20060101C I20051008RMEP', 'F01N   7/20        20060101ALI20051220RMJP']"
+  }
+}

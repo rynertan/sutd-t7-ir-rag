@@ -1,0 +1,10 @@
+{
+  "patent_number": 30404,
+  "date": 19860430,
+  "ucid": "EP-0030404-B1",
+  "classifications": {
+    "main": "G21F   9/00",
+    "further": "G21G   1/00",
+    "ipcr": "['G21F   9/00        20060101A I20051008RMEP', 'G21F   9/00        20060101C I20051008RMEP']"
+  }
+}

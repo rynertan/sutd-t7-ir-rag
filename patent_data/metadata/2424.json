@@ -1,0 +1,10 @@
+{
+  "patent_number": 2424,
+  "date": 19810715,
+  "ucid": "EP-0002424-B1",
+  "classifications": {
+    "main": "B60R  25/00",
+    "further": "B60S   9/00",
+    "ipcr": "['B60R  25/00        20060101A I20051008RMEP', 'B60S   9/00        20060101A I20051008RMEP', 'B60R  25/00        20060101C I20051008RMEP', 'B60S   9/00        20060101C I20051008RMEP']"
+  }
+}

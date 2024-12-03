@@ -1,0 +1,10 @@
+{
+  "patent_number": 174734,
+  "date": 19861230,
+  "ucid": "EP-0174734-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['F04C   2/00        20060101CLI20051220RMJP', 'F04C   2/10        20060101ALI20051220RMJP', 'F04C   2/14        20060101ALI20051220RMJP', 'F04C  14/00        20060101CFI20051220RMJP', 'F04C  14/22        20060101A I20070721RMEP', 'F04C  14/24        20060101AFI20051220RMJP', 'F04C  18/08        20060101C I20070224RMEP', 'F04C  18/10        20060101A I20070224RMEP']"
+  }
+}

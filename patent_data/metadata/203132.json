@@ -1,0 +1,10 @@
+{
+  "patent_number": 203132,
+  "date": 19861203,
+  "ucid": "EP-0203132-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G08B   3/00        20060101C I20051008RMEP', 'G08B   3/10        20060101A I20051008RMEP', 'H03G   3/32        20060101A I20051008RMEP', 'H03G   3/32        20060101C I20051008RMEP', 'H03G   3/34        20060101A I20051008RMEP', 'H03G   3/34        20060101C I20051008RMEP', 'H04M   1/82        20060101A I20051008RMEP', 'H04M   1/82        20060101C I20051008RMEP']"
+  }
+}

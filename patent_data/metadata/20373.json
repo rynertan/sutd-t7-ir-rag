@@ -1,0 +1,10 @@
+{
+  "patent_number": 20373,
+  "date": 19800929,
+  "ucid": "EP-0020373-A4",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B22C   1/00        20060101C I20051110RMEP', 'B22C   1/04        20060101A I20051110RMEP', 'B22C   3/00        20060101A I20051110RMEP', 'B22C   3/00        20060101C I20051110RMEP', 'B22C   9/04        20060101A I20051110RMEP', 'B22C   9/04        20060101C I20051110RMEP', 'C04B  35/00        20060101A I20051110RMEP', 'C04B  35/00        20060101C I20051110RMEP']"
+  }
+}

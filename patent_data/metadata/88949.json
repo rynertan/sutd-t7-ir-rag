@@ -1,0 +1,10 @@
+{
+  "patent_number": 88949,
+  "date": 19860507,
+  "ucid": "EP-0088949-B1",
+  "classifications": {
+    "main": "C11B   7/00",
+    "further": NaN,
+    "ipcr": "['B01D  43/00        20060101AFI20051220RMJP', 'C11B   7/00        20060101A I20051008RMEP', 'B04B   3/04        20060101ALI20051220RMJP', 'C11B   7/00        20060101C I20051008RMEP', 'B01D  43/00        20060101CFI20051220RMJP', 'B04B   3/00        20060101CLI20051220RMJP', 'B04B   1/00        20060101CLI20051220RMJP', 'B04B   1/20        20060101ALI20051220RMJP']"
+  }
+}

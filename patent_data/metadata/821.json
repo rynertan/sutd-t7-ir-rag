@@ -1,0 +1,10 @@
+{
+  "patent_number": 821,
+  "date": 19820414,
+  "ucid": "EP-0000821-B1",
+  "classifications": {
+    "main": "B65B   9/12",
+    "further": NaN,
+    "ipcr": "['B65B   9/10        20060101CFI20051220RMJP', 'B65B  51/00        20060101CLI20051220RMJP', 'A22C  11/00        20060101C I20051008RMEP', 'B65B  51/08        20060101ALI20051220RMJP', 'B65B   9/13        20060101AFI20051220RMJP', 'A22C  11/12        20060101A I20051008RMEP', 'B65B  51/00        20060101ALI20051220RMJP']"
+  }
+}

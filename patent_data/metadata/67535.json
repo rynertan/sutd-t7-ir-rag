@@ -1,0 +1,10 @@
+{
+  "patent_number": 67535,
+  "date": 19821222,
+  "ucid": "EP-0067535-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A23L   1/236       20060101A I20051008RMEP', 'A23L   1/236       20060101C I20051008RMEP', 'C07H   3/00        20060101CFI19860630BMSU', 'C07H   3/04        20060101AFI19860630BMSU', 'C07H   5/00        20060101C I20051008RMEP', 'C07H   5/02        20060101A I20051008RMEP', 'C07H  13/00        20060101CLI20051220RMJP', 'C07H  13/06        20060101ALI20051220RMJP']"
+  }
+}

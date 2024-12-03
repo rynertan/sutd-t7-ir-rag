@@ -1,0 +1,10 @@
+{
+  "patent_number": 20642,
+  "date": 19810107,
+  "ucid": "EP-0020642-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B05B   1/02        20060101C I20051008RMEP', 'B05B   1/08        20060101A I20051008RMEP', 'B60S   1/46        20060101C I20051008RMEP', 'B60S   1/52        20060101A I20051008RMEP', 'F15C   1/00        20060101C I20051008RMEP', 'F15C   1/22        20060101A I20051008RMEP', 'F15D   1/00        20060101CLI20051220RMJP', 'F15D   1/08        20060101ALI20051220RMJP']"
+  }
+}

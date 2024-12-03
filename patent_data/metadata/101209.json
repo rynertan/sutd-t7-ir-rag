@@ -1,0 +1,10 @@
+{
+  "patent_number": 101209,
+  "date": 19850807,
+  "ucid": "EP-0101209-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61K  35/66        20060101C I20051008RMEP', 'A61K  35/74        20060101A I20051008RMEP', 'A61P   3/00        20060101CLI20051220RMJP', 'A61P   3/06        20060101ALI20051220RMJP', 'A61P   9/00        20060101CLI20051220RMJP', 'A61P   9/10        20060101ALI20051220RMJP', 'C12P   1/04        20060101A I20051008RMEP', 'C12P   1/04        20060101C I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 142833,
+  "date": 19870826,
+  "ucid": "EP-0142833-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01T   1/00        20060101C I20051008RMEP', 'G01T   1/29        20060101A I20051008RMEP', 'G02B   6/00        20060101ALI20051220RMJP', 'G02B   6/00        20060101CLI20051220RMJP', 'G03B  42/00        20060101CFI20051220RMJP', 'G03B  42/08        20060101AFI20051220RMJP', 'H04N   1/028       20060101A I20051008RMEP', 'H04N   1/028       20060101C I20051008RMEP']"
+  }
+}

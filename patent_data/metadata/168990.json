@@ -1,0 +1,10 @@
+{
+  "patent_number": 168990,
+  "date": 19890531,
+  "ucid": "EP-0168990-B1",
+  "classifications": {
+    "main": "B01F   3/04",
+    "further": "B67D   1/00",
+    "ipcr": "['B01F   3/04        20060101C I20051008RMEP', 'B01F   1/00        20060101ALI20051220RMJP', 'B01F   1/00        20060101CLI20051220RMJP', 'B01F   3/04        20060101A I20051008RMEP', 'A23L   2/00        20060101CFI20051220RMJP', 'A23L   2/00        20060101AFI20051220RMJP']"
+  }
+}

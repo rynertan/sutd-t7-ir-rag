@@ -1,0 +1,10 @@
+{
+  "patent_number": 17267,
+  "date": 19840411,
+  "ucid": "EP-0017267-B1",
+  "classifications": {
+    "main": "G01J   3/42",
+    "further": NaN,
+    "ipcr": "['G06G   7/48        20060101A I20051008RMEP', 'G01J   3/02        20060101ALI20051220RMJP', 'G01J   3/42        20060101A I20051008RMEP', 'G01J   3/42        20060101C I20051008RMEP', 'G06G   7/161       20060101A I20051008RMEP', 'G06G   7/00        20060101C I20051008RMEP', 'G01J   3/00        20060101CLI20051220RMJP']"
+  }
+}

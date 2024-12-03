@@ -1,0 +1,10 @@
+{
+  "patent_number": 59607,
+  "date": 19850828,
+  "ucid": "EP-0059607-B1",
+  "classifications": {
+    "main": "B22F   9/10",
+    "further": NaN,
+    "ipcr": "['B01J   2/04        20060101ALI20051220RMJP', 'B22F   9/10        20060101A I20051008RMEP', 'B01J   2/02        20060101AFI20051220RMJP', 'B22F   9/08        20060101C I20051008RMEP', 'B22F   9/06        20060101CLI20051220RMJP', 'B22F   9/06        20060101ALI20051220RMJP', 'B01J   2/02        20060101CFI20051220RMJP', 'B22F   9/08        20060101ALI20060101BMKR']"
+  }
+}

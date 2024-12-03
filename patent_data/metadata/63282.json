@@ -1,0 +1,10 @@
+{
+  "patent_number": 63282,
+  "date": 19821027,
+  "ucid": "EP-0063282-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01D   4/00        20060101C I20051008RMEP', 'G01D   4/08        20060101A I20051008RMEP', 'G01D   5/26        20060101C I20051008RMEP', 'G01D   5/36        20060101A I20051008RMEP', 'G01R  21/00        20060101A I20051008RMEP', 'G01R  21/00        20060101C I20051008RMEP', 'G08C  25/00        20060101AFI20051220RMJP', 'G08C  25/00        20060101CFI20051220RMJP']"
+  }
+}

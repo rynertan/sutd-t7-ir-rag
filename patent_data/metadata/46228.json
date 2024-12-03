@@ -1,0 +1,10 @@
+{
+  "patent_number": 46228,
+  "date": 19860402,
+  "ucid": "EP-0046228-B1",
+  "classifications": {
+    "main": "B60K  41/04",
+    "further": NaN,
+    "ipcr": "['F16H  63/40        20060101ALI20051220RMJP', 'F02D  35/00        20060101AFI20051220RMJP', 'F16H  59/30        20060101A I20051008RMEP', 'F16H  63/00        20060101CLI20051220RMJP', 'F02D  35/00        20060101CFI20051220RMJP', 'F16H  59/14        20060101C I20051008RMEP', 'F16H  59/32        20060101ALI20051220RMJP']"
+  }
+}

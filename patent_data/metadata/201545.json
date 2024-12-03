@@ -1,0 +1,10 @@
+{
+  "patent_number": 201545,
+  "date": 19861120,
+  "ucid": "EP-0201545-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['H04N   1/047       20060101C I20051008RMEP', 'H04N   1/053       20060101A I20051008RMEP', 'H04N   1/113       20060101AFI20051220RMJP', 'H04N   1/113       20060101CFI20051220RMJP', 'H04N   1/12        20060101A N20051008RMEP', 'H04N   1/12        20060101C N20051008RMEP', 'H04N   1/36        20060101ALI20051220RMJP', 'H04N   1/36        20060101CLI20051220RMJP']"
+  }
+}

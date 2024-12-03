@@ -1,0 +1,10 @@
+{
+  "patent_number": 136807,
+  "date": 19901212,
+  "ucid": "EP-0136807-B1",
+  "classifications": {
+    "main": "A61F   2/16",
+    "further": NaN,
+    "ipcr": "['A61F   2/16        20060101C I20051008RMEP', 'A61L   2/00        20060101CLI20051220RMJP', 'A61F   2/16        20060101A I20051008RMEP', 'A61L  27/00        20060101CFI20051220RMJP', 'A61L  27/00        20060101AFI20051220RMJP', 'A61L   2/00        20060101ALI20051220RMJP', 'A61F   2/14        20060101ALI20060101BMKR', 'A61F   2/14        20060101CLI20060101BMKR']"
+  }
+}

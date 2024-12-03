@@ -1,0 +1,10 @@
+{
+  "patent_number": 89935,
+  "date": 19830928,
+  "ucid": "EP-0089935-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['B65C   9/26        20060101C I20051008RMEP', 'B65C   9/36        20060101A I20051008RMEP', 'B65H   3/00        20060101C I20051008RMEP', 'B65H   3/36        20060101A I20051008RMEP', 'B65H   5/08        20060101C I20051008RMEP', 'B65H   5/10        20060101A I20051008RMEP', 'F16H  21/00        20060101C I20051008RMEP', 'F16H  21/10        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 100819,
+  "date": 19870729,
+  "ucid": "EP-0100819-A3",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G01B  21/02        20060101ALI20051220RMJP', 'G01B  21/02        20060101CLI20051220RMJP', 'G01D   5/26        20060101CFI20051220RMJP', 'G01D   5/36        20060101AFI20051220RMJP', 'G01P   3/42        20060101CLI20051220RMJP', 'G01P   3/486       20060101ALI20051220RMJP', 'H03M   1/00        20060101A I20051008RMEP', 'H03M   1/00        20060101C I20051008RMEP']"
+  }
+}

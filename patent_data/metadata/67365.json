@@ -1,0 +1,10 @@
+{
+  "patent_number": 67365,
+  "date": 19821222,
+  "ucid": "EP-0067365-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G06F   3/147       20060101AFI20051220RMJP', 'G06F   3/147       20060101CFI20051220RMJP', 'G09G   3/20        20060101ALI20051220RMJP', 'G09G   3/20        20060101CLI20051220RMJP', 'G09G   3/36        20060101A I20051008RMEP', 'G09G   3/36        20060101C I20051008RMEP', 'H04N   3/10        20060101C I20051008RMEP', 'H04N   3/12        20060101A I20051008RMEP']"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patent_number": 198136,
+  "date": 19861022,
+  "ucid": "EP-0198136-A2",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['G04G  15/00        20060101A I20051008RMEP', 'G04G  15/00        20060101C I20051008RMEP', 'G06K   7/10        20060101A I20051008RMEP', 'G06K   7/10        20060101C I20051008RMEP', 'G11B  27/00        20060101AFI20051220RMJP', 'G11B  27/00        20060101CFI20051220RMJP', 'G11B  31/00        20060101A I20051008RMEP', 'G11B  31/00        20060101C I20051008RMEP']"
+  }
+}

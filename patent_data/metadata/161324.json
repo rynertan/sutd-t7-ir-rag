@@ -1,0 +1,10 @@
+{
+  "patent_number": 161324,
+  "date": 19851121,
+  "ucid": "EP-0161324-A1",
+  "classifications": {
+    "main": NaN,
+    "further": NaN,
+    "ipcr": "['A61B   6/00        20060101A I20051008RMEP', 'A61B   6/00        20060101C I20051008RMEP', 'A61B   6/03        20060101A I20051008RMEP', 'A61B   6/03        20060101C I20051008RMEP', 'G01T   1/00        20060101C I20051008RMEP', 'G01T   1/29        20060101A I20051008RMEP', 'H05G   1/00        20060101C I20051008RMEP', 'H05G   1/26        20060101A I20051008RMEP']"
+  }
+}

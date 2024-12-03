@@ -1,0 +1,10 @@
+{
+  "patent_number": 123944,
+  "date": 19871223,
+  "ucid": "EP-0123944-B1",
+  "classifications": {
+    "main": "F16L  59/06",
+    "further": NaN,
+    "ipcr": "['F16L  59/16        20060101A I20051008RMEP', 'F16L  59/00        20060101C I20051008RMEP', 'F16L  59/06        20060101C I20051008RMEP', 'F16L  59/18        20060101A I20051008RMEP', 'F16L  59/065       20060101A I20051008RMEP']"
+  }
+}
