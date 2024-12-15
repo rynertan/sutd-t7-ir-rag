@@ -16,6 +16,7 @@ from tenacity import retry, wait_exponential, stop_after_attempt
 from collections import defaultdict
 import pandas as pd
 from llama_index.core.retrievers import VectorIndexRetriever
+import sys
 
 
 class PatentIndexBuilder:
@@ -505,8 +506,7 @@ class PatentIndexBuilder:
             self.logger.error(f"Error removing duplicate vectors: {str(e)}")
             raise
 
-
-def main():
+def main(query):
     try:
         builder = PatentIndexBuilder(
             data_dir="patent_data",
@@ -531,20 +531,36 @@ def main():
         )
 
         query_engine = index.as_query_engine(similarity_top_k=5)
-        response = query_engine.query("Household products for cleaning")
-
-        print("\nSearch Results:")
-        print("---------------")
-        print(response)
+        # response = query_engine.query("Lubricants for joints")
+        response = query_engine.query(query)
+        # response = query_engine.query("Combination locks")
+        
+        # print("\nSearch Results:")
+        # print("---------------")
+        # print(response)
+        ls = []
         for node in response.source_nodes:
-            print(f"\nPatent ID: {node.metadata['patent_id']}")
-            print(f"Score: {node.score:.4f}")
-            print(f"Chunk: {node.text}")
+            ls.append(node.metadata['patent_id'])
+            # print(f"\nPatent ID: {node.metadata['patent_id']}")
+            
+            # print(f"\nPatent ID: {node.metadata['patent_id']}")
+            # print(f"Score: {node.score:.4f}")
+            # print(f"Chunk: {node.text}")
 
     except Exception as e:
         logging.error(f"Error in main: {str(e)}")
         raise
+    # print(ls)
+    return ls # Return the list of patent IDs (top 5 most relevant)
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) < 2:
+        print("Usage: python llama_pinecone.py \"<query>\"")
+        sys.exit(1)
+
+    # Get the query from the command-line arguments
+    query = sys.argv[1]
+    
+    # Call the main function with the provided query
+    main(query)
